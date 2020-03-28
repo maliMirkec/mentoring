@@ -1,6 +1,6 @@
 # Mentoring Tips
 
-Mentoring tips for [The UI Development Mentoring program].
+Mentoring tips for [The UI Development Mentoring program](https://www.silvestar.codes/articles/the-ui-development-mentoring-program/).
 
 ## Inspirational
 
@@ -169,5 +169,3 @@ Mentoring tips for [The UI Development Mentoring program].
 - Exercise.
 - Drink water.
 - Socialize.
-
-[The UI Development Mentoring program]: (https://www.silvestar.codes/articles/the-ui-development-mentoring-program/)
