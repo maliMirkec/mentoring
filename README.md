@@ -104,6 +104,14 @@ Mentoring tips for [The UI Development Mentoring program](https://www.silvestar.
 
 ## Coding
 
+### Document the project
+
+- Documentation is part of the project.
+- Document the process.
+- Document the structure.
+- Document the usage.
+- Specify the audience.
+
 ### Organize the project
 
 - Make specification before coding.
@@ -112,13 +120,13 @@ Mentoring tips for [The UI Development Mentoring program](https://www.silvestar.
 - Agree on coding standard.
 - Define reusable components.
 
-### Document the project
+### Apply Best practices
 
-- Documentation is part of the project.
-- Document the process.
-- Document the structure.
-- Document the usage.
+- Don’t copy-paste.
+- Don’t get too attached to the code.
 - Comment the code.
+- Code with performance in mind.
+- Code with accessibility in mind.
 
 ### Test the project
 
@@ -127,14 +135,6 @@ Mentoring tips for [The UI Development Mentoring program](https://www.silvestar.
 - Assume worst-case scenarios.
 - Learn to debug.
 - Document the fix.
-
-### Apply Best practices
-
-- Don’t copy-paste.
-- Don’t get too attached to the code.
-- Comment the code.
-- Code with performance in mind.
-- Code with accessibility in mind.
 
 ## Other
 
