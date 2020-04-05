@@ -1,6 +1,7 @@
 # Tips and Resources
 
 [See mentoring tips](#mentoring-tips).
+
 [See resources](#resources).
 
 ## Mentoring Tips
