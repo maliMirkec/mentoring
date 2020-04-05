@@ -1,4 +1,7 @@
-# Tips and Resources for The UI Development Mentoring Program
+# Tips and Resources
+
+[See mentoring tips](#mentoring-tips).
+[See resources](#resources).
 
 ## Mentoring Tips
 
