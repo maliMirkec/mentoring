@@ -1,0 +1,12 @@
+{
+  "name": "ui-mentoring",
+  "version": "1.0.0",
+  "description": "Become a better UI developer today.",
+  "main": "index.js",
+  "repository": "git@github.com:maliMirkec/mentoring-tips.git",
+  "author": "Star Bist <malimirkeccita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
