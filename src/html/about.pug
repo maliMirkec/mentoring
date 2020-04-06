@@ -1,0 +1,9 @@
+extends /_layout/layout.pug
+
+block variables
+  - pageTitle = "Programs"
+  - pageDesc = "Programs"
+  - pageTagline = ["Programs"]
+
+block content
+  include:markdown-it(html) about.md

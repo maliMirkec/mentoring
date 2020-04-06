@@ -1,0 +1,9 @@
+extends /_layout/layout.pug
+
+block variables
+  - pageTitle = "Home"
+  - pageDesc = "Home"
+  - pageTagline = ["Home"]
+
+block content
+  include:markdown-it(html) index.md

@@ -1,0 +1,20 @@
+.profile.profile--alpha
+  .profile__image
+    .profile__avatar
+      +cldnry(siteAuthor.img, "Headshot of Silvestar Bistrović.", "https://res.cloudinary.com/starbist/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582948190/placeholder_nazwc1.jpg")
+      +cldnry(siteAuthor.logo, "Avatar of Silvestar Bistrović.", "https://res.cloudinary.com/starbist/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582948190/placeholder_nazwc1.jpg")
+  .profile__content
+    .profile__inner
+      h1.profile__title= siteAuthor.name
+      p.profile__tagline= siteAuthor.tagline
+      ul.profile__list.profile__list--alpha.profile__tags
+        each tag in siteAuthor.tags
+          li.profile__tag= tag
+      ul.profile__positions
+        each position in siteAuthor.positions
+          li.profile__position
+            h3.h4= position
+      ul.profile__list.profile__list--beta.profile__links
+        each link in siteAuthor.links
+          li.profile__link
+            a.profile__href(href=link.url)= link.text

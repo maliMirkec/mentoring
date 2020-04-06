@@ -1,0 +1,8 @@
+header.header
+  nav
+    ul
+      each val, index in nav
+        - var currentClass = val.title == pageTitle ? 'highlight' : ''
+        li(class=currentClass)
+          a(href=val.href)
+            span= val.title

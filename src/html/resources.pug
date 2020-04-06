@@ -1,0 +1,9 @@
+extends /_layout/layout.pug
+
+block variables
+  - pageTitle = "Resources"
+  - pageDesc = "Resources"
+  - pageTagline = ["Resources"]
+
+block content
+  include:markdown-it(html) index.md

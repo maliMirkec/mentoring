@@ -1,0 +1,18 @@
+include /_mixins/global.pug
+
+doctype
+html(lang="en")
+  include variables.pug
+  include /_partials/head.pug
+  body
+    include /_partials/header.pug
+    main.main
+      .content
+        include /_partials/hero.pug
+        block content
+        include /_partials/cta.pug
+    include /_partials/footer.pug
+    include /_assets/deferred-styles.pug
+    include /_assets/foft-font-loading.pug
+    include /_assets/scripts.pug
+

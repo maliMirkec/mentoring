@@ -7,6 +7,7 @@
   "author": "Star Bist <malimirkeccita@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "fontfaceobserver": "^2.1.0",
+    "starter-project": "^2.2.9-rc3"
   }
 }

@@ -1,0 +1,10 @@
+- var heroTitle = pageTitle ? pageTitle : siteName
+- var heroTagline = pageTagline ? pageTagline : siteTagline
+section
+  article.hero
+    h1 #{heroTitle}
+    if heroTagline
+      each tagline in heroTagline
+        p= tagline
+    if pageCTA
+      a.link(href="/apply.html")= pageCTA
