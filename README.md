@@ -1,8 +1,3 @@
----
-layout: layout.pug
-pageTitle: The UI Development Mentoring Program
----
-
 # Tips and Resources
 
 [See mentoring tips](#mentoring-tips).
