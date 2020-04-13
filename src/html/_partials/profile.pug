@@ -1,11 +1,10 @@
-.profile.profile--alpha
+.profile.wrapper.wrapper--beta
   .profile__image
     .profile__avatar
-      +cldnry(siteAuthor.img, "Headshot of Silvestar Bistrović.", "https://res.cloudinary.com/starbist/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582948190/placeholder_nazwc1.jpg")
-      +cldnry(siteAuthor.logo, "Avatar of Silvestar Bistrović.", "https://res.cloudinary.com/starbist/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1582948190/placeholder_nazwc1.jpg")
+      img(src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==", srcset="https://res.cloudinary.com/starbist/image/upload/w_220/"+siteAuthor.img+" 1x,https://res.cloudinary.com/starbist/image/upload/w_440/"+siteAuthor.img+" 2x,https://res.cloudinary.com/starbist/image/upload/w_660/"+siteAuthor.img+" 3x" alt="Headshot of Silvestar Bistrović.")
   .profile__content
     .profile__inner
-      h1.profile__title= siteAuthor.name
+      h2.h3.profile__title= siteAuthor.name
       p.profile__tagline= siteAuthor.tagline
       ul.profile__list.profile__list--alpha.profile__tags
         each tag in siteAuthor.tags
@@ -13,7 +12,7 @@
       ul.profile__positions
         each position in siteAuthor.positions
           li.profile__position
-            h3.h4= position
+            h3.h6= position
       ul.profile__list.profile__list--beta.profile__links
         each link in siteAuthor.links
           li.profile__link

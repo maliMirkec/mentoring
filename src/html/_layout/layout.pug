@@ -4,15 +4,14 @@ doctype
 html(lang="en")
   include variables.pug
   include /_partials/head.pug
-  body
+  body.wrapper.wrapper--omega
     include /_partials/header.pug
-    main.main
-      .content
-        include /_partials/hero.pug
-        block content
+    main.main#main
+      include /_partials/hero.pug
+      block content
+      if !formId
         include /_partials/cta.pug
     include /_partials/footer.pug
     include /_assets/deferred-styles.pug
-    include /_assets/foft-font-loading.pug
     include /_assets/scripts.pug
 

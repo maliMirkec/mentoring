@@ -1,7 +1,19 @@
 section
   article.intro
     h2 Tips
-    p Did you know that everyone started a junior?
-    p Sometimes a simple paragraph could be a trigger to get your started.
-    p
-      a(href="/resources.html") Get inspired
+    p The tips I gathered throughtout the years have two main purposes:
+    ul
+      li To inspire you, and
+      li To help you become a better UI developer.
+    p The tips are also available as #[a.href(href="/slides.html") slides].
+  .row
+    each tip, index in tips
+      if index < 2
+        .col
+          .card.wrapper.wrapper--beta
+            h3= tip.name
+            ul
+              each advice, index in tip.list
+                if index < 4
+                  li= advice.title
+            a.href(href="/tips.html") See all tips

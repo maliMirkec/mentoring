@@ -2,8 +2,9 @@ extends /_layout/layout.pug
 
 block variables
   - pageTitle = "Tips"
-  - pageDesc = "Tips"
-  - pageTagline = ["Tips"]
+  - pageDesc = "These tips should have two purposes: to inspire you and to help you become a better UI developer."
+  - pageTagline = ["These tips should have two purposes: to inspire you and to help you become a better UI developer.", "You might not remember all of these, but try to read it at least—you might find some the tips quite helpful."]
+  - noCta = true
 
 block content
-  include:markdown-it(html) index.md
+  include _partials/tips-all

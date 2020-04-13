@@ -4,6 +4,7 @@ const rename = require('gulp-rename');
 const path = require('path');
 const pug = global.config.html.pug ? require('gulp-pug') : () => true;
 const data = global.config.html.data ? require('gulp-data') : () => true;
+const yaml = global.config.html.data ? require('js-yaml') : () => true;
 const htmlmin = global.config.html.minify ? require('gulp-htmlmin') : () => true;
 const htmllint = global.config.html.lint ? require('gulp-htmllint') : () => true;
 const inlineSource = global.config.html.inline ? require('gulp-inline-source') : () => true;
@@ -19,7 +20,16 @@ let thisPugConfig = {};
 
 const siteConfigs = global.config.html.data ? [{
   name: 'site',
-  path: helpers.trim(`${helpers.proot()}/data/site.json`),
+  path: helpers.trim(`${helpers.proot()}/data/site.yml`),
+}, {
+  name: 'resources',
+  path: helpers.trim(`${helpers.proot()}/data/resources.yml`),
+}, {
+  name: 'daily',
+  path: helpers.trim(`${helpers.proot()}/data/daily.yml`),
+}, {
+  name: 'tips',
+  path: helpers.trim(`${helpers.proot()}/data/tips.yml`),
 }] : {};
 
 if (global.config.html.pug) {
@@ -50,14 +60,15 @@ const htmlSrc = global.config.html.pug
   ? [helpers.trim(`${helpers.source()}/${global.config.html.src}/**/*.${ext}`), helpers.trim(`!${helpers.source()}/${global.config.html.src}/_**/*.${ext}`), helpers.trim(`!${helpers.source()}/${global.config.html.src}/**/_**/*.${ext}`)]
   : helpers.trim(`${helpers.source()}/${global.config.html.src}/**/*.html`);
 
-// Will process Pug files
 function htmlStart() {
   return src(htmlSrc)
     .pipe(gulpif(global.config.html.data, data(() => {
       const temp = {};
 
       siteConfigs.forEach((siteConfig) => {
-        temp[siteConfig.name] = JSON.parse(fs.readFileSync(siteConfig.path));
+        temp[siteConfig.name] = yaml.safeLoad(fs.readFileSync(siteConfig.path), {
+          json: true
+        });
       });
 
       return temp;
@@ -65,7 +76,7 @@ function htmlStart() {
     .pipe(gulpif(global.config.html.pug, pug(thisPugConfig)))
     .pipe(gulpif(global.config.html.lint, htmllint(thisHtmllintConfig)))
     .pipe(gulpif(global.config.html.inline, inlineSource(thisInlineConfig)))
-    .pipe(gulpif(global.config.html.minify, htmlmin(htmlConfig.htmlminConfig)))
+    // .pipe(gulpif(global.config.html.minify, htmlmin(htmlConfig.htmlminConfig)))
     .pipe(rename(htmlConfig.renameConfig))
     .pipe(dest(helpers.trim(`${helpers.dist()}/${global.config.html.dist}`)))
     .pipe(gulpif(global.config.sync.run, global.bs.stream()));

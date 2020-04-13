@@ -51,6 +51,18 @@
   letter-spacing: tracking(#{strip-unit($tracking)});
 }
 
+/// Mixin for defining word spacing
+/// @access public
+/// @author Silvestar Bistrović <me@silvestar.codes>
+/// @example @include ws(100);
+/// @group 3.1.Helpers
+/// @name ws
+/// @since 1.0.0
+/// @param {Integer} $tracking [0] Tracking value without a unit (e.g. 200)
+@mixin ws($tracking: 0) {
+  word-spacing: tracking(#{strip-unit($tracking)});
+}
+
 /// Mixin for reseting padding and margin to zero
 /// @access public
 /// @author Silvestar Bistrović <me@silvestar.codes>
@@ -66,12 +78,13 @@
 /// Mixin for defining transition
 /// @access public
 /// @author Silvestar Bistrović <me@silvestar.codes>
-/// @example @include tra($trd, $tra);
+/// @example @include tra(all, $trd, $tra);
 /// @group 3.1.Helpers
 /// @name tra
 /// @since 1.0.0
+/// @param {Unit} $transition-property [all] A property to transition (e.g. all)
 /// @param {Unit} $transition-duration [$trd] A duration of the transition (e.g. 1s)
 /// @param {String} $transition-animation [$tra] An easing function of the transition (e.g. linear or cubic-bezier(0.04, 0.88, 0.74, 1.04))
-@mixin tra($transition-duration: $trd, $transition-animation: $tra) {
-  transition: all $transition-duration $transition-animation;
+@mixin tra($transition-property: all, $transition-duration: $trd, $transition-animation: $tra) {
+  transition: $transition-property $transition-duration $transition-animation;
 }

@@ -1,8 +1,10 @@
 header.header
   nav
+    a.skip(href="#main")
+      span Skip to content
     ul
       each val, index in nav
-        - var currentClass = val.title == pageTitle ? 'highlight' : ''
+        - var currentClass = val.title == pageTitle || val.title == navTitle ? 'highlight' : ''
         li(class=currentClass)
-          a(href=val.href)
+          a(href=val.href, class=val.class)
             span= val.title

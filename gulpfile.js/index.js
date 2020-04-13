@@ -108,7 +108,6 @@ exports.default = series(
   ),
 );
 
-
 // user warnings
 console.log(`IMPORTANT NOTICE!
 Since version 2.2.7, Starter Project is using updated Critical tasks and config.

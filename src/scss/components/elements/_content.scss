@@ -7,50 +7,35 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 a {
-  @include tra;
-  color: $color-delta;
-
-  &:visited {
-    color: $color-delta;
-  }
+  @include tra(color);
+  color: $color-alpha;
+  text-decoration: none;
 
   &:hover,
-  &:focus {
-    color: darken($color-delta, 15%);
-  }
-
+  &:focus,
   &:active {
-    color: darken($color-delta, 25%);
-  }
-}
+    outline-color: $color-gamma;
 
-ul {
-  border-left: 1px solid lighten($color-beta, 45%);
-  list-style: none;
-}
+    &[class] {
+      text-decoration: none;
+    }
 
-li {
-  ul &:before {
-    color: $color-delta;
-    content: '✔';
-    font-size: ms(-1);
-    margin-left: -3px;
-    margin-right: rem(10px);
-  }
-
-  a {
-    text-decoration: none;
+    &:not([class]) {
+      text-decoration: underline;
+    }
   }
 }
 
 blockquote {
-  background-color: lighten($color-alpha, 45%);
+  background-color: $color-delta;
   color: $color-text;
   margin: 0;
-  padding: rem(20px) rem(40px);
+  padding: rem(20) rem(40);
 
   p {
     margin: 0;
@@ -67,68 +52,113 @@ pre {
   overflow: auto;
 }
 
-// Code Block
-//
-// Code Blocks are usually used to display markup or code.
-//
-// Markup:
-// <pre>
-//   <code>font-size: rem(20px);</code>
-// </pre>
-//
-// Weight: 401
-//
-// Styleguide: Code
-code {
-  background-color: lighten($color-delta, 60%);
-
-  pre & {
-    display: inline-block;
-    min-width: calc(100% - 24px);
-    padding: rem(9px) rem(12px);
-  }
-}
-
-.main {
-  align-items: start;
-  display: grid;
+main {
   flex: 1 1 auto;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto 1fr;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: rem(960px);
-  padding-bottom: rem(30px);
-  padding-top: rem(30px);
-  width: 100%;
 
-  @include mq($from: mobile) {
-    grid-template-columns: 160px 1fr;
-    grid-template-rows: auto;
-  }
-
-  *:first-child {
-    margin-top: 0;
+  @include mq($until: desktop) {
+    text-align: center;
   }
 }
 
-.content {
-  min-width: calc(100% - #{rem(20px)});
-  padding: rem(10px);
-
-  @include mq($from: desktop) {
-    grid-column: 2 / 3;
+section {
+  &:first-child {
+    margin-top: rem(100);
   }
+
+  & + & {
+    &:before {
+      content: "❋ ❋ ❋";
+      margin-top: rem(60);
+      margin-bottom: rem(60);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: $color-delta;
+      font-size: ms(-3);
+      @include ws(500);
+    }
+  }
+
+  &:last-of-type {
+    margin-bottom: rem(100);
+  }
+
+  p {
+    margin: .5em 0;
+  }
+
+  ul {
+    &:not([class]) {
+      padding: 0;
+      list-style: none;
+      text-align: left;
+
+      li {
+        display: flex;
+        align-items: flex-start;
+        margin: .5em 0;
+
+        &:before {
+          content: "❋";
+          display: inline-block;
+          margin-right: .25em;
+          transform: scale(.6);
+        }
+      }
+    }
+  }
+}
+
+.table {
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-shadow: .25rem 0 1rem -0.5rem $color-delta inset, -.25rem 0 1rem -0.5rem $color-delta inset;
 }
 
 table {
-  border-collapse: collapse;
+  flex: 1 1 100%;
+  width: 100%;
+  max-width: calc(100% - 2px);
+  font-size: ms(-1);
+  text-align: left;
 
   th,
   td {
-    border: 1px solid lighten($color-alpha, 45%);
-    padding: rem(3px) rem(5px);
+    border: rem(1) solid $color-delta;
+    padding: rem(3) rem(5);
     vertical-align: top;
+    white-space: nowrap;
+  }
+
+  @include mq($until: mobile) {
+    tr,
+    th,
+    td {
+      display: block;
+      border-bottom: 0;
+    }
+  }
+}
+
+.iframe {
+  position: relative;
+  max-height: 0;
+  padding-bottom: 100%;
+  box-shadow: 0 0 0 rem(1) $color-delta;
+  background-color: $color-psi;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-height: calc(100% - #{rem(2px)});
+    max-width: calc(100% - #{rem(2px)});
+  }
+
+  @include mq($from: mobile) {
+    padding-bottom: 56.25%;
   }
 }
 
@@ -136,6 +166,99 @@ img {
   max-width: 100%;
 }
 
-a[href*="npmjs"] {
-  margin-right: rem(5px);
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  background-color: $color-beta;
+  color: $color-text;
+  padding: rem(10) rem(30);
+  box-shadow: 0 0 0 rem(1) $color-omega, 0 0 0 rem(3) $color-beta;
+  font-family: $font-beta, serif;
+  font-size: ms(-1);
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  left: rem(3);
+  margin-top: rem(30);
+  border-radius: rem(3);
+  @include ls(50);
+
+  &:after {
+    content: "⤑";
+    font-size: ms(0);
+    line-height: 1;
+    position: relative;
+    top: rem(-2);
+    margin-left: rem(10);
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    box-shadow: 0 0 0 rem(1) $color-omega, 0 0 0 rem(3) $color-text;
+  }
+}
+
+[class*="href"] {
+  display: inline-block;
+  padding: 0 rem(3);
+  position: relative;
+  left: rem(-3);
+  border: rem(1) dotted transparent;
+  border-radius: rem(3);
+  @include tra(transform);
+
+  &:after {
+    content: "⇢";
+    display: inline-block;
+    margin-left: rem(6);
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    border-color: currentColor;
+    transform: translateX(rem(3));
+  }
+}
+
+.daily {
+  font-size: ms(3);
+  font-weight: bold;
+  padding: rem(5) rem(15);
+  left: rem(-15);
+
+  &:hover,
+  &:focus,
+  &:active {
+    transform: translateX(rem(15));
+  }
+}
+
+.skip {
+  display: flex;
+  height: rem(1);
+  width: rem(1);
+  overflow: hidden;
+  clip: rect(rem(1) rem(1) rem(1) rem(1));
+  clip: rect(rem(1), rem(1), rem(1), rem(1));
+  clip-path: inset(rem(1));
+  white-space: nowrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  span {
+    padding: rem(5) rem(10);
+  }
+
+  &:focus {
+    background-color: $color-gamma;
+    color: $color-text;
+    clip: auto;
+    height: auto;
+    width: auto;
+    text-decoration: none;
+  }
 }

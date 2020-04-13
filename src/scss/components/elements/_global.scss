@@ -1,0 +1,49 @@
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrapper--omega {
+  max-width: rem(960);
+}
+
+.cta {
+  text-align: center;
+
+  [class^="h"] {
+    &:after {
+      content: none;
+    }
+  }
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: rem(40);
+
+  &:not(:first-child) {
+    margin-top: rem(30);
+  }
+}
+
+.col {
+  display: flex;
+  align-items: stretch;
+}
+
+@include mq($until: desktop) {
+  .wrapper--beta {
+    max-width: rem(440);
+  }
+}
+
+@include mq($from: desktop) {
+  .wrapper--alpha {
+    max-width: rem(600);
+  }
+
+  .row {
+    grid-template-columns: 1fr 1fr;
+  }
+}

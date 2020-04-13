@@ -17,12 +17,10 @@
 // Styleguide: Footer
 .sig {
   align-items: baseline;
-  background-image: linear-gradient(to right, transparentize($color-gamma, 0.85), transparentize($color-delta, 0.85));
-  color: $color-text;
   display: flex;
   justify-content: center;
   line-height: 1;
-  padding: rem(1px) rem(10px) rem(6px);
+  padding: rem(1) rem(10) rem(6);
 
   p {
     font-size: ms(-1);
@@ -31,17 +29,17 @@
 }
 
 .sig__link {
+  @include tra;
   align-items: baseline;
   display: inline-flex;
   text-decoration: none;
-  transition: all $trd $tra;
 }
 
 .sig__icon {
-  height: rem(20px);
-  margin-right: rem(2px);
-  transform: translateY(rem(4px));
+  @include tra;
+  height: rem(20);
+  margin-right: rem(2);
+  transform: translateY(rem(4));
   transform-origin: center;
-  transition: all $trd $tra forwards;
-  width: rem(20px);
+  width: rem(20);
 }

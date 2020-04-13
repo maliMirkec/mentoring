@@ -1,0 +1,49 @@
+siteName: The UI Development Mentoring Program
+siteDescription: Become better UI Developer today.
+siteAuthor:
+  name: Silvestar Bistrović
+  about:
+    - I am Silvestar Bistrović. I have been working with web technologies since 2012.
+    - My primary skills are HTML, CSS, and JavaScript. I enjoy creating pixel-perfect, responsive, and modern websites.
+    - I started this program to help you become a better UI developer.
+  tagline: Developing websites since 2012.
+  tags:
+    - Frontend
+    - User Interface
+    - HTML
+    - CSS
+    - JavaScript
+    - JAMstack
+    - WordPress
+  positions:
+    - Fearless web engineer
+    - CSS developer
+    - JAMstack enthusiast
+    - WordPress theme specialist
+  links:
+    - text: Portfolio
+      url: https://www.silvestar.codes/portfolio/
+    - text: About
+      url: https://www.silvestar.codes/about/
+    - text: Contact
+      url: https://www.silvestar.codes/contact/
+  img: v1576584439/profile-2019-512_imrzze.jpg
+siteTagline:
+  - Do you want to start a career in web industry?
+  - Do you want to learn how to build websites?
+  - Do you want to improve your UI skills?
+  - Become a better UI developer today.
+nav:
+  - title: Home
+    href: "/"
+  - title: Programs
+    href: "/about.html"
+  - title: Resources
+    href: "/resources.html"
+  - title: Daily reads
+    href: "/daily.html"
+  - title: Tips
+    href: "/tips.html"
+  - title: Apply
+    href: "/apply.html"
+    class: apply

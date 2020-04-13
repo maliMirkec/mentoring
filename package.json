@@ -7,7 +7,7 @@
   "author": "Star Bist <malimirkeccita@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fontfaceobserver": "^2.1.0",
-    "starter-project": "^2.2.9-rc3"
+    "js-yaml": "^3.13.1",
+    "starter-project": "^2.2.9-rc4"
   }
 }

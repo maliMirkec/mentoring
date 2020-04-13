@@ -6,5 +6,5 @@ section
     if heroTagline
       each tagline in heroTagline
         p= tagline
-    if pageCTA
-      a.link(href="/apply.html")= pageCTA
+    if !formId && !noCta
+      a.link(href="/apply.html") Join the program

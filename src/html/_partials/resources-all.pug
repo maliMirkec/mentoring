@@ -1,0 +1,15 @@
+each resource in resources
+  section
+    article.intro
+      h2= resource.name
+    .table
+      table
+        tbody
+          each item in resource.list
+            each href, index in item.resources
+              tr
+                if index === 0
+                  td(rowspan=item.resources.length)
+                    b= item.name
+                td
+                  a(href=href, target="_blank", rel="noopener")= href

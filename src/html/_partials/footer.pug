@@ -4,7 +4,7 @@ footer.footer
       each val, index in nav
         - var currentClass = val.title == pageTitle ? 'highlight' : ''
         li(class=currentClass)
-          a(href=val.href)
+          a(href=val.href, class=val.class)
             span= val.title
   p.copy &copy; Silvestar Bistrović, #{year}
 .sig
