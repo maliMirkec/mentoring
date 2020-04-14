@@ -6,6 +6,9 @@
   "repository": "git@github.com:maliMirkec/mentoring-tips.git",
   "author": "Star Bist <malimirkeccita@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "gulp build"
+  },
   "dependencies": {
     "js-yaml": "^3.13.1",
     "starter-project": "^2.2.9-rc4"
