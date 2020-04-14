@@ -5,11 +5,13 @@ section
     h2 Latest read
     p
       a.daily.href(href=dailySorted[0].link, target="_blank", rel="noopener")= dailySorted[0].title || dailySorted[0].link
-section
-  article.intro
-    h2 Previous reads
-    ul
-      each resource, index in dailySorted
-        if index > 0
-          li
-            a.href(href=resource.link, target="_blank", rel="noopener")= resource.title || resource.link
+
+if dailySorted.length > 1
+  section
+    article.intro
+      h2 Previous reads
+      ul
+        each resource, index in dailySorted
+          if index > 0
+            li
+              a.href(href=resource.link, target="_blank", rel="noopener")= resource.title || resource.link

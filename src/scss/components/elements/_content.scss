@@ -98,6 +98,14 @@ section {
         align-items: flex-start;
         margin: .5em 0;
 
+        &.aib {
+          align-items: baseline;
+
+          span {
+            margin-right: rem(3);
+          }
+        }
+
         &:before {
           content: "❋";
           display: inline-block;
