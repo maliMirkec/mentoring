@@ -1,5 +1,6 @@
 siteName: The UI Development Mentoring Program
 siteDescription: Become a better UI Developer today.
+siteUrl: https://mentor.silvestar.codes
 siteAuthor:
   name: Silvestar Bistrović
   about:
@@ -33,6 +34,8 @@ siteTagline:
   - Do you want to learn how to build websites?
   - Do you want to improve your UI skills?
   - Become a better UI developer today.
+siteImage: https://res.cloudinary.com/starbist/image/upload/w_1024,q_auto/v1586879053/cover-2x_a6jqaz.jpg
+twitterHandle: malimirkeccita
 nav:
   - title: Home
     href: "/"

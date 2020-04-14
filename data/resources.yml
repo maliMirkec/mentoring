@@ -137,25 +137,25 @@
         - https://twig.symfony.com/
     - name: Markdown
       resources:
-        - https://www.toptal.com/web/m arkdown-the-writing-tool-for-software-developers
+        - https://www.toptal.com/web/markdown-the-writing-tool-for-software-developers
     - name: Optimization (minify, uglify, compress)
       resources:
-        - https://stackoverflow.com/questions/19694448/w hats-the-difference-between-concat-and-uglify-and-minify
+        - https://stackoverflow.com/questions/19694448/whats-the-difference-between-concat-and-uglify-and-minify
     - name: Critical CSS
       resources:
         - https://www.smashingmagazine.com/2015/08/understanding-critical-css/
         - https://www.sitelocity.com/critical-path-css-generator
     - name: CSS Specificity
       resources:
-        - https://www.smashingmagazine.com/2007/07/c ss-specificity-things-you-should-know/
+        - https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/
         - https://isellsoap.github.io/specificity-visualizer/
     - name: APIs
       resources:
-        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/C lient-side_web_APIs/Introduction
+        - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
         - https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
     - name: Cross-browser compatibility
       resources:
-        - https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/C ross_browser_testing/Introduction
+        - https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction
         - http://blogs.quovantis.com/browser-specific-hacks-for-frontend-developers/
         - https://caniuse.com/
     - name: Frontend checklist
@@ -175,7 +175,7 @@
         - https://www.drlinkcheck.com/
     - name: Style guide
       resources:
-        - https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d /
+        - https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d/
     - name: Accessibility
       resources:
         - https://a11yproject.com/
