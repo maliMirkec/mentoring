@@ -1,0 +1,7 @@
+each tip, index in tips
+  section
+    article.intro
+      h2= tip.name
+      each slide, index in tip.slides
+        .iframe
+          iframe(src=slide, width="960", height="700", scrolling="no", frameborder="0", webkitallowfullscreen="true", mozallowfullscreen="true", allowfullscreen="true")

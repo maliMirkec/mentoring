@@ -1,0 +1,25 @@
+section
+  article.intro
+    h2 Resources
+    p The resources I gathered during my career should help you with learning and getting your first job.
+    p You could also find daily links that I find interesting and worth sharing.
+  .row
+    .col
+      .card.wrapper.wrapper--beta
+        h3 Resources
+        ul
+          each resource, index in resources
+            if index < 4
+              li= resource.name
+        a.href(href="/resources.html") See all resources
+    .col
+      .card.wrapper.wrapper--beta
+        h3 Daily reads
+        ul
+          - var j = 0;
+          each resource, index in daily
+            if j < 4 && resource.title
+              li
+                a(href=resource.link, target="_blank", rel="noopener")= resource.title
+              - j++;
+        a.href(href="/daily.html") See all daily reads

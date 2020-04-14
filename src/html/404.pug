@@ -1,0 +1,9 @@
+extends ./_layout/layout.pug
+
+block variables
+  - pageTitle = "Content Not Found"
+  - pageDesc = "Content Not Found"
+  - pageTagline = ["Content Not Found"]
+
+block content
+  include:markdown-it(html) 404.md

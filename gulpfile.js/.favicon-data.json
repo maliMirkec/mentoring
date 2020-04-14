@@ -1,0 +1,71 @@
+{
+  "masterPicture": "helpers.source/config.gfx.src/svg/logo-favicon.svg",
+  "temp": "helpers.source/src/favicon/",
+  "dest": "helpers.dist/favicon/",
+  "iconsPath": "/favicon/",
+  "markupFile": "helpers.proot/gulpfile.js/.favicon-data-generated.json",
+  "design": {
+    "ios": {
+      "pictureAspect": "backgroundAndMargin",
+      "themeColor": "#FF3366",
+      "margin": "42%",
+      "assets": {
+        "ios6AndPriorIcons": true,
+        "ios7AndLaterIcons": true,
+        "precomposedIcons": true,
+        "declareOnlyDefaultIcon": true
+      },
+      "appName": "The UI Development Mentoring Program"
+    },
+    "desktopBrowser": {},
+    "windows": {
+      "pictureAspect": "noChange",
+      "themeColor": "#FF3366",
+      "onConflict": "override",
+      "assets": {
+        "windows80Ie10Tile": true,
+        "windows10Ie11EdgeTiles": {
+          "small": true,
+          "medium": true,
+          "big": true,
+          "rectangle": true
+        }
+      },
+      "appName": "The UI Development Mentoring Program"
+    },
+    "androidChrome": {
+      "pictureAspect": "noChange",
+      "themeColor": "#FF3366",
+      "manifest": {
+        "name": "The UI Development Mentoring Program",
+        "orientation": "notSet",
+        "onConflict": "override",
+        "declared": true,
+        "start_url": "/offline.html",
+        "display": "standalone",
+        "themeColor": "#FF3366"
+      },
+      "assets": {
+        "legacyIcon": false,
+        "lowResolutionIcons": true
+      }
+    },
+    "safariPinnedTab": {
+      "pictureAspect": "blackAndWhite",
+      "threshold": 93.28125,
+      "themeColor": "#FF3366"
+    }
+  },
+  "settings": {
+    "compression": 2,
+    "scalingAlgorithm": "Mitchell",
+    "errorOnImageTooSmall": false,
+    "readmeFile": false,
+    "htmlCodeFile": false,
+    "usePathAsIs": false
+  },
+  "versioning": {
+    "paramName": "v",
+    "paramValue": "starbist"
+  }
+}

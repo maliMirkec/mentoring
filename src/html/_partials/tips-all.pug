@@ -1,0 +1,25 @@
+section
+  article.intro
+    //- p Tips are available as a series of blog posts here:
+    //- ul
+    //-   li Post 1
+    //-   li Post 2
+    //-   li Post 3
+    //-   li Post 4
+    p Tips are also available as #[a.href(href="/slides.html") slides].
+each tip, index in tips
+  section
+    article.intro
+      h2= tip.name
+      p I have collected a large number of #{tip.name} advices which could be summarized or organized as:
+      ul
+        each advice, index in tip.list
+          li= advice.title
+    .row
+      each advice, index in tip.list
+        .col
+          .card.wrapper.wrapper--beta
+            h4= advice.title
+            ul
+              each item in advice.tips
+                li= item

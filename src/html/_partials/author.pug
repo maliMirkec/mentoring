@@ -1,0 +1,7 @@
+section.wrapper.wrapper--alpha
+  article.author
+    h2= "Your Mentor"
+    if siteAuthor.about
+      each val, index in siteAuthor.about
+        p= val
+    include profile.pug
