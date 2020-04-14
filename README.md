@@ -6,7 +6,9 @@
 
 ## Mentoring Tips
 
-Mentoring tips for [The UI Development Mentoring program](https://www.silvestar.codes/articles/the-ui-development-mentoring-program/).
+Mentoring tips for [The UI Development Mentoring program](https://mentor.silvestar.codes/).
+
+See up-to-date tips on the official site: [https://mentor.silvestar.codes/tips/](https://mentor.silvestar.codes/tips/)
 
 ### Inspirational
 
@@ -142,7 +144,9 @@ Mentoring tips for [The UI Development Mentoring program](https://www.silvestar.
 
 ## Resources
 
-Hand-picked and curated resources for [The UI Development Mentoring program](https://www.silvestar.codes/articles/the-ui-development-mentoring-program/).
+Hand-picked and curated resources for [The UI Development Mentoring program](https://mentor.silvestar.codes/).
+
+See up-to-date resources on the official site: [https://mentor.silvestar.codes/tips/](https://mentor.silvestar.codes/tips/)
 
 ### Basic level
 
