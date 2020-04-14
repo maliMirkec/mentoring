@@ -1,10 +1,15 @@
-- link: https://docs.google.com/spreadsheets/d/1Cdw53cWfaovg1hPN4wZdzHYaaIWJSgt3GZkh7rNjfb4/edit?usp=sharing
-- link: https://github.com/AllThingsSmitty
+- link: https://github.com/AllThingsSmitty/must-watch-javascript
+  title: Must watch JavaScript by AllThingsSmitty
+- link: https://github.com/AllThingsSmitty/must-watch-css
+  title: Must watch CSS by AllThingsSmitty
+- link: https://github.com/AllThingsSmitty/css-protips
+  title: CSS Protips by AllThingsSmitty
 - link: https://www.utsavahuja.com/9-software-engineering-offers/
   title: My journey to 9 software engineering offers
 - link: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/
   title: Little Things I Like to Do with Git
 - link: https://stackshare.io/posts/top-developer-tools-2019
+  title: The Top 100+ Developer Tools 2019
 - link: https://dev.to/leogopal/4-simple-tips-to-better-communication-for-devs-or-how-to-avoid-conflict-confusion-and-talk-to-people-1g85
   title: 4 Simple Tips to Better Communication for devs. (or how to avoid conflict, confusion, and talk to people).
   title: Fit on a Floppy
@@ -27,6 +32,7 @@
 - link: https://gitexplorer.com/
   title: GitExplorer
 - link: https://ohshitgit.com/
+  title: Oh Shit, Git!?!
 - link: https://www.freecodecamp.org/news/how-to-get-your-first-job-in-tech/
   title: How to get your first job as a self-taught developer
 - link: https://dev.to/b4two/i-got-a-new-job-3afc
@@ -50,6 +56,7 @@
 - link: https://css-tricks.com/why-is-css-frustrating/
   title: Why is CSS Frustrating? | CSS-Tricks
 - link: https://hugogiraudel.github.io/selectors-explained/
+  title: Selectors Explained
 - link: https://learndigital.withgoogle.com/digitalgarage
   title: Learn online marketing with free courses
 - link: https://www.madebymike.com.au/writing/how-to-git/
@@ -57,6 +64,7 @@
 - link: https://dev.to/pachicodes/how-tech-twitter-helped-me-get-my-first-dev-job-4ll7
   title: How Tech Twitter helped me get my first DEV job
 - link: https://popper.js.org/
+  title: Tooltip & popover positioning engine
 - link: https://grid.layoutit.com/
   title: CSS Grid generator
 - link: https://alligator.io/css/css-units-explained/
@@ -70,6 +78,7 @@
 - link: https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/
   title: CSS Can Do This... And It's Terrifying! | LINQ to Fail
 - link: https://brumm.af/shadows
+  title: Make a smooth shadow, friend
 - link: https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab
   title: Color Tools For Designers 2019
 - link: https://roadmap.sh/frontend

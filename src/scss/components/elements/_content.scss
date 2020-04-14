@@ -62,14 +62,14 @@ main {
 
 section {
   &:first-child {
-    margin-top: rem(100);
+    padding-top: rem(100);
   }
 
   & + & {
     &:before {
       content: "❋ ❋ ❋";
-      margin-top: rem(60);
-      margin-bottom: rem(60);
+      padding-top: rem(60);
+      padding-bottom: rem(60);
       display: flex;
       align-items: center;
       justify-content: center;

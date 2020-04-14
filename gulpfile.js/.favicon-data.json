@@ -1,65 +1,71 @@
 {
-  "masterPicture": "helpers.source/gfx/svg/starter-project.svg",
-  "temp": "helpers.source/favicons/",
-  "dest": "helpers.dist/favicons/",
-  "iconsPath": "/favicons/",
+  "masterPicture": "helpers.source/config.gfx.src/svg/logo-favicon.svg",
+  "temp": "helpers.source/src/favicon/",
+  "dest": "helpers.dist/favicon/",
+  "iconsPath": "/favicon/",
   "markupFile": "helpers.proot/gulpfile.js/.favicon-data-generated.json",
   "design": {
     "ios": {
       "pictureAspect": "backgroundAndMargin",
-      "backgroundColor": "#ffffff",
-      "margin": "14%",
+      "themeColor": "#FF3366",
+      "margin": "42%",
       "assets": {
-        "ios6AndPriorIcons": false,
-        "ios7AndLaterIcons": false,
-        "precomposedIcons": false,
+        "ios6AndPriorIcons": true,
+        "ios7AndLaterIcons": true,
+        "precomposedIcons": true,
         "declareOnlyDefaultIcon": true
       },
-      "appName": "Starter Project"
+      "appName": "The UI Development Mentoring Program"
     },
     "desktopBrowser": {},
     "windows": {
       "pictureAspect": "noChange",
-      "backgroundColor": "#1ed9d9",
+      "themeColor": "#FF3366",
       "onConflict": "override",
       "assets": {
-        "windows80Ie10Tile": false,
+        "windows80Ie10Tile": true,
         "windows10Ie11EdgeTiles": {
-          "small": false,
+          "small": true,
           "medium": true,
-          "big": false,
-          "rectangle": false
+          "big": true,
+          "rectangle": true
         }
       },
-      "appName": "Starter Project"
+      "appName": "The UI Development Mentoring Program"
     },
     "androidChrome": {
-      "pictureAspect": "shadow",
-      "themeColor": "#1ed9d9",
+      "pictureAspect": "noChange",
+      "themeColor": "#FF3366",
       "manifest": {
-        "name": "Starter Project",
-        "display": "standalone",
+        "name": "The UI Development Mentoring Program",
         "orientation": "notSet",
         "onConflict": "override",
-        "declared": true
+        "declared": true,
+        "start_url": "/offline.html",
+        "display": "standalone",
+        "themeColor": "#FF3366"
       },
       "assets": {
         "legacyIcon": false,
-        "lowResolutionIcons": false
+        "lowResolutionIcons": true
       }
     },
     "safariPinnedTab": {
       "pictureAspect": "blackAndWhite",
-      "threshold": 35.3125,
-      "themeColor": "#d91a79"
+      "threshold": 93.28125,
+      "themeColor": "#FF3366"
     }
   },
   "settings": {
-    "compression": 5,
-    "scalingAlgorithm": "Cubic",
+    "compression": 2,
+    "scalingAlgorithm": "Mitchell",
     "errorOnImageTooSmall": false,
-    "readmeFile": true,
-    "htmlCodeFile": true,
+    "readmeFile": false,
+    "htmlCodeFile": false,
     "usePathAsIs": false
+  },
+  "versioning": {
+    "paramName": "v",
+    "paramValue": "starbist"
   }
 }

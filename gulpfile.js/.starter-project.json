@@ -50,15 +50,15 @@
     "run": true
   },
   "kss": {
-    "run": true,
+    "run": false,
     "dist": "docs/styleguide"
   },
   "sassdoc": {
-    "run": true,
+    "run": false,
     "dist": "docs/sass"
   },
   "jsdoc": {
-    "run": true,
+    "run": false,
     "dist": "docs/js"
   },
   "bump": {

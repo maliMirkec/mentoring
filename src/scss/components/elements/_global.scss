@@ -10,7 +10,7 @@
 .cta {
   text-align: center;
 
-  [class^="h"] {
+  p[class^="h"] {
     &:after {
       content: none;
     }

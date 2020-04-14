@@ -9,3 +9,10 @@ block variables
 - var tips = locals.tips ? locals.tips : []
 - var date = new Date()
 - var year = date.getFullYear()
+
+- function formatNumber(num)
+  - return num < 10 ? '0' + num : num;
+
+- function formatDate(date)
+  - var d = new Date(date);
+  - return d.getFullYear() + '-' + formatNumber(d.getMonth() + 1) + '-' + formatNumber(d.getDate());
