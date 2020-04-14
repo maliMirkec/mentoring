@@ -361,6 +361,7 @@ Hand-picked and curated resources for [The UI Development Mentoring program](htt
 | | http://youmightnotneedjs.com/ |
 | | https://jsonld.com/website/ |
 | | https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab |
+| | https://theia-ide.org/ |
 | Interview questions | https://www.toptal.com/html5/interview-questions |
 | | https://www.toptal.com/css/interview-questions |
 | | https://www.toptal.com/javascript/interview-questions |
