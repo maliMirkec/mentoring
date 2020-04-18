@@ -25,8 +25,8 @@ const siteConfigs = global.config.html.data ? [{
   name: 'resources',
   path: helpers.trim(`${helpers.proot()}/data/resources.yml`),
 }, {
-  name: 'daily',
-  path: helpers.trim(`${helpers.proot()}/data/daily.yml`),
+  name: 'reads',
+  path: helpers.trim(`${helpers.proot()}/data/reads.yml`),
 }, {
   name: 'tips',
   path: helpers.trim(`${helpers.proot()}/data/tips.yml`),

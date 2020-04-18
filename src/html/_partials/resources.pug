@@ -2,7 +2,7 @@ section
   article.intro
     h2 Resources
     p The resources I gathered during my career should help you with learning and getting your first job.
-    p You could also find daily links that I find interesting and worth sharing.
+    p You could also find links that I find interesting and worth reading.
   .row
     .col
       .card.wrapper.wrapper--beta
@@ -14,12 +14,12 @@ section
         a.href(href="/resources.html") See all resources
     .col
       .card.wrapper.wrapper--beta
-        h3 Daily reads
+        h3 Interesting reads
         ul
           - var j = 0;
-          each resource, index in daily
-            if j < 4 && resource.title
-              li
-                a(href=resource.link, target="_blank", rel="noopener")= resource.title
-              - j++;
-        a.href(href="/daily.html") See all daily reads
+          each read in reads
+            each resource in read.list
+              if j++ < 4 && resource.title
+                li
+                  a(href=resource.link, target="_blank", rel="noopener")= resource.title
+        a.href(href="/reads.html") See all interesting reads
