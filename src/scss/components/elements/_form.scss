@@ -32,6 +32,10 @@
     cursor: pointer;
   }
 
+  .cta + label {
+    margin-top: rem(40);
+  }
+
   input:not([type="checkbox"]):not([type="radio"]) {
     min-height: rem(50);
   }
