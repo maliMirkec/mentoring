@@ -5,9 +5,7 @@ if readsSorted.length
     - var readClass = index === 0 ? "intro" : "intro intro--alpha";
     section
       article(class=readClass)
-        h2
-          span Reading list
-          span= "#" + (index + 1)
+        h2 Reading list #!{index + 1}
         ul
           each resource in read.list
             li
