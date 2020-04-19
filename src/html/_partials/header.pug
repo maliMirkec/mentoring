@@ -4,7 +4,7 @@ header.header
       span Skip to content
     ul
       each val, index in nav
-        - var currentClass = val.title == pageTitle || val.title == navTitle ? 'highlight' : ''
+        - var currentClass = val.title == pageTitle || val.title == navTitle ? 'highlight' : '';
         li(class=currentClass)
           a(href=val.href, class=val.class)
             span= val.title

@@ -365,16 +365,3 @@ img {
   overflow: hidden;
   box-shadow: 0 0 0 calc(0.33333 * 1rem) #C2FAE8;
 }
-
-.profile__content {
-  background-color: #fafafa;
-  padding: calc(0.55556 * 1rem) calc(1.11111 * 1rem);
-  border-radius: 0 0 calc(0.33333 * 1rem) calc(0.33333 * 1rem);
-  box-shadow: 0 calc(0.33333 * 1rem) 0 0 #C2FAE8;
-}
-
-@media (min-width: 60em) {
-  .profile__content {
-    padding: calc(0.55556 * 1rem) calc(1.66667 * 1rem) calc(1.66667 * 1rem);
-  }
-}

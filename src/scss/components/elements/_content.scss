@@ -155,6 +155,10 @@ table {
   box-shadow: 0 0 0 rem(1) $color-delta;
   background-color: $color-psi;
 
+  & + & {
+    margin-top: 4em;
+  }
+
   iframe {
     position: absolute;
     top: 0;

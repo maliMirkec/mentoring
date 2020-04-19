@@ -254,6 +254,30 @@
 [v-cloak] {
   position: relative;
 
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  input,
+  textarea {
+    margin-bottom: rem(20);
+  }
+
+  .kw-radio-group {
+    display: flex;
+    flex-direction: column;
+    min-width: rem(74);
+
+    input {
+      display: block;
+      margin-top: rem(12);
+      margin-bottom: rem(9);
+    }
+
+    margin-bottom: rem(20);
+  }
+
   &:after {
     content: "Waiting.";
     position: absolute;
