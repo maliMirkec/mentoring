@@ -10,7 +10,6 @@
     "build": "gulp build"
   },
   "dependencies": {
-    "@netlify/plugin-sitemap": "^0.2.1",
     "js-yaml": "^3.13.1",
     "starter-project": "^2.2.9-rc4"
   }
