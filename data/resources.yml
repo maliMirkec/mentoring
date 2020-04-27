@@ -269,6 +269,7 @@
       resources:
         - https://www.100daysofcode.com/
         - https://codepen.io/challenges/
+        - https://css-tricks.com/front-end-challenges/
     - name: Courses
       resources:
         - https://hackademy.pro/home

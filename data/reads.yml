@@ -1,3 +1,55 @@
+- date: "2020-04-27"
+  list:
+    - link: https://css-tricks.com/property/
+      title: "CSS @Property"
+      desc: Define your own CSS property with a brand new @property.
+    - link: https://css-tricks.com/chrome-system-fonts-snafu/
+      title: Chrome + System Fonts Snafu
+      desc: Chrome developers are aware that the browser renders the system font incorrectly, but don't plan to fix the bug until mid-May.
+    - link: https://pineco.de/using-the-line-breaking-element/
+      title: Using the Line Breaking Element
+      desc: Adam Laki shares his thoughts on using the <br> elemens.
+    - link: https://css-tricks.com/when-debugging-your-attitude-matters/
+      title: When debugging, your attitude matters
+      desc: Julia Evans and Chris Coyier agree that being positive could get you a long way, even when debugging.
+    - link: https://ishadeed.com/article/new-facebook-css/
+      title: CSS Findings From The New Facebook Design
+      desc: Ahmad Shadeed breaks down the new Facebook designs and finds many interesting CSS things.
+    - link: https://dev.to/raddevon/remote-work-tips-for-developers-99o
+      title: Remote Work Tips for Developers
+      desc: Devon Campbell shares tips about working remotely.
+    - link: https://twitter.com/bdc/status/1249597086007345157
+      title: The title "frontend developer" is obsolete
+      desc: Another discussion about “frontend developer” title.
+    - link: https://css-doodle.com/
+      title: <css-doodle />
+      desc: A web component for drawing patterns with CSS.
+- date: "2020-04-20"
+  list:
+    - link: https://github.com/AllThingsSmitty/must-watch-javascript
+      title: Must watch JavaScript by AllThingsSmitty
+      desc: Matt Smith's collection of well-received talks about JavaScript.
+    - link: https://github.com/AllThingsSmitty/must-watch-css
+      title: Must watch CSS by AllThingsSmitty
+      desc: Matt Smith's collection of well-received talks about CSS.
+    - link: https://github.com/AllThingsSmitty/css-protips
+      title: CSS Protips by AllThingsSmitty
+      desc: Matt Smith's collection of tips to help take your CSS skills pro.
+    - link: https://www.utsavahuja.com/9-software-engineering-offers/
+      title: My journey to 9 software engineering offers
+      desc: Utsav Ahuja shares his learnings and advices on software engineering offers.
+    - link: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/
+      title: Little Things I Like to Do with Git
+      desc: Harry Roberts shares his Git tips and tricks.
+    - link: https://stackshare.io/posts/top-developer-tools-2019
+      title: The Top 100+ Developer Tools 2019
+      desc: A single place with more than 100 tools and apps for developers.
+    - link: https://dev.to/leogopal/4-simple-tips-to-better-communication-for-devs-or-how-to-avoid-conflict-confusion-and-talk-to-people-1g85
+      title: 4 Simple Tips to Better Communication for devs (or how to avoid conflict, confusion, and talk to people).
+      desc: Leo Gopal shares some useful insights and thoughts about communication skills.
+    - link: https://fitonafloppy.website/
+      title: Fit on a Floppy
+      desc: Could you fit your website on a floppy disc?
 # - date: 2020-04-27
 #   list:
 #     - link: https://codingcoach.io/blog/leveling-up-your-javascript-skills/
@@ -14,24 +66,6 @@
 #       title: Frontend Mentor
 #     - link: https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 #       title: A Complete Guide to Links and Buttons
-- date: 2020-04-20
-  list:
-    - link: https://github.com/AllThingsSmitty/must-watch-javascript
-      title: Must watch JavaScript by AllThingsSmitty
-    - link: https://github.com/AllThingsSmitty/must-watch-css
-      title: Must watch CSS by AllThingsSmitty
-    - link: https://github.com/AllThingsSmitty/css-protips
-      title: CSS Protips by AllThingsSmitty
-    - link: https://www.utsavahuja.com/9-software-engineering-offers/
-      title: My journey to 9 software engineering offers
-    - link: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/
-      title: Little Things I Like to Do with Git
-    - link: https://stackshare.io/posts/top-developer-tools-2019
-      title: The Top 100+ Developer Tools 2019
-    - link: https://dev.to/leogopal/4-simple-tips-to-better-communication-for-devs-or-how-to-avoid-conflict-confusion-and-talk-to-people-1g85
-      title: 4 Simple Tips to Better Communication for devs (or how to avoid conflict, confusion, and talk to people).
-    - link: https://fitonafloppy.website/
-      title: Fit on a Floppy
 # - link: https://neumorphism.io/#55b9f3
 #   title: Neumorphism/Soft UI CSS shadow generator
 # - link: https://gitexplorer.com/
