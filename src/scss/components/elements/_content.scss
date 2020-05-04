@@ -239,10 +239,11 @@ img {
 }
 
 .target {
+  color: inherit;
   position: relative;
 
   span {
-    &:last-of-type {
+    &:last-of-type:not(:only-child) {
       font-family: $font-alpha;
       margin-left: .33em;
       text-transform: none;

@@ -68,14 +68,18 @@
     - name: jQuery basics
       resources:
         - http://jqfundamentals.com/
-    - name: Bootstrap basics
+    - name: JavaScript techniques
       resources:
-        - https://www.w3schools.com/bootstrap/bootstrap_ver.asp
-        - https://getbootstrap.com/docs/4.0/getting-started/introduction/
+        - https://htmldom.dev/
+        - https://1loc.dev/
     - name: ES6 basics
       resources:
         - https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be?gi=9762451c6d60
         - https://es6.io/
+    - name: Bootstrap basics
+      resources:
+        - https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+        - https://getbootstrap.com/docs/4.0/getting-started/introduction/
     - name: Images
       resources:
         - https://css-tricks.com/images-are-not-static-content/
@@ -298,6 +302,7 @@
       resources:
         - http://fontfamily.io/
         - https://transfonter.org/
+        - https://devfonts.gafi.dev/l
     - name: Icons
       resources:
         - https://streamlineicons.com/
@@ -336,6 +341,10 @@
         - http://youmightnotneedjs.com/
         - https://jsonld.com/website/
         - https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab
+        - https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn
+    - name: Templates
+      resources:
+        - https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp
     - name: Interview questions
       resources:
         - https://www.toptal.com/html5/interview-questions
