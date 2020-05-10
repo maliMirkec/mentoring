@@ -59,6 +59,9 @@
     - name: CSS Transforms
       resources:
         - https://3dtransforms.desandro.com/
+    - name: CSS Functions
+      resources:
+        - https://css-tricks.com/complete-guide-to-css-functions/
     - name: BEM basics
       resources:
         - http://getbem.com/introduction/
