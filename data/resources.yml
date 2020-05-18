@@ -7,6 +7,7 @@
         - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
         - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
         - https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+        - https://dev.to/bibekshah09/how-do-browsers-work-44oj
     - name: HTML basics
       resources:
         - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
@@ -17,6 +18,7 @@
         - https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/
         - https://www.30secondsofcode.org/css/p/1/
         - https://github.com/AllThingsSmitty/must-watch-css
+        - https://moderncss.dev/
     - name: JavaScript basics
       resources:
         - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
@@ -324,6 +326,7 @@
         - https://fontdrop.info/
     - name: Useful tools
       resources:
+        - https://linkfork.co/
         - https://flawlessapp.io/designtools
         - https://www.uigoodies.com/index.html
         - https://mobile.twitter.com/i/events/880688233641848832
@@ -364,6 +367,7 @@
         - https://exercism.io/
         - https://www.slant.co/options/3408/alternatives/~exercism-io-alternatives
         - https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl
+        - https://dev.to/biplov/15-fun-apis-for-your-next-project-5053
 - name: Essential apps
   type: tools
   list:
@@ -379,6 +383,7 @@
         - https://nvie.com/posts/a-successful-git-branching-model/
         - https://gitsheet.wtf/
         - https://www.madebymike.com.au/writing/how-to-git/
+        - https://dev.to/milu_franz/git-explained-the-basics-igc
     - name: Collaboration tools (Asana, Trello, Jira)
       resources:
         - https://trello.com/
