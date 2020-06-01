@@ -7,14 +7,14 @@
       title: Using Structured Data to Enhance Search Engine Optimization
       desc: Tristram Tolliday shows how to use structured data to help surface content in more useful and engaging ways.
     - link: https://css-tricks.com/block-links-the-search-for-a-perfect-solution/
-      title: "Block Links: The Search for a Perfect Solution"
+      title: "Block Links: The Search for a Perfect Solution."
       desc: Vikas Parashar explores possible solutions for block links
     - link: https://dev.to/huijing/on-fixed-elements-and-backgrounds-515p
       title: On fixed elements and backgrounds
-      desc: "Chen Hui Jing shares insights about position: fixed and backgrounds"
+      desc: "Chen Hui Jing shares insights about position: fixed and backgrounds."
     - link: https://amberwilson.co.uk/blog/css-tips-for-new-devs/
       title: CSS Tips for New Devs
-      desc: Amber Wilson shares CSS tips for beginners
+      desc: Amber Wilson shares CSS tips for beginners.
     - link: https://www.netlify.com/blog/2020/05/27/netlify-build-plugins-are-here/
       title: Netlify Build Plugins Are Here!
       desc: Build Plugins allow you to automate build tasks, customize your build process, and make your development process even easier.
@@ -23,7 +23,7 @@
       desc: Marko Saric explores in depth how to remove/replace Google products from your website.
     - link: https://github.com/public-apis/public-apis
       title: Public APIs
-      desc: A collective list of free APIs for use in software and web development
+      desc: A collective list of free APIs for use in software and web development.
 - date: "2020-05-25"
   list:
     - link: https://kentcdodds.com/blog/javascript-to-know-for-react
