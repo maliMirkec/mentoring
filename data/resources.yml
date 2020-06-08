@@ -489,6 +489,9 @@
     - name: 50+ Remote jobs sites
       resources:
         - https://adamconrad.dev/blog/here-is-the-full-list-of-my-50-remote-job-sites/
+    - name: Where to Find Remote Developer Jobs
+      resources:
+        - https://dev.to/study_web_dev/where-to-find-remote-developer-jobs-5g0h
 - name: Jobs networks
   type: networks
   list:
