@@ -395,6 +395,7 @@
     - name: Other
       resources:
         - https://www.remote.tools/
+        - https://appy-dev.netlify.app/
 - name: Soft skills
   type: skill
   list:
