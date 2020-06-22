@@ -1,3 +1,29 @@
+- date: "2020-06-22"
+  list:
+    - link: https://css-tricks.com/what-is-developer-experience-dx/
+      title: What is Developer Experience (DX)?
+      desc: Chris Coyier explains all about developer experience, the experience of developers.
+    - link: https://css-irl.info/css-only-slide-up-caption-hover-effect/
+      title: CSS-only Slide-up Caption Hover Effect
+      desc: Michelle Barker describes how to create a caption that needs to slide over an image on hover, revealing more content.
+    - link: https://lea.verou.me/2020/06/hybrid-positioning-with-css-variables-and-max/
+      title: Hybrid positioning with CSS variables and max()
+      desc: Lea Verou shows how to position an element with some smart JS and CSS calculations.
+    - link: https://codersblock.com/blog/the-surprising-things-that-css-can-animate/
+      title: The Surprising Things That CSS Can Animate
+      desc: Will Boyd explores some of the unexpected things that CSS can animate and some nifty things you can do by animating them.
+    - link: https://www.sarasoueidan.com/blog/style-settings-with-css-variables/
+      title: Global and Component Style Settings with CSS Variables
+      desc: Sara Soueidan explains how she uses CSS variables to create more manageable project styles and more portable patterns.
+    - link: https://dev.to/ugglr/junior-developers-checklist-for-landing-a-remote-job-2ldb
+      title: Junior Developers Checklist for Landing a Remote Job
+      desc: "Carl-W. Igelstroem shares his story about landing a remote job and a checklist that could help you land one, too. Bonus: Remote Junior Developer jobs directory."
+    - link: https://dev.to/jfelx/40-high-quality-free-resources-for-web-development-10o3
+      title: 40+ High Quality Free Resources for Web Development
+      desc: Jose Felix shares free illustration, development, CSS, Tailwind, design, and productivity resources.
+    - link: https://jdan.github.io/98.css/
+      title: 98.css
+      desc: A design system for building faithful recreations of old UIs.
 - date: "2020-06-15"
   list:
     - link: https://gerrymcgovern.com/website-performance-is-getting-worse/

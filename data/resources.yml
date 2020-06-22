@@ -493,6 +493,9 @@
     - name: Where to Find Remote Developer Jobs
       resources:
         - https://dev.to/study_web_dev/where-to-find-remote-developer-jobs-5g0h
+    - name: Remote Junior Developer jobs directory
+      resources:
+        - https://github.com/ugglr/Remote-Junior-Developer-jobs-directory
 - name: Jobs networks
   type: networks
   list:
