@@ -2,7 +2,7 @@
   list:
     - link: https://www.smashingmagazine.com/guides/accessibility/
       title: A Smashing Guide To Accessibility
-      desc: Smashing Magazine's guide highlights the content which can help you create more accessible sites and web applications.
+      desc: Smashing Magazine’s guide highlights the content which can help you create more accessible sites and web applications.
     - link: https://www.matuzo.at/blog/accessible-to-some/
       title: Accessible to some
       desc: Manuel Matuzović creates a fun accessibility experiment and shares some useful lessons about it.
@@ -11,7 +11,7 @@
       desc: Learn how to use the form element, what attributes are available and how to style it.
     - link: https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/
       title: Bootstrap 5 alpha!
-      desc: Bootstrap 5’s very first alpha has arrived and here is what is new.
+      desc: Bootstrap 5’s very first alpha has arrived, and here is what is new.
     - link: https://uxdesign.cc/the-menu-210bec7ad80c
       title: The 🍔 menu
       desc: Mikael Ainalem shares a step by step guide to creating a Hamburger Menu in SVG & CSS.
