@@ -423,6 +423,7 @@ See up-to-date resources on the official site: [https://mentor.silvestar.codes/t
 | Web Design Weekly | https://web-design-weekly.com/ |
 | CSS-Tricks | https://css-tricks.com/newsletters/ |
 | Smashing Magazine | https://www.smashingmagazine.com/the-smashing-newsletter/ |
+| UI Dev Newsletter | https://mentor.silvestar.codes/reads/ |
 
 ### Jobs and hiring
 
