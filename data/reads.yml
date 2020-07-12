@@ -1,3 +1,29 @@
+- date: "2020-07-13"
+  list:
+    - link: Ten modern layouts in one line of CSS
+      title: https://web.dev/one-line-layouts/
+      desc: Una Kravets highlights a few powerful lines of CSS for building robust modern layouts.
+    - link: https://www.smashingmagazine.com/2020/07/css-news-july-2020/
+      title: CSS News July 2020
+      desc: Rachel Andrew takes a look at some of the interesting CSS features that are making their way into browsers right now.
+    - link: https://blog.logrocket.com/the-ultimate-guide-to-iframes/
+      title: The ultimate guide to iframes
+      desc: Nada Rifki goes through many iframe element features and talks about usage, tricky situations, security, and accessibility.
+    - link: https://dev.to/carriepascale/a-very-beginner-s-guide-to-webpack-2jal
+      title: https://dev.to/carriepascale/a-very-beginner-s-guide-to-webpack-2jal
+      desc: Carrie Pascale explains basic webpack concepts and usage.
+    - link: An Overview of Scroll Technologies
+      title: https://css-tricks.com/an-overview-of-scroll-technologies/
+      desc: Zach Saucier writes an overview of scroll related technologies and tools.
+    - link: https://dev.to/nerdjfpb/15-vanilla-javascript-project-ideas-beginner-to-expert-with-free-tutorial-3c7a
+      title: "15 Vanilla JavaScript PROJECT IDEAS: BEGINNER TO EXPERT [WITH FREE TUTORIAL]"
+      desc: Muhammad Ali shares 15 project ideas for practicing your Vanilla JavaScript skills.
+    - link: https://adactio.com/journal/17106
+      title: Custom properties
+      desc: Jeremy Keith realises that “CSS variables” is a very limiting way of thinking about custom properties.
+    - link: https://twitter.com/lynnandtonic/status/1084880013436936192
+      title: CSS Gifs
+      desc: Lynn Fisher created a Twitter thread with fun CSS gifs.
 - date: "2020-07-06"
   list:
     - link: https://ishadeed.com/article/styling-wrappers-css/
