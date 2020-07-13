@@ -1,7 +1,7 @@
 - date: "2020-07-13"
   list:
-    - link: Ten modern layouts in one line of CSS
-      title: https://web.dev/one-line-layouts/
+    - link: https://web.dev/one-line-layouts/
+      title: Ten modern layouts in one line of CSS
       desc: Una Kravets highlights a few powerful lines of CSS for building robust modern layouts.
     - link: https://www.smashingmagazine.com/2020/07/css-news-july-2020/
       title: CSS News July 2020
@@ -10,10 +10,10 @@
       title: The ultimate guide to iframes
       desc: Nada Rifki goes through many iframe element features and talks about usage, tricky situations, security, and accessibility.
     - link: https://dev.to/carriepascale/a-very-beginner-s-guide-to-webpack-2jal
-      title: https://dev.to/carriepascale/a-very-beginner-s-guide-to-webpack-2jal
+      title: A (Very) Beginner's Guide to WEBPACK
       desc: Carrie Pascale explains basic webpack concepts and usage.
-    - link: An Overview of Scroll Technologies
-      title: https://css-tricks.com/an-overview-of-scroll-technologies/
+    - link: https://css-tricks.com/an-overview-of-scroll-technologies/
+      title: An Overview of Scroll Technologies
       desc: Zach Saucier writes an overview of scroll related technologies and tools.
     - link: https://dev.to/nerdjfpb/15-vanilla-javascript-project-ideas-beginner-to-expert-with-free-tutorial-3c7a
       title: "15 Vanilla JavaScript PROJECT IDEAS: BEGINNER TO EXPERT [WITH FREE TUTORIAL]"
@@ -200,8 +200,8 @@
     - link: https://dev.to/thedamon/my-favourite-line-of-css-4klp
       title: My favourite line of CSS
       desc: Damon Muma shares how to make a responsive grid without media queries.
-    - link: Fast Software, the Best Software
-      title: https://craigmod.com/essays/fast_software/
+    - link: https://craigmod.com/essays/fast_software/
+      title: Fast Software, the Best Software
       desc: Craig Mod shares his thoughts about building fast and light software.
     - link: https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
       title: PerfectPixel by WellDoneCode (pixel perfect)
