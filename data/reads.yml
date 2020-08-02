@@ -1,3 +1,37 @@
+# - date: "2020-08-10"
+#   list:
+#     - link: https://css-tricks.com/svg-title-vs-html-title-attribute/
+#       title: SVG Title vs. HTML Title Attribute
+#       desc: Chris Coyier shows the difference between the title attribute and the title element in HTML and SVG.
+#     - link: https://css-tricks.com/spotting-a-trend/
+#       title: Spotting a Trend
+#       desc: Geoff Graham shows the latest trend on web design—blobby shapes.
+- date: "2020-08-03"
+  list:
+    - link: https://developers.google.com/web/updates/2020/06/devtools#css-in-js
+      title: "New in Chrome Dev Tools: Style editing for CSS-in-JS frameworks"
+      desc: Chrome Dev Tools now supports CSS-in-JS.
+    - link: https://css-tricks.com/want-to-get-better-at-code-teach-someone-css/
+      title: Want to get better at code? Teach someone CSS.
+      desc: Peter Murray shares five lessons he learned from teaching someone CSS.
+    - link: https://css-tricks.com/bold-on-hover-without-the-layout-shift/
+      title: Bold on Hover… Without the Layout Shift
+      desc: Ryan Mulligan demonstrates how to use bold text on hover without the layout shift using pseudo-elements.
+    - link: http://apps.workflower.fi/vocabs/css/en
+      title: CSS Vocabulary
+      desc: An interactive website dedicated to CSS and its vocabulary.
+    - link: https://emilkowalski.github.io/css-effects-snippets/
+      title: Useful snippets
+      desc: Emil Kowalski created a web page with plenty of CSS animations that you could copy with a single click.
+    - link: https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
+      title: How To Create A GitHub Profile README
+      desc: Monica Powell shows how to add personal README file to GitHub profile.
+    - link: https://github.com/jamesgeorge007/github-activity-readme
+      title: GitHub Activity in README
+      desc: James George shares instructions on how to update README.md with the recent GitHub activity of a user.
+    - link: https://pavellaptev.github.io/web-dark-ages/
+      title: Dark ages of the Web
+      desc: Pavel Laptev shows the typical design elements from the past in a single page.
 - date: "2020-07-27"
   list:
     - link: https://web.dev/at-property/
