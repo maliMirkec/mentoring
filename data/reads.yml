@@ -8,7 +8,7 @@
       desc: Amelia Wattenberger explains what does percent refers to in CSS for different properties.
     - link: https://css-tricks.com/more-control-over-css-borders-with-background-image/
       title: More Control Over CSS Borders With background-image
-      desc: Chris Coyier introduces Amit Sheen's Dashed Border Generator which helps make fancy borders.
+      desc: Chris Coyier introduces Amit Sheen’s Dashed Border Generator, which helps make fancy borders.
     - link: https://css-tricks.com/practical-use-cases-for-javascripts-closest-method/
       title: Practical Use Cases for JavaScript’s closest() Method
       desc: Andreas Remdt shows how to use closest() function to do some useful things with JavaScript.
