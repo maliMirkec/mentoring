@@ -1,4 +1,4 @@
-- date: "2020-09-07"
+- date: "2020-08-31"
   list:
     - link: https://technology.blog.gov.uk/2020/07/24/why-you-should-hire-a-frontend-developer/
       title: Why you should hire a frontend developer
@@ -24,32 +24,6 @@
     - link: https://keyframes.app/
       title: Keyframes
       desc: Keyframes are simple visual tools to help you generate CSS for your projects.
-- date: "2020-08-31"
-  list:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
-    - link:
-      title:
-      desc:
 - date: "2020-08-24"
   list:
     - link: https://bit.ly/31p3x1H
