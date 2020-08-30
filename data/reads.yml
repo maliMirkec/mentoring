@@ -1,27 +1,27 @@
 - date: "2020-08-31"
   list:
-    - link: https://technology.blog.gov.uk/2020/07/24/why-you-should-hire-a-frontend-developer/
+    - link: https://bit.ly/2QF3dWE
       title: Why you should hire a frontend developer
       desc: Matt Hobbs explains what the benefits of hiring a dedicated frontend developer are.
-    - link: https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202
+    - link: https://bit.ly/3bhGFEU
       title: "Leading-Trim: The Future of Digital Typesetting"
       desc: Ethan Wang shows how an emerging CSS standard can fix old typographical problems and raise the bar for web apps.
-    - link: https://meyerweb.com/eric/thoughts/2020/07/01/accordion-rows-in-css-grid/
+    - link: https://bit.ly/2Gf4iCF
       title: Accordion Rows in CSS Grid
       desc: Eric Meyer describes the way he is using CSS Grid rows to make the layout more flexible.
-    - link: https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+    - link: https://bit.ly/3gHYJci
       title: Things I Wish I’d Known About CSS
       desc: Dave Smyth shares some useful things for easier CSS understanding, including box model, how height and width are calculated, and collapsing margins.
-    - link: https://css-tricks.com/fluid-images-in-a-variable-proportion-layout/
+    - link: https://bit.ly/32CS8ei
       title: Fluid Images in a Variable Proportion Layout
       desc: Lari Maza shows many ways how to display images correctly on all viewports, including using the new aspect-ratio property.
-    - link: https://css-tricks.com/what-happens-when-border-radii-overlap/
+    - link: https://bit.ly/3hL40B9
       title: What Happens When Border Radii Overlap?
       desc: Jay Sitter shows how browsers calculate the border-radius values and why it doesn’t work as expected sometimes.
-    - link: https://dev.to/jh3y/animated-google-fonts-193d
+    - link: https://bit.ly/3bhGFVq
       title: CSS Animated Google Fonts
       desc: Jhey Tompkins shows how to use Google variable fonts and CSS animation to make some interesting effects.
-    - link: https://keyframes.app/
+    - link: https://bit.ly/3bbF9nE
       title: Keyframes
       desc: Keyframes are simple visual tools to help you generate CSS for your projects.
 - date: "2020-08-24"
