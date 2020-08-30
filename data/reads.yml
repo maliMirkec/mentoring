@@ -1,3 +1,55 @@
+- date: "2020-09-07"
+  list:
+    - link: https://technology.blog.gov.uk/2020/07/24/why-you-should-hire-a-frontend-developer/
+      title: Why you should hire a frontend developer
+      desc: Matt Hobbs explains what are the benefits of hiring a dedicated frontend developer.
+    - link: https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202
+      title: "Leading-Trim: The Future of Digital Typesetting"
+      desc: Ethan Wang shows how an emerging CSS standard can fix old typographical problems and raise the bar for web apps.
+    - link: https://meyerweb.com/eric/thoughts/2020/07/01/accordion-rows-in-css-grid/
+      title: Accordion Rows in CSS Grid
+      desc: Eric Meyer describes the way he is using CSS Grid rows to make the layout more flexible.
+    - link: https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+      title: Things I Wish I’d Known About CSS
+      desc: Dave Smyth shares some useful things for easier CSS understanding, including box model, how height and width are calculated, and collapsing margins.
+    - link: https://css-tricks.com/fluid-images-in-a-variable-proportion-layout/
+      title: Fluid Images in a Variable Proportion Layout
+      desc: Lari Maza shows many ways how to display images correctly on all viewports, including using the new aspect-ratio property.
+    - link: https://css-tricks.com/what-happens-when-border-radii-overlap/
+      title: What Happens When Border Radii Overlap?
+      desc: Jay Sitter shows how browsers calculate the border-radius values and why it doesn’t work as expected sometimes.
+    - link: https://dev.to/jh3y/animated-google-fonts-193d
+      title: CSS Animated Google Fonts
+      desc: Jhey Tompkins shows how to use Google variable fonts and CSS animation to make some interesting effects.
+    - link: https://keyframes.app/
+      title: Keyframes
+      desc: Keyframes are simple visual tools to help you generate CSS for your projects.
+- date: "2020-08-31"
+  list:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
+    - link:
+      title:
+      desc:
 - date: "2020-08-24"
   list:
     - link: https://bit.ly/31p3x1H
@@ -149,7 +201,7 @@
       title: Make Jamstack Slow? Challenge Accepted.
       desc: Steve Keep purposely makes a slow site to better understand possible site performance bottlenecks.
     - link: https://www.cassie.codes/posts/making-a-lil-me-part-1/
-      title: Making lil' me - part 1
+      title: Making lil’ me - part 1
       desc: Cassie Evans describes how to get values from the mouse movement and plug them into an animation.
     - link: https://lawsofux.com/
       title: Laws of UX
@@ -166,7 +218,7 @@
       title: The ultimate guide to iframes
       desc: Nada Rifki goes through many iframe element features and talks about usage, tricky situations, security, and accessibility.
     - link: https://dev.to/carriepascale/a-very-beginner-s-guide-to-webpack-2jal
-      title: A (Very) Beginner's Guide to WEBPACK
+      title: A (Very) Beginner’s Guide to WEBPACK
       desc: Carrie Pascale explains basic webpack concepts and usage.
     - link: https://css-tricks.com/an-overview-of-scroll-technologies/
       title: An Overview of Scroll Technologies
@@ -300,7 +352,7 @@
       desc: Kyle Prinsloo reviews some remote job boads with pros and cons for every single one.
     - link: https://dev.to/codemouse92/how-to-apologize-1438
       title: How to Apologize
-      desc: Jason C. McDonald analyses Triplebyte's apology email.
+      desc: Jason C. McDonald analyses Triplebyte’s apology email.
     - link: https://github.com/simevidas/web-dev-feeds
       title: Web Dev Feeds
       desc: Šime Vidas created a collection of over 800 RSS feeds for web developers, updated monthly.
@@ -352,7 +404,7 @@
       desc: Excellent list of advices how not to ruin your career.
     - link: https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/
       title: Let’s Make One of Those Fancy Scrolling Animations Used on Apple Product Pages
-      desc: Jurn van Wissen shows how to recreate an animation from Apple's site.
+      desc: Jurn van Wissen shows how to recreate an animation from Apple’s site.
     - link: https://dev.to/thedamon/my-favourite-line-of-css-4klp
       title: My favourite line of CSS
       desc: Damon Muma shares how to make a responsive grid without media queries.
@@ -384,7 +436,7 @@
       desc: All you need to know about CSS Functions.
     - link: https://getquick.link/
       title: Quicklink
-      desc: A drop-in solution for sites to prefetch links based on what is in the user's viewport.
+      desc: A drop-in solution for sites to prefetch links based on what is in the user’s viewport.
     - link: https://linkfork.co/
       title: LinkFork
       desc: Customize your link preview.
@@ -407,7 +459,7 @@
       desc: Dmitry Mayorov explains how to define instances of existing blocks using WordPress Block Variations.
     - link: https://www.wordfence.com/blog/2020/05/combined-attack-on-elementor-pro-and-ultimate-addons-for-elementor-puts-1-million-sites-at-risk/
       title: Combined Attack on Elementor Pro and Ultimate Addons for Elementor Puts 1 Million Sites at Risk
-      desc: Wordfence shares insights of last' week's exploitation of vulnerabilities in two related plugins, Elementor Pro and Ultimate Addons for Elementor.
+      desc: Wordfence shares insights of last’ week’s exploitation of vulnerabilities in two related plugins, Elementor Pro and Ultimate Addons for Elementor.
     - link: https://codepen.io/mirisuzanne/pen/vYNgodb
       title: Custom Cascades
       desc: Miriam Suzanne shares how a smart way how to use a cascade of custom properties without worrying about the specificity.
@@ -447,7 +499,7 @@
       desc: Define your own CSS property with a brand new @property.
     - link: https://css-tricks.com/chrome-system-fonts-snafu/
       title: Chrome + System Fonts Snafu
-      desc: Chrome developers are aware that the browser renders the system font incorrectly, but don't plan to fix the bug until mid-May.
+      desc: Chrome developers are aware that the browser renders the system font incorrectly, but don’t plan to fix the bug until mid-May.
     - link: https://pineco.de/using-the-line-breaking-element/
       title: Using the Line Breaking Element
       desc: Adam Laki shares his thoughts on using the <br> elements.
@@ -470,13 +522,13 @@
   list:
     - link: https://github.com/AllThingsSmitty/must-watch-javascript
       title: Must watch JavaScript by AllThingsSmitty
-      desc: Matt Smith's collection of well-received talks about JavaScript.
+      desc: Matt Smith’s collection of well-received talks about JavaScript.
     - link: https://github.com/AllThingsSmitty/must-watch-css
       title: Must watch CSS by AllThingsSmitty
-      desc: Matt Smith's collection of well-received talks about CSS.
+      desc: Matt Smith’s collection of well-received talks about CSS.
     - link: https://github.com/AllThingsSmitty/css-protips
       title: CSS Protips by AllThingsSmitty
-      desc: Matt Smith's collection of tips to help take your CSS skills pro.
+      desc: Matt Smith’s collection of tips to help take your CSS skills pro.
     - link: https://www.utsavahuja.com/9-software-engineering-offers/
       title: My journey to 9 software engineering offers
       desc: Utsav Ahuja shares his learnings and advice on software engineering offers.
@@ -557,7 +609,7 @@
 # - link: https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/.
 #   title: Checklist to avoid the most common accessibility errors
 # - link: https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/
-#   title: CSS Can Do This... And It's Terrifying!
+#   title: CSS Can Do This... And It’s Terrifying!
 # - link: https://brumm.af/shadows
 #   title: Make a smooth shadow, friend
 # - link: https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab
