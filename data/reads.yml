@@ -3,9 +3,9 @@
     - link: https://bit.ly/3383TcC
       title: Custom bullets with CSS ::marker
       desc: Adam Argyle and Oriol Brufau show how trivial it is to customize the color, size or type of number or bullet when using a <ul> or <ol>.
-    - link: https://bit.ly/3jRyeTJ
-      title: "content-visibility: the new CSS property that boosts your rendering performance"
-      desc: Una Kravets and Vladimir Levin describe how to improve initial load time by skipping the rendering of offscreen content.
+    - link: https://bit.ly/3bH0i9C
+      title: "Ask an expert: Why is CSS... the way it is?"
+      desc: Chris Lilley highlights and describes many of CSS’s shortcomings.
     - link: https://bit.ly/2ZhD4BY
       title: Supercharging <input type=number>
       desc: Kilian Valkhof describes how to build a better input type=number.
