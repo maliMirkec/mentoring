@@ -1,27 +1,27 @@
 - date: "2020-09-07"
   list:
-    - link: https://web.dev/css-marker-pseudo-element/
+    - link: https://bit.ly/3383TcC
       title: Custom bullets with CSS ::marker
-      desc: Adam Argyle and Oriol Brufau show how trivial is to customize the color, size or type of number or bullet when using a <ul> or <ol>.
-    - link: https://web.dev/content-visibility/
+      desc: Adam Argyle and Oriol Brufau show how trivial it is to customize the color, size or type of number or bullet when using a <ul> or <ol>.
+    - link: https://bit.ly/3jRyeTJ
       title: "content-visibility: the new CSS property that boosts your rendering performance"
       desc: Una Kravets and Vladimir Levin describe how to improve initial load time by skipping the rendering of offscreen content.
-    - link: https://kilianvalkhof.com/2020/javascript/supercharging-input-type-number/
+    - link: https://bit.ly/2ZhD4BY
       title: Supercharging <input type=number>
       desc: Kilian Valkhof describes how to build a better input type=number.
-    - link: https://blog.logrocket.com/css-variables-scoping/
+    - link: https://bit.ly/3i7VUmq
       title: "CSS variables: Scoping"
       desc: Chidume Nnamdi explains all about CSS Variables, including usage, support, and advantages.
-    - link: https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/
+    - link: https://bit.ly/3bzXGtW
       title: "Case Study: Implementing Accessible Data Charts for the Khan Academy 2018 Annual Report"
-      desc: Sara Soueidan explains how Khan Academy 2018 Annual Report is presented and implemented in as accessible way to site’s visitors as possible.
-    - link: https://daverupert.com/2020/09/the-value-of-browser-diversity/
+      desc: Sara Soueidan explains how Khan Academy 2018 Annual Report is presented and implemented in an accessible way to site’s visitors.
+    - link: https://bit.ly/326EW21
       title: What is the Value of Browser Diversity?
       desc: "Dave Rupert tries to answer a question: What if Firefox switched to Chromium tomorrow, what would we lose?"
-    - link: https://css-tricks.com/comparing-browsers-for-responsive-design/
+    - link: https://bit.ly/3bDaxf8
       title: Comparing Browsers for Responsive Design
       desc: Chris Coyier reviews a number of these desktop apps where the goal is showing your site at different dimensions all at the same time.
-    - link: https://lookup.design/
+    - link: https://bit.ly/3iakLpB
       title: lookup.design
       desc: Find named, categorized and indexed by hand design examples.
 - date: "2020-08-31"
