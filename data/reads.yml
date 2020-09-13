@@ -1,27 +1,53 @@
+- date: "2020-09-14"
+  list:
+    - link: https://bit.ly/3merMrP
+      title: "Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement"
+      desc: Manuel Matuzović describes how to use progressive enhancement to write more accessible CSS code.
+    - link: https://bit.ly/2Zx454m
+      title: "CSS Images Module Level 4: the image() notation"
+      desc: The image-set() function allows an author to provide multiple resolutions of an image and let the UA decide which is most appropriate in a given situation.
+    - link: https://bit.ly/3hpQqSI
+      title: Using the brightness() CSS Filter to generically highlight Content
+      desc: Rick Strahl describes how to use the CSS brightness filter to highlight content without having to specify a specific color value.
+    - link: https://bit.ly/2GWvOoJ
+      title: "70% Repetition in Style Sheets: Data on How We Fail at CSS Optimization"
+      desc: Jens Oliver Meiert explains how what it means to know how many declarations you use in your style sheets and how many of those declarations are unique.
+    - link: https://bit.ly/3ix92BS
+      title: How CSS Perspective Works
+      desc: Amit Sheen explains all about CSS perspective, from how it works to how to use it to create 3D animations.
+    - link: https://bit.ly/3iugcGI
+      title: How to Choose the Right Website Fonts
+      desc: Lucy Turner shows how you can choose fonts that are right for your website?
+    - link: https://bit.ly/3hscqMX
+      title: Beautiful CSS box-shadow examples
+      desc: A collection of real-world examples of beautiful CSS box-shadow examples.
+    - link: https://bit.ly/2Fwfev4
+      title: Lighthouse recommends smaller libraries
+      desc: Addy Osmani introduces Lighthouse's feature, which recommends smaller libraries that improve bundle size.
 - date: "2020-09-07"
   list:
-    - link: https://web.dev/css-marker-pseudo-element/
+    - link: https://bit.ly/3383TcC
       title: Custom bullets with CSS ::marker
       desc: Adam Argyle and Oriol Brufau show how trivial is to customize the color, size or type of number or bullet when using a <ul> or <ol>.
-    - link: https://web.dev/content-visibility/
+    - link: https://bit.ly/3bH0i9C
       title: "content-visibility: the new CSS property that boosts your rendering performance"
       desc: Una Kravets and Vladimir Levin describe how to improve initial load time by skipping the rendering of offscreen content.
-    - link: https://kilianvalkhof.com/2020/javascript/supercharging-input-type-number/
+    - link: https://bit.ly/2ZhD4BY
       title: Supercharging <input type=number>
       desc: Kilian Valkhof describes how to build a better input type=number.
-    - link: https://blog.logrocket.com/css-variables-scoping/
+    - link: https://bit.ly/3i7VUmq
       title: "CSS variables: Scoping"
       desc: Chidume Nnamdi explains all about CSS Variables, including usage, support, and advantages.
-    - link: https://www.sarasoueidan.com/blog/accessible-data-charts-for-khan-academy-2018-annual-report/
+    - link: https://bit.ly/3bzXGtW
       title: "Case Study: Implementing Accessible Data Charts for the Khan Academy 2018 Annual Report"
       desc: Sara Soueidan explains how Khan Academy 2018 Annual Report is presented and implemented in as accessible way to site’s visitors as possible.
-    - link: https://daverupert.com/2020/09/the-value-of-browser-diversity/
+    - link: https://bit.ly/326EW21
       title: What is the Value of Browser Diversity?
       desc: "Dave Rupert tries to answer a question: What if Firefox switched to Chromium tomorrow, what would we lose?"
-    - link: https://css-tricks.com/comparing-browsers-for-responsive-design/
+    - link: https://bit.ly/3bDaxf8
       title: Comparing Browsers for Responsive Design
       desc: Chris Coyier reviews a number of these desktop apps where the goal is showing your site at different dimensions all at the same time.
-    - link: https://lookup.design/
+    - link: https://bit.ly/3iakLpB
       title: lookup.design
       desc: Find named, categorized and indexed by hand design examples.
 - date: "2020-08-31"
