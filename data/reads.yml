@@ -1,3 +1,29 @@
+- date: "2020-09-14"
+  list:
+    - link: https://bit.ly/3merMrP
+      title: "Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement"
+      desc: Manuel Matuzović describes how to use progressive enhancement to write more accessible CSS code.
+    - link: https://bit.ly/2Zx454m
+      title: "CSS Images Module Level 4: the image() notation"
+      desc: The image-set() function allows an author to provide multiple resolutions of an image and let the UA decide which is most appropriate in a given situation.
+    - link: https://bit.ly/3hpQqSI
+      title: Using the brightness() CSS Filter to generically highlight Content
+      desc: Rick Strahl describes how to use the CSS brightness filter to highlight content without having to specify a specific color value.
+    - link: https://bit.ly/2GWvOoJ
+      title: "70% Repetition in Style Sheets: Data on How We Fail at CSS Optimization"
+      desc: Jens Oliver Meiert explains how what it means to know how many declarations you use in your style sheets and how many of those declarations are unique.
+    - link: https://bit.ly/3ix92BS
+      title: How CSS Perspective Works
+      desc: Amit Sheen explains all about CSS perspective, from how it works to how to use it to create 3D animations.
+    - link: https://bit.ly/3iugcGI
+      title: How to Choose the Right Website Fonts
+      desc: Lucy Turner shows how you can choose fonts that are right for your website?
+    - link: https://bit.ly/3hscqMX
+      title: Beautiful CSS box-shadow examples
+      desc: A collection of real-world examples of beautiful CSS box-shadow examples.
+    - link: https://bit.ly/2Fwfev4
+      title: Lighthouse recommends smaller libraries
+      desc: Addy Osmani introduces Lighthouse's feature, which recommends smaller libraries that improve bundle size.
 - date: "2020-09-07"
   list:
     - link: https://bit.ly/3383TcC
