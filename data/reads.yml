@@ -1,27 +1,53 @@
+- date: "2020-09-28"
+  list:
+    - link: https://bit.ly/3mZQGvY
+      title: A Gentle Introduction to Using a Docker Container as a Dev Environment
+      desc: Burke Holland explains (in a sarcastic and fun way) how to set up and use Docker (from VS Code).
+    - link: https://bit.ly/345H7mb
+      title: "One of my favourite accessibility testing tools: The Tab Key."
+      desc: Manuel Matuzović lists 9 points on how to why the tab key is his favourite tool for testing website accessibility.
+    - link: https://bit.ly/3kQYPAL
+      title: The failed promise of Web Components
+      desc: Lea Verou questions the ability to develop and use Web Components easily.
+    - link: https://bit.ly/3i4QJCN
+      title: 5 CSS Properties You Probably Did Not Know About
+      desc: Timothy Okooboh writes about some CSS properties that you might know of/forgot about, but that could be quite useful.
+    - link: https://bit.ly/3jbgEtO
+      title: "Hacktoberfest 2020: Registration Now Open 🎃"
+      desc: Commit to open source by signing up for Hacktoberfest.
+    - link: https://bit.ly/34iEii7
+      title: JavaScript bookmarks
+      desc: Steve Gardner shows how to save JavaScript snippets as browser bookmarks.
+    - link: https://bit.ly/338wj7y
+      title: CSS Animation with motion
+      desc: Henry Zarza makes eye-catching, playful CSS-only animations.
+    - link: https://bit.ly/3mUXzhL
+      title: GSAP 3 Express Free Trial
+      desc: The course for absolute beginners that guides you through the best parts of the GSAP API.
 - date: "2020-09-21"
   list:
-    - link: https://pustelto.com/blog/optimizing-css-for-faster-page-loads/#limit-size-of-your-stylesheet
+    - link: https://bit.ly/3kE94IN
       title: Optimizing CSS for faster page loads
       desc: Tomas Pustelnik shows a series of techniques on how to optimize the CSS code for performance.
-    - link: https://css-tricks.com/enforcing-performance-budgets-with-webpack/
+    - link: https://bit.ly/2ZQLBfa
       title: Enforcing performance budgets with webpack
       desc: Ayooluwa Isaiah describes how to set limits to code using webpack performance budgets.
-    - link: https://dev.to/ugglr/publish-update-npm-packages-with-github-actions-1m8l
+    - link: https://bit.ly/33KuKvN
       title: Publish/Update NPM packages with GitHub Actions
       desc: Carl-W. Igelstroem describes how to use GitHub Actions to push new releases on NPM.
-    - link: https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c
+    - link: https://bit.ly/3iM30NC
       title: Stop Using React
       desc: Ender Minyard explains why you should stop using JavaScript frameworks. There is a quality discussion in comments, too.
-    - link: https://css-irl.info/why-i-dont-have-time-for-your-coding-challenge/
+    - link: https://bit.ly/2RFShIP
       title: Why I Don’t Have Time For Your Coding Challenge
       desc: Michelle Barker shares thoughts on why coding challenges might not be a good idea.
-    - link: https://addyosmani.com/blog/visualize-data-structures-vscode/
+    - link: https://bit.ly/3hMaDCo
       title: Visualize Data Structures in VSCode
       desc: Addy Osmani shows how to use VSCode extension to visualize data structures.
-    - link: https://vimeo.com/445554082/bbe9baee2d
+    - link: https://bit.ly/3hNuelF
       title: Editing HTML Like A Boss In VS Code
       desc: Caleb Porzio shows how to use VS Code to supercharge HTML editing.
-    - link: https://bgjar.com/
+    - link: https://bit.ly/3hTZtMc
       title: BGJar
       desc: Free SVG background generator for your websites, blogs and app.
 - date: "2020-09-14"
