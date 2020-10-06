@@ -1,3 +1,29 @@
+- date: "2020-10-05"
+  list:
+    - link: https://bit.ly/3jxbCbx
+      title: A Complete Guide to CSS Media Queries
+      desc: Learn all about how media queries can modify the appearance (and even behaviour) or a website or app based on a matched set of conditions about the user’s device, browser or system settings.
+    - link: https://bit.ly/2SwoTF2
+      title: Make Your Own Dev Tool
+      desc: Amber Wilson shows how bookmarklets could be super handy during development.
+    - link: https://bit.ly/34nrgQl
+      title: Why Tailwind CSS
+      desc: Shawn Wang explains some pros and cons of using Tailwind CSS.
+    - link: https://bit.ly/2GtWld9
+      title: There's a good reason why experienced devs say "it depends" so often
+      desc: Jerod Santo tries to reason why devs use the term “it depends”.
+    - link: https://bit.ly/3jCdtvy
+      title: Inspect CSS Grid
+      desc: This guide shows you how to discover CSS grids on a page, examining them and debugging layout issues in the Elements panel of Chrome DevTools.
+    - link: https://bit.ly/3ixgfAX
+      title: npm automation tokens
+      desc: npm introduces a new setting for access tokens to support publishing to the npm registry from CI/CD workflows.
+    - link: https://bit.ly/33viyQx
+      title: Achieving Vertical Alignment (Thanks, Subgrid!)
+      desc: Cathy Dutton shows how to use subgrid to vertically center the content across all items.
+    - link: https://bit.ly/3lbQ8RK
+      title: Build a responsive media browser with CSS
+      desc: Andy Bell shows how to use modern CSS layout to create a flexible media browser and video player layout that maintains its aspect ratio at all viewports.
 - date: "2020-09-28"
   list:
     - link: https://bit.ly/3mZQGvY
