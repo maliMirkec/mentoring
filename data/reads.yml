@@ -1,3 +1,29 @@
+- date: "2020-10-12"
+  list:
+    - link: https://bit.ly/33MoXHi
+      title: The Widening Responsibility for Front-End Developers
+      desc: Chris Coyier covers all aspects of the front-end developer role in great detail.
+    - link: https://bit.ly/33O8HFN
+      title: ":focus-visible Is Here"
+      desc: Matthias Ott explains how to use a new CSS feature, :focus-visible, including JavaScript polyfill.
+    - link: https://bit.ly/3nEofDV
+      title: Full-Bleed Layout Using CSS Grid
+      desc: Josh Comeau shows an elegant solution to make a tricky modern layout using CSS grid.
+    - link: https://bit.ly/3jQ0LcN
+      title: How to Make an Unobtrusive Scroll-to-Top Button
+      desc: Marcel Rojas shows three different JavaScript methods on how to reveal a “scroll-to-top” button.
+    - link: https://bit.ly/3iQzGVm
+      title: How to Detect When a Sticky Element Gets Pinned
+      desc: David Walsh shows how to determine when an element becomes sticky.
+    - link: https://bit.ly/3nI9W1o
+      title: Webpack 5 release
+      desc: Webpack releases a new version which contains architectural improvements and new features.
+    - link: https://bit.ly/3dm0J9Z
+      title: Beautiful CSS 3D Transform Examples
+      desc: Polypane showcases CSS 3D transforms which create depth and visually interesting elements on your page using perspective.
+    - link: https://bit.ly/2GZ0VQE
+      title: "How One Guy Ruined #Hacktoberfest2020 #Drama"
+      desc: Joel Thoms writes about a flood of low quality PR spam.
 - date: "2020-10-05"
   list:
     - link: https://bit.ly/3jxbCbx
