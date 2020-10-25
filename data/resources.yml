@@ -192,6 +192,9 @@
         - https://a11yproject.com/
         - https://ffoodd.github.io/a11y.css/
         - https://benrobertson.io/accessibility/tools-for-website-audits
+    - name: User Experience
+      resources:
+        - https://maze.design/guides/ux-research
     - name: Testing/Performance
       resources:
         - https://search.google.com/search-console/about
@@ -436,21 +439,24 @@
 - name: Newsletters
   type: newsletters
   list:
-    - name:  CSS Weekly
+    - name: CSS Weekly
       resources:
         - https://css-weekly.com/
-    - name:  CSS Animation Weekly
+    - name: CSS Animation Weekly
       resources:
         - https://cssanimation.rocks/weekly/
-    - name:  Web Design Weekly
+    - name: Web Design Weekly
       resources:
         - https://web-design-weekly.com/
-    - name:  CSS-Tricks
+    - name: CSS-Tricks
       resources:
         - https://css-tricks.com/newsletters/
-    - name:  Smashing Magazine
+    - name: Smashing Magazine
       resources:
         - https://www.smashingmagazine.com/the-smashing-newsletter/
+    - name: UI Dev Newsletter
+      resources:
+        - https://mentor.silvestar.codes/reads#newsletter
 
 - name: Jobs boards
   type: jobs
