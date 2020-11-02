@@ -1,5 +1,8 @@
 # Tips and Resources
 
+[![Stargazers repo roster for @maliMirkec/mentoring](https://reporoster.com/stars/maliMirkec/mentoring)](https://github.com/maliMirkec/mentoring/stargazers)
+
+
 [See mentoring tips](#mentoring-tips).
 
 [See resources](#resources).

@@ -1,3 +1,46 @@
+- date: "2020-11-02"
+  link: https://bit.ly/3mE2nHu
+  list:
+    - link: https://bit.ly/35W7KuP
+      title: CSS Variables for React Devs
+      desc: Josh Comeau shows how to take advantage of CSS variables and use it in React apps.
+      handle: "@joshwcomeau"
+      hash: "#css #js #reactjs"
+    - link: https://bit.ly/3oQRJza
+      title: Little Things on My Personal Site
+      desc: Chris Coyier documents little interesting bits of his personal website re-write, like fonts, colours and YouTube embed.
+      handle: "@chriscoyier"
+      hash: "#webdev #css #js"
+    - link: https://bit.ly/35TxjNm
+      title: Gradient borders with curves and 3d movement in CSS (Nextjs ticket clone)
+      desc: Medhat Dawoud writes a step-by-step tutorial on how to build a ticket with gradient border and 3D interaction.
+      handle: "@Med7atDawoud"
+      hash: "#css #js #javascript"
+    - link: https://bit.ly/2GpaGaO
+      title: NDTV achieved a 55% improvement in LCP by optimizing for Core Web Vitals
+      desc: Read how NDTV enhanced user experience and thus retention by optimizing for Web Vitals.
+      handle: "@ChromiumDev"
+      hash: "#webdev #webvitals #perfmatters"
+    - link: https://bit.ly/3mQLQQN
+      title: Checka11y.css
+      desc: A CSS stylesheet to quickly highlight a11y concerns.
+      handle: "@jackdomleo7"
+      hash: "#css #a11y"
+    - link: https://bit.ly/3oS4bOX
+      title: "Announcement: We've partnered with BrowserStack"
+      desc: Caniuse team announces its partnership with BrowserStack, which allows testing properties on real browsers and devices.
+      handle: "@caniuse @browserstack"
+      hash: "#webdev #html #css #js"
+    - link: https://bit.ly/3mFpqBC
+      title: 1 Step to Incentivize Stars and Forks on GitHub
+      desc: Nastyox shares a copy-and-paste snippet that will enable you to feature your supporters by name in the README file.
+      handle: "@nastyox1"
+      hash: "#webdev #github #markdown"
+    - link: https://bit.ly/3mEa946
+      title: Blobs
+      desc: Blobs app allows you to generate beautiful blob shapes for web and flutter apps.
+      handle: "@lokesh_coder"
+      hash: "#webdev #svg"
 - date: "2020-10-26"
   link: https://bit.ly/31FUvgq
   list:
