@@ -259,7 +259,6 @@
     - name: Zapier
       resources:
         - https://zapier.com/platform
-
 - name: Games, tools, interviews
   type: other
   list:
@@ -271,6 +270,8 @@
         - https://dev.to/gregfletcher/top-front-end-development-youtube-channels-4ihg
         - https://github.com/sindresorhus/awesome
         - https://dev.to/jatinrao/resources-for-frontend-developers-1l9i
+        - https://github.com/MarkoDenic/web-development-resources
+        - https://github.com/sw-yx/spark-joym
     - name: CSS games
       resources:
         - https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
@@ -408,6 +409,9 @@
 - name: Soft skills
   type: skill
   list:
+    - name: General
+      resources:
+        - https://thefutur.com/learn
     - name: Verbal communication
       resources:
         - https://www.thebalancecareers.com/communication-skills-list-2063779
@@ -435,7 +439,7 @@
     - name: Inspiration
       resources:
         - https://inspiration-bits.com/archives/
-
+        - https://github.com/sw-yx/spark-joy
 - name: Newsletters
   type: newsletters
   list:
@@ -457,7 +461,6 @@
     - name: UI Dev Newsletter
       resources:
         - https://mentor.silvestar.codes/reads#newsletter
-
 - name: Jobs boards
   type: jobs
   list:
