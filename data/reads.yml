@@ -1,42 +1,42 @@
 - date: "2020-11-09"
-  link:
+  link: https://bit.ly/3n4MgTu
   list:
-    - link: https://joshwcomeau.com/css/pixel-perfection/
+    - link: https://bit.ly/38oT6iS
       title: Chasing the Pixel-Perfect Dream
-      desc: Josh Comeau answers some questions about pixel-perfect development and shows some tricks for the closer pixel-perfect execution.
+      desc: Josh Comeau answers questions about pixel-perfect development and shows tricks for the closer pixel-perfect execution.
       handle: "@joshwcomeau"
       hash: "#css #frontend"
-    - link: https://onepagelove.com/identify-website-fonts
+    - link: https://bit.ly/3lbpEAn
       title: 5 ways to Identify Fonts in a Web Page.
       desc: Rob Hope shows different ways to find fonts in a website.
       handle: "@robhope"
       hash: "#webdev #fonts"
-    - link: https://dev.to/maxwell_dev/what-i-didn-t-know-in-the-2020-state-of-css-survey-part-1-481d
+    - link: https://bit.ly/3n6lvyi
       title: What I Didn't Know in the 2020 State of CSS Survey, Part 1
-      desc: Max Antonucci documents all the things from the 2020 State of CSS Survey which he didn’t know and explains everyhing about them.
+      desc: Max Antonucci documents all the things from the 2020 State of CSS Survey which he didn’t know and explains everything about them.
       handle: "@Maxwell_Dev"
       hash: "#css"
-    - link: https://christianheilmann.com/2020/11/03/how-to-persistently-change-third-party-web-sites-with-browser-developer-tools/
+    - link: https://bit.ly/3591PDC
       title: How to persistently change third party web sites with browser developer tools
-      desc: Chris Heilmann describes how to fix some problems in web sites without getting access to the source code.
+      desc: Chris Heilmann describes how to fix problems in web sites without getting access to the source code.
       handle: "@codepo8"
       hash: "#webdev #devtools"
-    - link: https://css-tricks.com/how-to-animate-the-details-element-using-waapi/
+    - link: https://bit.ly/2Ihib4j
       title: How to Animate the Details Element Using WAAPI
       desc: Louis Hoebregts shows how to animate the native <details> element using the Web Animations API.
       handle: "@Mamboleoo"
       hash: "#css #js #javascript"
-    - link: https://www.matuzo.at/blog/lang-attribute/
+    - link: https://bit.ly/357rlJh
       title: "The lang attribute: browsers telling lies, telling sweet little lies"
-      desc: Manuel Matuzović describes the negative effects a missing or wrong lang attribute that are not always evident.
+      desc: Manuel Matuzović describes the negative effects of a missing or wrong lang attribute that are not always evident.
       handle: "@mmatuzo"
       hash: "#html #accessibility #a11y"
-    - link: https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/
+    - link: https://bit.ly/32rexM6
       title: Technical debt as a lack of understanding
       desc: Dave Rupert explores and explains all about technical debt in web development.
       handle: "@davatron5000"
       hash: ""
-    - link: https://briefs.video/
+    - link: https://bit.ly/3keagBQ
       title: Webbed Briefs
       desc: Heydon Pickering starts a new vlog with brief videos about the web, its technologies, and how to make the most of them.
       handle: "@heydonworks"
