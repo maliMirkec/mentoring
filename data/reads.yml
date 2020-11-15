@@ -1,44 +1,44 @@
 - date: "2020-11-16"
-  link:
+  link: https://bit.ly/3nnLTUn
   list:
-    - link: timing-for-page-experience.html
+    - link: https://bit.ly/3lyUbIh
       title: Timing for bringing page experience to Google Search
       desc: Google announces that the page experience signals in ranking will roll out in May 2021.
       handle: "@googlewmc"
       hash: "#webdev #perfmatters"
-    - link:
+    - link: https://bit.ly/3nuy3iO
       title: The State of Developer Ecosystem 2020
       desc: JetBrains identifies the latest trends around tools, technologies, programming languages, and many other exciting facets of the development world.
       handle: "@jetbrains"
       hash: "#webdev #programming"
-    - link:
+    - link: https://bit.ly/3f9iFFW
       title: Emulate vision deficiencies in DevTools
       desc: Addy Osmani shows how to use Chrome DevTools to emulate color vision deficiencies, helping you better optimize your pages to be inclusive of users with differing levels of color blindness.
       handle: "@addyosmani"
       hash: "#webdev #devtools #devtips #a11y"
-    - link:
+    - link: https://bit.ly/3ntOyMq
       title: "Chrome DevTools: Create your own keyboard shortcuts and increase productivity"
       desc: Umar Hansa shows how to assign your own preferred keyboard shortcuts to common workflows in Chrome DevTools.
       handle: "@umaar"
       hash: "#webdev #devtools #devtips"
-    - link: the-cleanest-trick-for-autogrowing-textareas/
+    - link: https://bit.ly/36HBhc4 the-cleanest-trick-for-autogrowing-textareas/
       title: The Cleanest Trick for Autogrowing Textareas
-      desc: Chris Coyier explains how to make a textarea more like a <div> so it expands in height as much as it needs to in order to contain the current value.
+      desc: Chris Coyier explains how to make a textarea more like a div, so it expands in height as much as it needs to contain the current value.
       handle: "@chriscoyier @css"
       hash: "#webdev #html #css"
-    - link: github-actions-to-securely-publish-npm-packages/
+    - link: https://bit.ly/2KcoarZ github-actions-to-securely-publish-npm-packages/
       title: GitHub Actions to securely publish npm packages
-      desc: Liran Tal explains in details how to set up GitHub Actions to automate publishing of npm packages securely.
+      desc: Liran Tal explains in details how to set up GitHub Actions to automate the publishing of npm packages securely.
       handle: "@liran_tal @snyksec"
       hash: "#webdev #github #npmjs"
-    - link:
+    - link: https://bit.ly/2H7Gb9I
       title: SVGBox
       desc: SVGBox makes it dead-easy to include icons in your project.
       handle: "@shubhamjainco"
       hash: "#webdev #svg"
-    - link:
+    - link: https://bit.ly/3pvv8Z3
       title: Flow CSS Utility
-      desc: Andy Bell shares a technique for unifying vertical space between direct simblings.
+      desc: Andy Bell shares a technique for unifying vertical space between direct siblings.
       handle: "@piccalilli_"
       hash: "#css"
 - date: "2020-11-09"
