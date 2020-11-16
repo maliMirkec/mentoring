@@ -1,7 +1,7 @@
 - date: "2020-11-16"
   link: https://bit.ly/3nnLTUn
   list:
-    - link: https://bit.ly/3lyUbIh
+    - link: https://bit.ly/3kxGKHm
       title: Timing for bringing page experience to Google Search
       desc: Google announces that the page experience signals in ranking will roll out in May 2021.
       handle: "@googlewmc"
@@ -21,26 +21,26 @@
       desc: Umar Hansa shows how to assign your own preferred keyboard shortcuts to common workflows in Chrome DevTools.
       handle: "@umaar"
       hash: "#webdev #devtools #devtips"
-    - link: https://bit.ly/36HBhc4 the-cleanest-trick-for-autogrowing-textareas/
+    - link: https://bit.ly/38QPqGR
       title: The Cleanest Trick for Autogrowing Textareas
       desc: Chris Coyier explains how to make a textarea more like a div, so it expands in height as much as it needs to contain the current value.
       handle: "@chriscoyier @css"
       hash: "#webdev #html #css"
-    - link: https://bit.ly/2KcoarZ github-actions-to-securely-publish-npm-packages/
+    - link: https://bit.ly/3lzBnJ8
       title: GitHub Actions to securely publish npm packages
       desc: Liran Tal explains in details how to set up GitHub Actions to automate the publishing of npm packages securely.
       handle: "@liran_tal @snyksec"
       hash: "#webdev #github #npmjs"
-    - link: https://bit.ly/2H7Gb9I
-      title: SVGBox
-      desc: SVGBox makes it dead-easy to include icons in your project.
-      handle: "@shubhamjainco"
-      hash: "#webdev #svg"
     - link: https://bit.ly/3pvv8Z3
       title: Flow CSS Utility
       desc: Andy Bell shares a technique for unifying vertical space between direct siblings.
       handle: "@piccalilli_"
       hash: "#css"
+    - link: https://bit.ly/2H7Gb9I
+      title: SVGBox
+      desc: SVGBox makes it dead-easy to include icons in your project.
+      handle: "@shubhamjainco"
+      hash: "#webdev #svg"
 - date: "2020-11-09"
   link: https://bit.ly/3n4MgTu
   list:
@@ -94,7 +94,7 @@
       hash: "#css #js #reactjs"
     - link: https://bit.ly/3oQRJza
       title: Little Things on My Personal Site
-      desc: Chris Coyier documents little interesting bits of his personal website re-write, like fonts, colours and YouTube embed.
+      desc: Chris Coyier documents little interesting bits of his personal website re-write, like fonts, colors and YouTube embed.
       handle: "@chriscoyier"
       hash: "#webdev #css #js"
     - link: https://bit.ly/35TxjNm
