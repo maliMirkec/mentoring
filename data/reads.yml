@@ -1,3 +1,46 @@
+- date: "2020-11-23"
+  link: https://bit.ly/3pPqtS0
+  list:
+    - link: https://bit.ly/3nJ9wH2
+      title: A Deep Dive Into CSS Grid minmax()
+      desc: Ahmad Shadeed writes a complete guide about minmax() plus some real-world use-cases.
+      handle: "@shadeed9"
+      hash: "#css #grid #cssgrid"
+    - link: https://bit.ly/2J00NRS
+      title: A user’s guide to CSS variables
+      desc: Lea Verou writes a complete guide about CSS Variables, its support, fallback, and more.
+      handle: "@leaverou @incrementmag"
+      hash: "#css #variables #cssvariables"
+    - link: https://bit.ly/35Q35Mj
+      title: A Complete Guide to CSS Gradients
+      desc: Geoff Graham makes a complete guide to CSS gradients with many useful resources.
+      handle: "@geoffreygraham @css"
+      hash: "#css #gradient #gradients"
+    - link: https://bit.ly/3fjOzzA
+      title: What's New In DevTools (Chrome 87)
+      desc: Jecelyn Yeen shows updates from Chrome DevTools, including new CSS Grid debugging tools.
+      handle: "@JecelynYeen @ChromiumDev"
+      hash: "#devtools #chrome"
+    - link: https://bit.ly/35SJwTy
+      title: Responsive Snakes! And what they can teach you about CSS 🐍
+      desc: Vitor Paladini shares insights about CSS from creating responsive snake, a silly webdev meme.
+      handle: "@paladini_dev"
+      hash: "#css #webdev"
+    - link: https://bit.ly/35SJvis
+      title: Label in Name in WCAG 2.1
+      desc: Todd Libby writes about the benefits of using matching text labels with the corresponding accessible name.
+      handle: "@toddlibby"
+      hash: "#a11y #accessibility"
+    - link: https://bit.ly/35Slqbo
+      title: Dev Fonts
+      desc: Mostafa Gaafar makes a list of the best fonts for coding with live preview.
+      handle: "@imGaafar"
+      hash: "#webdev #developers #fonts"
+    - link: https://bit.ly/3lTH0Cf
+      title: 10 Inspiring Ideas for Your Next Front-End Project
+      desc: Simon Holdorf gets inspired by these 10 great examples from CodePen.
+      handle: "@simonholdorf"
+      hash: "#html #css #javascript #inspiration"
 - date: "2020-11-16"
   link: https://bit.ly/3nnLTUn
   list:
