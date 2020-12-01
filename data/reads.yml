@@ -1,3 +1,46 @@
+- date: "2020-12-01"
+  link: https://bit.ly/2VmOamD
+  list:
+    - link: https://bit.ly/36rieDX
+      title: '"Yes or No?" — One Checkbox vs Two Radio Buttons.'
+      desc: Sara Soueidan tries to figure out if you have a question with a binary Yes/No answer, is it better to use one checkbox or two radio buttons?
+      handle: "@sarasoueidan"
+      hash: "#html"
+    - link: https://bit.ly/3qbrDHE
+      title: Your first attempt at making anything accessible will be awful
+      desc: Sheri Byrne-Haber writes why your first effort at accessibility is unlikely to be outstanding.
+      handle: ""
+      hash: "#a11y #accessibility"
+    - link: https://bit.ly/3fT2ddh
+      title: The Core Web Vitals hype train
+      desc: Katie Sylor-Miller writes about the pros and cons of Core Web Vitals.
+      handle: "@ksylor"
+      hash: "#web $webdev #seo"
+    - link: https://bit.ly/2Jg0RgR
+      title: Thinking Like a Front-end Developer
+      desc: Ahmad Shadeed explains how to implementing a layout in CSS by thinking about the possible solutions, and asking a lot of questions to get it right.
+      handle: "@shadeed9"
+      hash: "#css #grid #cssgrid #frontend"
+    - link: https://bit.ly/37t805z
+      title: Touch Targets on Touchscreens
+      desc: Aurora Harley writes all about how to make usable touch targets on mobile and tablet design.
+      handle: "@aurorararara"
+      hash: "#webdev #webdesign #ux #usability"
+    - link: https://bit.ly/3mn6xnr
+      title: How to Load Fonts in a Way That Fights FOUT and Makes Lighthouse Happy
+      desc: Adrian Bece explains how to set up font loading that not only makes Lighthouse happy but also overcomes the dreaded flash of unstyled text.
+      handle: "@AdrianBeceDev"
+      hash: "#webdev #html #javascript"
+    - link: https://bit.ly/36rifaZ
+      title: Prevent layout shifts with CSS Grid stacks
+      desc: Hubert Sablonnière explains what layout shift is, which problems might occur and how to use CSS Grid to fix it.
+      handle: "@hsablonniere"
+      hash: "#css #cssgrid"
+    - link: https://bit.ly/2Jg0R0l
+      title: Super Tiny Icons
+      desc: Super Tiny Web Icons are minuscule SVG versions of your favourite logos with average size under 465 bytes!
+      handle: "@edent"
+      hash: "#webdev #icons #svg"
 - date: "2020-11-23"
   link: https://bit.ly/3pPqtS0
   list:
