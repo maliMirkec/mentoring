@@ -18,12 +18,12 @@
       hash: "#web $webdev #seo"
     - link: https://bit.ly/2Jg0RgR
       title: Thinking Like a Front-end Developer
-      desc: Ahmad Shadeed explains how to implementing a layout in CSS by thinking about the possible solutions, and asking a lot of questions to get it right.
+      desc: Ahmad Shadeed explains how to implement a layout in CSS by thinking about the possible solutions, and asking a lot of questions to get it right.
       handle: "@shadeed9"
       hash: "#css #grid #cssgrid #frontend"
     - link: https://bit.ly/37t805z
       title: Touch Targets on Touchscreens
-      desc: Aurora Harley writes all about how to make usable touch targets on mobile and tablet design.
+      desc: Aurora Harley writes all about how to make usable touch targets for mobile and tablet design.
       handle: "@aurorararara"
       hash: "#webdev #webdesign #ux #usability"
     - link: https://bit.ly/3mn6xnr
