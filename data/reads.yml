@@ -15,7 +15,7 @@
       title: The Core Web Vitals hype train
       desc: Katie Sylor-Miller writes about the pros and cons of Core Web Vitals.
       handle: "@ksylor"
-      hash: "#web $webdev #seo"
+      hash: "#web #webdev #seo"
     - link: https://bit.ly/2Jg0RgR
       title: Thinking Like a Front-end Developer
       desc: Ahmad Shadeed explains how to implement a layout in CSS by thinking about the possible solutions, and asking a lot of questions to get it right.
