@@ -1,3 +1,46 @@
+- date: "2020-12-08"
+  link: https://bit.ly/3gmsYXO
+  list:
+    - link: https://bit.ly/3lKN4Mg
+      title: State Of CSS 2020
+      desc: The results of the annual survey about the latest trends in CSS.
+      handle: "@sachagreif @benitteraphael"
+      hash: "#stateofcss #css"
+    - link: https://bit.ly/3gmsYHi
+      title: "State of CSS 2020 Survey Results: Tailwind CSS Wins Most Adopted Technology, Utility-First CSS on the Rise"
+      desc: Sarah Gooding summarizes some of the most noteworthy data from State of CSS 2020 survey.
+      handle: "@pollyplummer @wptavern"
+      hash: "#stateofcss #css"
+    - link: https://bit.ly/36HBhc4
+      title: How to Get Sticky and Full-Bleed Elements to Play Well Together
+      desc: Silvestar Bistrović explains how to create a tricky non-centered layout with full-bleed and sticky elements.
+      handle: "@css"
+      hash: "#html #css"
+    - link: https://bit.ly/3ggvvTh
+      title: How to Fix Issues With CSS Position Sticky Not Working?
+      desc: Daniyal Hamid compiles a list of things you can do to fix some common issues when using position sticky.
+      handle: "@designcise"
+      hash: "#css"
+    - link: https://bit.ly/36HBhc4
+      title: How to Add Text in Borders Using Basic HTML Elements
+      desc: Preethi Sam shows how to use fieldset and legend to place text within borders.
+      handle: "@rpsthecoder @css"
+      hash: "#css"
+    - link: https://bit.ly/2JReDX0
+      title: 100 lessons for the year to come
+      desc: UX Collective shares a list of what to expect for User Experience (UX) Design in the next year.
+      handle: "@uxdesigncc"
+      hash: "#ux"
+    - link: https://bit.ly/3lLf2Yn
+      title: Blogging for Devs
+      desc: Monica Lent makes a site in which you could discover the best developer blogs on any tech stack.
+      handle: "@monicalent"
+      hash: "#webdev #html #css #javascript #js"
+    - link: https://bit.ly/3lLqdjF
+      title: Clean advertising
+      desc: Jeremy Keith describes where did web advertising go wrong and how to fix it.
+      handle: "@adactioJournal"
+      hash: "#ad #ads #advertising #inspiration"
 - date: "2020-12-01"
   link: https://bit.ly/2VmOamD
   list:
