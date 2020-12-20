@@ -1,3 +1,46 @@
+- date: "2020-12-21"
+  link: https://bit.ly/3nNXJre
+  list:
+    - link: https://bit.ly/3p8jvpX
+      title: What Makes CSS Hard To Master
+      desc: Tim Severien reflects on the CSS language and finds out what makes it hard.
+      handle: "@TimSeverien"
+      hash: "#css"
+    - link: https://bit.ly/3nBqhEv
+      title: Creating UI Components in SVG
+      desc: Sarah Drasner illustrates the possibilities that SVG opens up for UI component development by walking through and breaking down one particular use case, the timeline.
+      handle: "@sarah_edo"
+      hash: "#svg"
+    - link: https://bit.ly/3mAmDJL
+      title: Creating randomness with pure CSS
+      desc: Adir Slutzki shows how to make a random card effect using pure HTML and CSS.
+      handle: "@adircode @uxdesigncc"
+      hash: "#css"
+    - link: https://bit.ly/37AAmvT
+      title: Lots of Ways to Use Math.random() in JavaScript
+      desc: Jwahir Sundai showcases different creative usages of Math.random() in JavaScript, including random animation, random image and random background color.
+      handle:
+      hash: "#js #javascript"
+    - link: https://bit.ly/38jUTnr
+      title: Sticky CSS Grid Items
+      desc: Melanie Richards explains the problem and the solution on how to make a grid item sticky.
+      handle: "@soMelanieSaid"
+      hash: "#css"
+    - link: https://bit.ly/38gGLvi
+      title: Boop! - A whimsical twist on hover transitions
+      desc: Josh Comeau describes how to build an animated “boop” hover effect in React.
+      handle: "@joshwcomeau"
+      hash: "#js #javascript #react"
+    - link: https://bit.ly/3re6op3
+      title: Customer Experience or User Experience?
+      desc: Bob Salmon writes about his understanding of CX and UX terms, how they’re similar and different.
+      handle:
+      hash: "#ux #cx"
+    - link: https://bit.ly/3p9JPA5
+      title: HTML Tags Memory Test
+      desc: Paul Foster makes a game-like demo about how many HTML tags can you remember?
+      handle: "@plfstr"
+      hash: "#html"
 - date: "2020-12-14"
   link: https://bit.ly/3r58dou
   list:
