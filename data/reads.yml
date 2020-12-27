@@ -1,3 +1,46 @@
+- date: "2020-12-28"
+  link: https://bit.ly/2WOm0Sn
+  list:
+    - link: https://bit.ly/3mOFEIB
+      title: Centering in CSS
+      desc: Adam Argyle showcases 5 centering techniques and a series of tests which determine which one is the most resilient to change.
+      handle: "@argyleink"
+      hash: "#css"
+    - link: https://bit.ly/3pqqYkl
+      title: How the Nullish Coalescing Operator Works in JavaScript
+      desc: Yogesh Chavan explains how the nullish coalescing operator that is introduced in ES11 works.
+      handle: "@myogeshchavan97"
+      hash: "#js #javascript #es11"
+    - link: https://bit.ly/3poBMj9
+      title: HTML tags every frontend developer should know
+      desc: David Atanda describes some of the most useful HTML tags you may be overlooking.
+      handle: "@Davidpreneur"
+      hash: "#html #frontend"
+    - link: https://bit.ly/3rwls1s
+      title: Continuous Performance Analysis with Lighthouse CI and GitHub Actions
+      desc: Ayooluwa Isaiah covers the full extent of what the Lighthouse CI tool can do and how to set it up in GitHub Actions.
+      handle: "@ayisaiah"
+      hash: "#lighthouse #webperf #github"
+    - link: https://bit.ly/2M86zCl
+      title: How we built the GitHub globe
+      desc: Tobias Ahlin explains what does the new GitHub homepage represents, how they build it with WebGL.
+      handle: "@tobiasahlin"
+      hash: "#github #webgl"
+    - link: https://bit.ly/3nRPfQ0
+      title: What Is Full Site Editing and What Does It Mean for the Future of WordPress?
+      desc: Justin Tadlock announces 2021 as the year of the site editor as WordPress prepares for 5.7 release.
+      handle: "@justintadlock"
+      hash: "#wp #wordpress"
+    - link: https://bit.ly/2M1bKnx
+      title: How to Build a Site Structure for SEO
+      desc: Erika Varagouli shows how to build a site structure that works and helps your site achieve SEO success.
+      handle: "@finderika"
+      hash: "#seo"
+    - link: https://bit.ly/3mUqtxi
+      title: Public APIs
+      desc: Agustinus Nathaniel makes a site that helps you find some public APIs for your next projects.
+      handle: "@sozonome"
+      hash: "#api #webdev"
 - date: "2020-12-21"
   link: https://bit.ly/3nNXJre
   list:
@@ -832,7 +875,7 @@
       title: In Defense of a Fussy Website
       desc: Sarah Drasner explains why you should build your site with care and excitement.
     - link: https://github-reporter.now.sh/maliMirkec
-      title: Github statistic reporter
+      title: GitHub statistic reporter
       desc: See your GitHub profile differently.
 - date: "2020-06-22"
   list:
