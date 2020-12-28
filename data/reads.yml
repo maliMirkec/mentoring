@@ -3,7 +3,7 @@
   list:
     - link: https://bit.ly/3mOFEIB
       title: Centering in CSS
-      desc: Adam Argyle showcases 5 centering techniques and a series of tests which determine which one is the most resilient to change.
+      desc: Adam Argyle showcases five centering techniques and a series of tests which determine which one is the most resilient to change.
       handle: "@argyleink"
       hash: "#css"
     - link: https://bit.ly/3pqqYkl
@@ -23,7 +23,7 @@
       hash: "#lighthouse #webperf #github"
     - link: https://bit.ly/2M86zCl
       title: How we built the GitHub globe
-      desc: Tobias Ahlin explains what does the new GitHub homepage represents, how they build it with WebGL.
+      desc: Tobias Ahlin explains what does the new GitHub homepage represents and how they build it with WebGL.
       handle: "@tobiasahlin"
       hash: "#github #webgl"
     - link: https://bit.ly/3nRPfQ0
