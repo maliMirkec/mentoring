@@ -1,3 +1,46 @@
+- date: "2021-01-11"
+  link: https://bit.ly/3q7MJWD
+  list:
+    - link: https://bit.ly/38xLwBQ
+      title: State Of CSS 2020 Report
+      desc: A quick overview of a few major CSS trends from the State Of CSS 2020 survey.
+      handle: "@sachagreif @benitteraphael"
+      hash: "#stateofcss #css"
+    - link: https://bit.ly/3nsF9Ek
+      title: The Art of Building Real-life Components
+      desc: Ahmad Shadeed describes in details how to recreate the Facebook Messenger's sidebar card and its versions.
+      handle: "@shadeed9"
+      hash: "#html #css"
+    - link: https://bit.ly/3nCfDMO
+      title: What Can You Put in a CSS Variable?
+      desc: Will Boyd shows different examples of CSS Variables usage.
+      handle: "@lonekorean"
+      hash: "#css"
+    - link: https://bit.ly/2XuI70u
+      title: Drawing Decorative Lines with CSS
+      desc: Rik Schennink shows different ways how to create lines in CSS, including pseudo elements and SVG.
+      handle: "@rikschennink"
+      hash: "#css"
+    - link: https://bit.ly/3nxg4rN
+      title: Lists
+      desc: Jeremy Keith writes about listitis and accessible lists.
+      handle: "@adactioJournal"
+      hash: "#html #a11y #accessibility"
+    - link: https://bit.ly/3i35HL5
+      title: "Case Study: lynnandtonic.com 2020 refresh"
+      desc: Lynn Fisher explains how the process of the creation of new fancy features on the homepage.
+      handle: "@lynnandtonic"
+      hash: "#css"
+    - link: https://bit.ly/38uPdZ7
+      title: So you wanna create an eco-friendly website
+      desc: Eric Bailey tries to answer how you make a website or web app not-awful in ecology.
+      handle: "@ericwbailey @thoughtbot"
+      hash: "#webdev"
+    - link: https://bit.ly/3nz3LLE
+      title: HTML CSS Easy steps to create a web template from scratch
+      desc: Complete easy to follow guide to create your own web template using HTML and CSS Quick Crash course for beginners.
+      handle: "@udemy"
+      hash: "#html #css"
 - date: "2021-01-04"
   link: https://bit.ly/390huWs
   list:
