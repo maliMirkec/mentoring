@@ -1,3 +1,46 @@
+- date: "2021-01-18"
+  link: http://bit.ly/3qvCprQ
+  list:
+    - link: https://bit.ly/39ECWRo
+      title: State Of JS 2020
+      desc: The results of the annual survey about the latest trends in JavaScript.
+      handle: "@sachagreif @benitteraphael"
+      hash: "#stateofjs #js #javascript"
+    - link: https://bit.ly/2XOKiw2
+      title: Animating with Lottie
+      desc: Idorenyin Udoh introduces the concept of rendering Adobe After Effects animation on the web with Lottie, which can make advanced animations.
+      handle: "@broods_ @css"
+      hash: "#svg #animation"
+    - link: https://bit.ly/2M0glqh
+      title: Are your Anchor Links Accessible?
+      desc: Amber Wilson shows how to make accessible anchor links.
+      handle: "@ambrwlsn90"
+      hash: "#html #a11y #accessibility"
+    - link: https://bit.ly/2XRpvYB
+      title: Making lil' me - part 2
+      desc: Cassie Evans describes how to pass values from the mouse movement and animate SVGs.
+      handle: "@cassiecodes"
+      hash: "#svg #animation #webdev #frontend #gsap"
+    - link: https://bit.ly/3qtPLVs
+      title: Art Direction for Static Sites
+      desc: Dave Rupert shows how to spice up your blog posts with minimal effort.
+      handle: "@davatron5000"
+      hash: "#webdev #frontend #blogging"
+    - link: https://bit.ly/2XRpvI5
+      title: The Ultimate Collection of Google Font Pairings (Displayed Beautifully with Classic Art)
+      desc: Lou Levit shares a collection of font pairings that might inspire the design for your next project.
+      handle: "@LouLevit"
+      hash: "#webdev #webdesign #fonts #googlefonts"
+    - link: https://bit.ly/39EZa5D
+      title: Are These the Most Interesting Front-end Developer Tools for 2021?
+      desc: Louis Lazaris writes a big superficial roundup of his newsletter’s 60 most-clicked tools of 2020 — and potentially the most interesting choices for 2021.
+      handle: "@ImpressiveWebs"
+      hash: "#webdev #tools #apps #frontend"
+    - link: https://bit.ly/2XOKiMy
+      title: Tweet Cyborg
+      desc: Tweet Cyborg is a useful tool that converts tweets to images.
+      handle: "@appscyborg"
+      hash: "#webdev #useful #apps #tools #twitter"
 - date: "2021-01-11"
   link: https://bit.ly/3q7MJWD
   list:
