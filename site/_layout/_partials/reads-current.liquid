@@ -1,0 +1,24 @@
+{% assign readsSorted = reads %}
+
+{% if readsSorted %}
+  {% for read in readsSorted %}
+    {% if forloop.last %}
+      <section>
+        <article class="intro{% unless forloop.first %} intro-alpha{% endunless %}">
+          <h2>
+            <span>Issue</span>
+            <span>{{ forloop.index | prepend: "#" }}</span>
+          </h2>
+          <ul>
+            {% for resource in read.list %}
+              <li>
+                <a href="{{ resource.link }}" target="_blank" rel="noopener" class="href">{% if resource.title %}{{ resource.title }}{% else %}{{ resource.link }}{% endif %}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </article>
+      </section>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+

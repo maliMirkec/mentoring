@@ -1,0 +1,11 @@
+<section class="wrapper wrapper--alpha">
+  <article class="author">
+    <h2>Your Mentor</h2>
+    {% if siteAuthor.about %}
+      {% for val in siteAuthor.about %}
+        <p>{{ val }}</p>
+      {% endfor %}
+    {% endif %}
+    {% include _partials/profile %}
+  </article>
+</section>

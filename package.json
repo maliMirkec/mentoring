@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "js-yaml": "^3.13.1",
-    "starter-project": "^2.2.9-rc4"
+    "markdown-it": "^12.0.4",
+    "markdown-it-anchor": "^7.0.0",
+    "starter-project": "^2.2.9-rc4",
+    "uslug": "^1.0.4"
   }
 }

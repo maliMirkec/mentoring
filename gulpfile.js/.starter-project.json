@@ -1,12 +1,12 @@
 {
-  "proot": "./",
+  "proot": "./assets",
   "src": "src",
   "dist": "dist",
   "sync": {
     "run": true
   },
   "html": {
-    "run": true,
+    "run": false,
     "pug": true,
     "data": true,
     "inline": true,

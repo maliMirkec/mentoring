@@ -1,0 +1,26 @@
+{% assign readsSorted = reads %}
+
+{% if readsSorted %}
+  {% for read in readsSorted %}
+    <section>
+      <article class="intro{% unless forloop.first %} intro-alpha{% endunless %}"></article>
+        {% comment %} - var readHref = "#" + read.date;
+        - var readNo = "No." + (readsSorted.length - index);
+        h2(id=read.date)
+          a.target(href=readHref)
+            span Issue
+            span= readNo
+        p.tag= read.date
+        ul
+          {% for resource in read.list %}
+          {% endfor %}
+            li
+              div
+                p
+                  a.href(href=resource.link, target="_blank", rel="noopener")= resource.title || resource.link
+                if resource.desc
+                  p
+                    small= resource.desc {% endcomment %}
+    </section>
+  {% endfor %}
+{% endif %}
