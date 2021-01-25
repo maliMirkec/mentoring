@@ -16,11 +16,18 @@ if readsSorted.length
           each resource in read.list
             li
               div
-                p
-                  a.href(href=resource.slink, target="_blank", rel="noopener")= resource.title || resource.slink
-                if resource.desc
+                if resource.slink
+                  p
+                    a.href(href=resource.slink, target="_blank", rel="noopener")= resource.title || resource.slink
                   p
                     a.href(href=resource.slink, target="_blank", rel="noopener")
                       small= resource.link
+                  if resource.desc
+                    p
+                      small= resource.desc
+                else
                   p
-                    small= resource.desc
+                    a.href(href=resource.link, target="_blank", rel="noopener")= resource.title || resource.link
+                  if resource.desc
+                    p
+                      small= resource.desc
