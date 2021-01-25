@@ -9,29 +9,29 @@ try {
     return false;
   }
 
-  let list = '';
+  let list1 = '';
   let list2 = '';
   let list3 = '';
 
   if(doc[0].list && doc[0].list.length) {
     doc[0].list.forEach(item => {
-      list += `
+      list1 += `
     <li>
       <p>
-        <span><strong><a href="${item.link}" target="_blank">${item.title}</a></strong></span><br>
+        <span><a href="${item.slink}" target="_blank"><strong style="color:#FF3366">${item.title}</strong><br><small style="color:#FF3366">${item.link}</small></a></span><br>
         <span>${item.desc}</span>
       </p>
     </li>`
 
       list2 += `
-- [${item.title}](${item.link})
+- [${item.title}](${item.slink})
 ${item.desc}
 
 `
 
       list3 += `
 ${item.desc}
-${item.link} ${item.handle ? 'via ' + item.handle : ''}
+${item.slink} ${item.handle ? 'via ' + item.handle : ''}
 #ui #uidev ${item.hash ? item.hash : ''}
 
 Subscribe to the UI Dev Newsletter here: https://bit.ly/34155z3.
@@ -46,12 +46,12 @@ Subscribe to the UI Dev Newsletter here: https://bit.ly/34155z3.
   console.log('~~~~~~~~~~~~~')
 
   console.log(`
-<h1><a href="${doc[0].link}" target="_blank">UI Dev Newsletter #${doc.length}</a></h1>
+<h1><a href="${doc[0].slink}" target="_blank"><strong style="color:#FF3366">UI Dev Newsletter #${doc.length}</strong></a></h1>
 
 <h5><strong>${doc[0].date}</strong></h5>
 
 <ul>
-  ${list}
+  ${list1}
 </ul>
 
 <p>Happy coding!</p>

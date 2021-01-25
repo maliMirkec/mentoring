@@ -17,7 +17,10 @@ if readsSorted.length
             li
               div
                 p
-                  a.href(href=resource.link, target="_blank", rel="noopener")= resource.title || resource.link
+                  a.href(href=resource.slink, target="_blank", rel="noopener")= resource.title || resource.slink
                 if resource.desc
+                  p
+                    a.href(href=resource.slink, target="_blank", rel="noopener")
+                      small= resource.link
                   p
                     small= resource.desc

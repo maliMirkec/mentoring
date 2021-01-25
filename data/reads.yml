@@ -1,3 +1,55 @@
+- date: "2021-01-25"
+  link: https://mentor.silvestar.codes/reads#2020-01-25
+  slink: https://bit.ly/3c4GD5D
+  list:
+    - link: https://almanac.httparchive.org/en/2020/media
+      slink: https://bit.ly/3sUULnN
+      title: "Web Almanac: Media"
+      desc: Tamas Piros, Ben Seymour, and Eric Portis share insights analyses on how we use and misuse images and videos on the web.
+      handle: "@tpiros @bseymour @etportis"
+      hash: "#webdev #media"
+    - link: https://developer.chrome.com/blog/new-in-chrome-88/#aspect-ratio
+      slink: https://bit.ly/2Y95ehh
+      title: "New in Chrome 88: CSS aspect-ratio property"
+      desc: Chrome announces the support of the aspect-ratio property.
+      handle: "@ChromiumDev"
+      hash: "#webdev #css"
+    - link: https://web.dev/building-a-sidenav-component/
+      slink: https://bit.ly/2M0Nr9M
+      title: Building a sidenav component
+      desc: Adam Argyle shares how he prototyped a Sidenav component for the web that is responsive, stateful, supports keyboard navigation, works with and without Javascript, and works across browsers.
+      handle: "@argyleink"
+      hash: "#css #html #webdev"
+    - link: https://calendar.perfplanet.com/2020/running-lighthouse-in-github-actions/
+      slink: https://bit.ly/2M0ptLO
+      title: Running Lighthouse in GitHub Actions
+      desc: Barry Pollard shows how to automate Lighthouse audits in the GitHub repository.
+      handle: "@tunetheweb"
+      hash: "#webdev #webperf #perfmatters #github"
+    - link: https://dev.to/5t3ph/my-top-css-tips-as-shared-on-twitter-part-1-23e2
+      slink: https://bit.ly/2NyDWPz
+      title: My Top CSS Tips As Shared on Twitter - Part 1
+      desc: Stephanie Eckles compiles a list of CSS tips, including gradient borders to more aesthetic :focus styles.
+      handle: "@5t3ph"
+      hash: "#css"
+    - link: https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90
+      slink: https://bit.ly/3a4xnvs
+      title: Why Tailwind Isn't for Me
+      desc: Jared White outlines reasons why Tailwind CSS was not the choice for him.
+      handle: "@jaredcwhite"
+      hash: "#tailwind #css"
+    - link: https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/
+      slink: https://bit.ly/39deSpr
+      title: How We Improved SmashingMag Performance
+      desc: Vitaly Friedman takes a close look at some of the changes they made on the Smashing Magazine site to optimize the web performance and improve the Core Web Vitals metrics.
+      handle: "@smashingmag"
+      hash: "#webdev #webperf #perfmatters"
+    - link: https://mobile.twitter.com/smashingmag/status/1352185650091581441
+      slink: https://bit.ly/3c81G7j
+      title: A little for auditing the layout shifts and avoid performance issues.
+      desc: Smashing Magazine shares a tip on how to debug layout shifts.
+      handle: "@smashingmag"
+      hash: "#webdev #webperf #perfmatters #cls"
 - date: "2021-01-18"
   link: http://bit.ly/3qvCprQ
   list:
