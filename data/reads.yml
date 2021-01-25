@@ -44,8 +44,8 @@
       desc: Vitaly Friedman takes a close look at some of the changes they made on the Smashing Magazine site to optimize the web performance and improve the Core Web Vitals metrics.
       handle: "@smashingmag"
       hash: "#webdev #webperf #perfmatters"
-    - link: https://mobile.twitter.com/smashingmag/status/1352185650091581441
-      slink: https://bit.ly/3c81G7j
+    - link: https://twitter.com/smashingmag/status/1352185650091581441
+      slink: https://bit.ly/3iKHOZ3
       title: A little for auditing the layout shifts and avoid performance issues.
       desc: Smashing Magazine shares a tip on how to debug layout shifts.
       handle: "@smashingmag"

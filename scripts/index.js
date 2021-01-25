@@ -31,7 +31,7 @@ ${item.desc}
 
       list3 += `
 ${item.desc}
-${item.slink} ${item.handle ? 'via ' + item.handle : ''}
+${item.link} ${item.handle ? 'via ' + item.handle : ''}
 #ui #uidev ${item.hash ? item.hash : ''}
 
 Subscribe to the UI Dev Newsletter here: https://bit.ly/34155z3.
