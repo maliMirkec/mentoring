@@ -238,6 +238,7 @@ img {
   }
 }
 
+.notarget,
 .target {
   color: inherit;
   position: relative;
@@ -249,7 +250,9 @@ img {
       text-transform: none;
     }
   }
+}
 
+.target {
   &:after {
     content: "#";
     margin-left: .33em;

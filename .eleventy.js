@@ -11,13 +11,13 @@ module.exports = (eleventyConfig) => {
     markdownIt({ html: true }).use(markdownItAnchor, { slugify: uslug })
   )
 
+  eleventyConfig.addLiquidFilter('markdownify', (str) => markdownItRenderer.render(str.trim()))
+
+  eleventyConfig.addLiquidFilter('markdownifyi', (str) => markdownItRenderer.renderInline(str.trim()))
+
   // eleventyConfig.addPlugin(syntaxHighlight);
 
   // eleventyConfig.addPairedShortcode("codeblock", (str) => str)
-
-  // eleventyConfig.addLiquidFilter('markdownify', (str) => markdownItRenderer.render(str.trim()))
-
-  // eleventyConfig.addLiquidFilter('markdownifyi', (str) => markdownItRenderer.renderInline(str.trim()))
 
   // eleventyConfig.addLiquidFilter('cldnrysrc', (name) => `https://res.cloudinary.com/starbist/image/upload/w_auto,f_auto,q_auto:eco,dpr_auto,c_scale/${ name }`)
 
@@ -43,7 +43,7 @@ module.exports = (eleventyConfig) => {
     dir: {
       input: 'site',
       output: 'public',
-      layouts: '_layout',
+      layouts: '_layouts',
       data: '_data',
       htmlTemplateEngine: 'liquid',
       markdownTemplateEngine: 'liquid'

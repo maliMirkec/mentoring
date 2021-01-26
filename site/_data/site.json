@@ -1,8 +1,8 @@
 {
-   "siteName": "The UI Development Mentoring Program",
-   "siteDescription": "Become a better UI Developer today.",
-   "siteUrl": "https://mentor.silvestar.codes",
-   "siteAuthor": {
+   "name": "The UI Development Mentoring Program",
+   "description": "Become a better UI Developer today.",
+   "url": "https://mentor.silvestar.codes",
+   "author": {
       "name": "Silvestar Bistrović",
       "about": [
          "My name is Silvestar Bistrović, and I have been developing websites since 2012.",
@@ -41,38 +41,38 @@
       ],
       "img": "v1608711446/avatar-1024_yo1iya.jpg"
    },
-   "siteTagline": [
+   "tagline": [
       "Do you want to start a career in the web industry?",
       "Do you want to learn how to build websites?",
       "Do you want to improve your UI skills?",
       "Become a better UI developer today."
    ],
-   "siteImage": "https://res.cloudinary.com/starbist/image/upload/w_1024,q_auto/v1586879053/cover-2x_a6jqaz.jpg",
+   "image": "https://res.cloudinary.com/starbist/image/upload/w_1024,q_auto/v1586879053/cover-2x_a6jqaz.jpg",
    "twitterHandle": "malimirkeccita",
-   "siteNav": [
+   "nav": [
       {
          "title": "Home",
          "href": "/"
       },
       {
          "title": "Programs",
-         "href": "/about.html"
+         "href": "/about/"
       },
       {
          "title": "Resources",
-         "href": "/resources.html"
+         "href": "/resources/"
       },
       {
          "title": "Reads",
-         "href": "/reads/index.html"
+         "href": "/reads/"
       },
       {
          "title": "Tips",
-         "href": "/tips.html"
+         "href": "/tips/"
       },
       {
          "title": "Apply",
-         "href": "/apply.html",
+         "href": "/apply/",
          "class": "apply"
       }
    ],

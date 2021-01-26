@@ -7,12 +7,14 @@
   "author": "Star Bist <malimirkeccita@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "dev": "gulp & npx @11ty/eleventy --serve",
     "build": "gulp build"
   },
   "dependencies": {
     "js-yaml": "^3.13.1",
     "markdown-it": "^12.0.4",
     "markdown-it-anchor": "^7.0.0",
+    "normalize.css": "^8.0.1",
     "starter-project": "^2.2.9-rc4",
     "uslug": "^1.0.4"
   }
