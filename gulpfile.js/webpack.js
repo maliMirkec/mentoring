@@ -1,5 +1,5 @@
-const path = require('path');
-const { helpers } = require('./helpers');
+const { helpers } = require('./helpers')
+const path = require('path')
 
 module.exports = {
   mode: 'production',
@@ -8,7 +8,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(`${__dirname}/${helpers.parse('helpers.dist/config.js.dist/')}`),
-    filename: '[name].js',
+    filename: '[name].js'
   },
   module: {
     rules: [
@@ -18,10 +18,10 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['@babel/env'],
-          },
-        },
-      },
-    ],
-  },
-};
+            presets: ['@babel/env']
+          }
+        }
+      }
+    ]
+  }
+}

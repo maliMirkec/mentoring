@@ -1,19 +1,12 @@
 {
-  "proot": "./",
-  "src": "src",
-  "dist": "dist",
+  "proot": ".",
+  "src": "/assets/src",
+  "dist": "/assets/dist",
   "sync": {
     "run": true
   },
   "html": {
-    "run": true,
-    "pug": true,
-    "data": true,
-    "inline": true,
-    "src": "html",
-    "dist": "",
-    "minify": true,
-    "lint": true
+    "run": false
   },
   "css": {
     "run": true,
@@ -50,16 +43,13 @@
     "run": true
   },
   "kss": {
-    "run": false,
-    "dist": "docs/styleguide"
+    "run": false
   },
   "sassdoc": {
-    "run": false,
-    "dist": "docs/sass"
+    "run": false
   },
   "jsdoc": {
-    "run": false,
-    "dist": "docs/js"
+    "run": false
   },
   "bump": {
     "run": true
