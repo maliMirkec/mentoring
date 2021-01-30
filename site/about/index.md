@@ -1,15 +1,15 @@
 ---
-layout: "about"
-title: "The Programs"
-navTitle: "Programs"
-description: "The goal of The UI Development Mentoring Program is to help everyone become a better UI developer."
+layout: about
+title: The Programs
+navTitle: Programs
+description: The goal of The UI Development Mentoring Program is to help everyone become a better UI developer.
 tagline:
-  - "The goal of **The UI Development Mentoring Program** is to help everyone become a better UI developer."
-  - "Once you signup for the program, we are starting a special kind of relationship."
+  - The goal of **The UI Development Mentoring Program** is to help everyone become a better UI developer.
+  - Once you signup for the program, we are starting a special kind of relationship.
   - "The relationship should be considered as a two-way street: we should establish mutual respect and trust."
-  - "Once we have that, I would be happy to help you by providing answers and examples."
+  - Once we have that, I would be happy to help you by providing answers and examples.
   - "You could choose between two different programs: skills improvement and career guidance."
-  - "There no better time than now, so go ahead and apply for the program."
+  - There no better time than now, so go ahead and apply for the program.
 cta: true
 ---
 

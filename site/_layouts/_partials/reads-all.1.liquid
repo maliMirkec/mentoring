@@ -1,0 +1,18 @@
+{% if reads %}
+  <section>
+    <article class="intro intro-alpha">
+      <h2 id="previous-issues">
+        <a href="#previous-issues" class="target">Previous issues</a>
+      </h2>
+      <ul class="inline">
+        {% for read in reads %}
+          {% unless latest == read %}
+            <li>
+              <a class="notarget href" href="/reads/{{ read.date }}/"><b>Issue {{ reads | size | plus: 1 | minus: forloop.index | prepend: '#' }}</b> ({{ read.date }})</a>
+            </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </article>
+  </section>
+{% endif %}

@@ -14,7 +14,10 @@
           <li>
             <div>
               <p>
-                <a class="href" href=resource.link target="_blank" rel="noopener">{% if resource.title %}{{ resource.title }}{% else %}{{ resource.link }}{% endif %}</a>
+                <a class="href" href="{{ resource.link }}" target="_blank" rel="noopener">{% if resource.title %}{{ resource.title }}{% else %}{{ resource.link }}{% endif %}</a>
+              </p>
+              <p>
+                <a class="href" href="{{ resource.link }}" target="_blank" rel="noopener"><small>{{ resource.link }}</small></a>
               </p>
               {% if resource.desc %}
                 <p>
@@ -25,6 +28,7 @@
           </li>
         {% endfor %}
       </ul>
+      <p><a class="href" href="/reads/{{ latest.date }}/">View issue</a></p>
     </article>
   </section>
 {% endif %}

@@ -1,4 +1,135 @@
 [{
+  "date": "2021-01-25",
+  "link": "https://mentor.silvestar.codes/reads#2020-01-25",
+  "slink": "https://bit.ly/3c4GD5D",
+  "list": [{
+      "link": "https://almanac.httparchive.org/en/2020/media",
+      "slink": "https://bit.ly/3sUULnN",
+      "title": "Web Almanac: Media",
+      "desc": "Tamas Piros, Ben Seymour, and Eric Portis share insights analyses on how we use and misuse images and videos on the web.",
+      "handle": "@tpiros @bseymour @etportis",
+      "hash": "#webdev #media"
+    },
+    {
+      "link": "https://developer.chrome.com/blog/new-in-chrome-88/#aspect-ratio",
+      "slink": "https://bit.ly/2Y95ehh",
+      "title": "New in Chrome 88: CSS aspect-ratio property",
+      "desc": "Chrome announces the support of the aspect-ratio property.",
+      "handle": "@ChromiumDev",
+      "hash": "#webdev #css"
+    },
+    {
+      "link": "https://web.dev/building-a-sidenav-component/",
+      "slink": "https://bit.ly/2M0Nr9M",
+      "title": "Building a sidenav component",
+      "desc": "Adam Argyle shares how he prototyped a Sidenav component for the web that is responsive, stateful, supports keyboard navigation, works with and without Javascript, and works across browsers.",
+      "handle": "@argyleink",
+      "hash": "#css #html #webdev"
+    },
+    {
+      "link": "https://calendar.perfplanet.com/2020/running-lighthouse-in-github-actions/",
+      "slink": "https://bit.ly/2M0ptLO",
+      "title": "Running Lighthouse in GitHub Actions",
+      "desc": "Barry Pollard shows how to automate Lighthouse audits in the GitHub repository.",
+      "handle": "@tunetheweb",
+      "hash": "#webdev #webperf #perfmatters #github"
+    },
+    {
+      "link": "https://dev.to/5t3ph/my-top-css-tips-as-shared-on-twitter-part-1-23e2",
+      "slink": "https://bit.ly/2NyDWPz",
+      "title": "My Top CSS Tips As Shared on Twitter - Part 1",
+      "desc": "Stephanie Eckles compiles a list of CSS tips, including gradient borders to more aesthetic :focus styles.",
+      "handle": "@5t3ph",
+      "hash": "#css"
+    },
+    {
+      "link": "https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90",
+      "slink": "https://bit.ly/3a4xnvs",
+      "title": "Why Tailwind Isn't for Me",
+      "desc": "Jared White outlines reasons why Tailwind CSS was not the choice for him.",
+      "handle": "@jaredcwhite",
+      "hash": "#tailwind #css"
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/",
+      "slink": "https://bit.ly/39deSpr",
+      "title": "How We Improved SmashingMag Performance",
+      "desc": "Vitaly Friedman takes a close look at some of the changes they made on the Smashing Magazine site to optimize the web performance and improve the Core Web Vitals metrics.",
+      "handle": "@smashingmag",
+      "hash": "#webdev #webperf #perfmatters"
+    },
+    {
+      "link": "https://twitter.com/smashingmag/status/1352185650091581441",
+      "slink": "https://bit.ly/3iKHOZ3",
+      "title": "A little tip for auditing the layout shifts and avoid performance issues.",
+      "desc": "Smashing Magazine shares a tip on how to debug layout shifts.",
+      "handle": "@smashingmag",
+      "hash": "#webdev #webperf #perfmatters #cls"
+    }
+  ]
+},
+{
+  "date": "2021-01-18",
+  "link": "http://bit.ly/3qvCprQ",
+  "list": [{
+      "link": "https://bit.ly/39ECWRo",
+      "title": "State Of JS 2020",
+      "desc": "The results of the annual survey about the latest trends in JavaScript.",
+      "handle": "@sachagreif @benitteraphael",
+      "hash": "#stateofjs #js #javascript"
+    },
+    {
+      "link": "https://bit.ly/2XOKiw2",
+      "title": "Animating with Lottie",
+      "desc": "Idorenyin Udoh introduces the concept of rendering Adobe After Effects animation on the web with Lottie, which can make advanced animations.",
+      "handle": "@broods_ @css",
+      "hash": "#svg #animation"
+    },
+    {
+      "link": "https://bit.ly/2M0glqh",
+      "title": "Are your Anchor Links Accessible?",
+      "desc": "Amber Wilson shows how to make accessible anchor links.",
+      "handle": "@ambrwlsn90",
+      "hash": "#html #a11y #accessibility"
+    },
+    {
+      "link": "https://bit.ly/2XRpvYB",
+      "title": "Making lil' me - part 2",
+      "desc": "Cassie Evans describes how to pass values from the mouse movement and animate SVGs.",
+      "handle": "@cassiecodes",
+      "hash": "#svg #animation #webdev #frontend #gsap"
+    },
+    {
+      "link": "https://bit.ly/3qtPLVs",
+      "title": "Art Direction for Static Sites",
+      "desc": "Dave Rupert shows how to spice up your blog posts with minimal effort.",
+      "handle": "@davatron5000",
+      "hash": "#webdev #frontend #blogging"
+    },
+    {
+      "link": "https://bit.ly/2XRpvI5",
+      "title": "The Ultimate Collection of Google Font Pairings (Displayed Beautifully with Classic Art)",
+      "desc": "Lou Levit shares a collection of font pairings that might inspire the design for your next project.",
+      "handle": "@LouLevit",
+      "hash": "#webdev #webdesign #fonts #googlefonts"
+    },
+    {
+      "link": "https://bit.ly/39EZa5D",
+      "title": "Are These the Most Interesting Front-end Developer Tools for 2021?",
+      "desc": "Louis Lazaris writes a big superficial roundup of his newsletter’s 60 most-clicked tools of 2020 — and potentially the most interesting choices for 2021.",
+      "handle": "@ImpressiveWebs",
+      "hash": "#webdev #tools #apps #frontend"
+    },
+    {
+      "link": "https://bit.ly/2XOKiMy",
+      "title": "Tweet Cyborg",
+      "desc": "Tweet Cyborg is a useful tool that converts tweets to images.",
+      "handle": "@appscyborg",
+      "hash": "#webdev #useful #apps #tools #twitter"
+    }
+  ]
+},
+{
   "date": "2021-01-11",
   "link": "https://bit.ly/3q7MJWD",
   "list": [{
@@ -1924,5 +2055,4 @@
       "desc": "Could you fit your website on a floppy disc?"
     }
   ]
-}
-]
+}]

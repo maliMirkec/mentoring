@@ -1,7 +1,7 @@
 {
-  "proot": "./",
-  "src": "assets/src",
-  "dist": "assets/dist",
+  "proot": ".",
+  "src": "/assets/src",
+  "dist": "/assets/dist",
   "sync": {
     "run": true
   },
@@ -43,16 +43,13 @@
     "run": true
   },
   "kss": {
-    "run": false,
-    "dist": "docs/styleguide"
+    "run": false
   },
   "sassdoc": {
-    "run": false,
-    "dist": "docs/sass"
+    "run": false
   },
   "jsdoc": {
-    "run": false,
-    "dist": "docs/js"
+    "run": false
   },
   "bump": {
     "run": true

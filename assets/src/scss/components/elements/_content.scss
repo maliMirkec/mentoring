@@ -240,7 +240,6 @@ img {
 
 .notarget,
 .target {
-  color: inherit;
   position: relative;
 
   span {
@@ -253,6 +252,8 @@ img {
 }
 
 .target {
+  color: inherit;
+
   &:after {
     content: "#";
     margin-left: .33em;
@@ -272,6 +273,31 @@ img {
       color: $color-beta;
       text-shadow: none;
     }
+  }
+}
+
+.inline {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  list-style: none;
+  padding: 0;
+
+  > li {
+    flex: 0 0 33%;
+
+    @include mq($until: desktop) {
+      flex: 1 1 50%;
+    }
+  }
+
+  a {
+    padding: .75em 1em;
+    white-space: nowrap;
+  }
+
+  b {
+    margin-right: .5em;
   }
 }
 
