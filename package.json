@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "gulp & npx @11ty/eleventy --serve",
-    "build": "gulp build"
+    "build": "gulp build && npx @11ty/eleventy"
   },
   "dependencies": {
     "js-yaml": "^3.13.1",
