@@ -24,7 +24,8 @@ ID = "fc946949-bbfa-4d29-aa90-75a9103ca20d"
 
     # Exclude files from sitemap
     exclude = [
-      "./404/"
+      "./404/",
+      "./404.html"
     ]
 
 [[plugins]]

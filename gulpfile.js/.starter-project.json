@@ -19,12 +19,7 @@
     "lint": true
   },
   "js": {
-    "run": true,
-    "src": "js",
-    "dist": "js",
-    "uglify": true,
-    "sourcemaps": true,
-    "lint": true
+    "run": false
   },
   "gfx": {
     "run": true,
