@@ -13,6 +13,7 @@
     "eleventy-dev": "env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch",
     "eleventy-build": "env ELEVENTY_ENV=production npx @11ty/eleventy",
     "dev": "concurrently --kill-others \"npm run eleventy-dev\" \"gulp\"",
+    "preview": "gulp build && npm run eleventy-build && npm run cp_headers && npm run cp_robots-dev",
     "build": "gulp build && npm run eleventy-build && npm run cp_headers && npm run cp_robots-prod"
   },
   "dependencies": {
