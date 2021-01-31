@@ -12,10 +12,20 @@
       {% endfor %}
     {% endif %}
     {% if cta %}
-      <a href="/apply/" class="link">Join the program</a>
+      <div>
+        <a href="/apply/" class="link">Join the program</a>
+      </div>
     {% endif %}
     {% if ctaNewsletter %}
-      <a href="#newsletter" class="link">Subscribe to the newsletter</a>
+      <div>
+        <a href="#newsletter" class="link">Subscribe to the newsletter</a>
+      </div>
+    {% endif %}
+    {% if cta2 %}
+      <br>
+      <div>
+        <a href="{{ cta2.href }}" class="href">{{ cta2.title }}</a>
+      </div>
     {% endif %}
   </article>
 </section>
