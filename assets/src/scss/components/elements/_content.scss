@@ -222,6 +222,7 @@ img {
   left: rem(-3);
   border: rem(1) dotted transparent;
   border-radius: rem(3);
+  word-break: break-word;
   @include tra(transform);
 
   &:after {

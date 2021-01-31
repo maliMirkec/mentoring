@@ -3,7 +3,7 @@ const markdownIt = require('markdown-it')
 const markdownItRenderer = new markdownIt()
 const markdownItAnchor = require('markdown-it-anchor')
 const uslug = require('uslug')
-// const env = require('./site/_data/env');
+const env = require('./site/_data/env');
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setLibrary(

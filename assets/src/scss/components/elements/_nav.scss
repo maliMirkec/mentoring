@@ -54,6 +54,7 @@ nav {
   box-shadow: 0 0 0 rem(2) currentColor;
   margin-left: rem(10);
   margin-right: rem(10);
+  min-width: rem(90);
   position: relative;
 
   &:after {

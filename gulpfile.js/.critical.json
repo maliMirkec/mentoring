@@ -3,8 +3,98 @@
   "configs": [{
     "src": "style.css",
     "settings": {
-      "out": "style.critical.css",
-      "url": "http://localhost:8088/",
+      "out": "style-home.critical.css",
+      "url": "http://localhost:8080/",
+      "width": 1920,
+      "height": 1200,
+      "keepLargerMediaQueries": true,
+      "strict": false,
+      "blockJSRequests": false,
+      "phantomJsOptions": {
+        "ssl-protocol": "any",
+        "ignore-ssl-errors": true
+      }
+    }
+  }, {
+    "src": "style.css",
+    "settings": {
+      "out": "style-about.critical.css",
+      "url": "http://localhost:8080/about/",
+      "width": 1920,
+      "height": 1200,
+      "keepLargerMediaQueries": true,
+      "strict": false,
+      "blockJSRequests": false,
+      "phantomJsOptions": {
+        "ssl-protocol": "any",
+        "ignore-ssl-errors": true
+      }
+    }
+  }, {
+    "src": "style.css",
+    "settings": {
+      "out": "style-resources.critical.css",
+      "url": "http://localhost:8080/resources/",
+      "width": 1920,
+      "height": 1200,
+      "keepLargerMediaQueries": true,
+      "strict": false,
+      "blockJSRequests": false,
+      "phantomJsOptions": {
+        "ssl-protocol": "any",
+        "ignore-ssl-errors": true
+      }
+    }
+  }, {
+    "src": "style.css",
+    "settings": {
+      "out": "style-reads.critical.css",
+      "url": "http://localhost:8080/reads/",
+      "width": 1920,
+      "height": 1200,
+      "keepLargerMediaQueries": true,
+      "strict": false,
+      "blockJSRequests": false,
+      "phantomJsOptions": {
+        "ssl-protocol": "any",
+        "ignore-ssl-errors": true
+      }
+    }
+  }, {
+    "src": "style.css",
+    "settings": {
+      "out": "style-tips.critical.css",
+      "url": "http://localhost:8080/tips/",
+      "width": 1920,
+      "height": 1200,
+      "keepLargerMediaQueries": true,
+      "strict": false,
+      "blockJSRequests": false,
+      "phantomJsOptions": {
+        "ssl-protocol": "any",
+        "ignore-ssl-errors": true
+      }
+    }
+  }, {
+    "src": "style.css",
+    "settings": {
+      "out": "style-slides.critical.css",
+      "url": "http://localhost:8080/slides/",
+      "width": 1920,
+      "height": 1200,
+      "keepLargerMediaQueries": true,
+      "strict": false,
+      "blockJSRequests": false,
+      "phantomJsOptions": {
+        "ssl-protocol": "any",
+        "ignore-ssl-errors": true
+      }
+    }
+  }, {
+    "src": "style.css",
+    "settings": {
+      "out": "style-apply.critical.css",
+      "url": "http://localhost:8080/apply/",
       "width": 1920,
       "height": 1200,
       "keepLargerMediaQueries": true,

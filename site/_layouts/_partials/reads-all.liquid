@@ -2,7 +2,7 @@
   <section>
     <article class="intro intro-alpha">
       <h2 id="previous-issues">
-        <a href="#previous-issues" class="target">Previous issues</a>
+        <a href="#previous-issues" class="target">{% if latest %}Previous{% else %}All{% endif %} issues</a>
       </h2>
       <ul class="inline">
         {% for read in reads %}

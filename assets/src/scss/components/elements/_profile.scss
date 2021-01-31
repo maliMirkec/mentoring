@@ -24,15 +24,12 @@
 
 .profile__avatar {
   position: relative;
-  max-width: rem(220);
   margin: 0 auto;
-  border-radius: 50%;
-  overflow: hidden;
-  box-shadow: 0 0 0 rem(6) $color-delta;
 
   img {
     display: block;
     width: 100%;
+    height: auto;
     max-width: rem(220);
     margin: 0 auto;
     border-radius: 50%;
