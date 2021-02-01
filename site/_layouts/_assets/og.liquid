@@ -1,0 +1,30 @@
+<meta property="og:type" content="website">
+{% if title %}
+  <meta property="og:title" content=title>
+{% endif %}
+{% if description %}
+  <meta property="og:description" content=description>
+{% endif %}
+{% if siteURL %}
+  <meta property="og:url" content=siteURL>
+{% endif %}
+{% if siteImage %}
+  <meta property="og:image" content=siteImage>
+{% endif %}
+{% if twitterHandle %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content=`@${twitterHandle}`>
+{% endif %}
+{% if siteURL %}
+  <meta property="twitter:url" content=siteURL>
+{% endif %}
+{% if title %}
+  <meta name="twitter:title" content=title>
+{% endif %}
+{% if description %}
+  <meta name="twitter:description" content=description>
+{% endif %}
+{% if siteImage %}
+  <meta property="twitter:image" content=siteImage>
+{% endif %}
+<meta property="og:locale" content="en_US">

@@ -1,0 +1,31 @@
+<section>
+  <article class="hero">
+    <h1>{% if title and title != "Home" %}{{ title }}{% else %}{{ site.name }}{% endif %}</h1>
+    {% if tagline %}
+      {% assign taglines = tagline %}
+    {% else %}
+      {% assign taglines = site.tagline %}
+    {% endif %}
+    {% if taglines %}
+      {% for tagline in taglines %}
+        <p>{{ tagline | markdownifyi }}</p>
+      {% endfor %}
+    {% endif %}
+    {% if cta %}
+      <div>
+        <a href="/apply/" class="link">Join the program</a>
+      </div>
+    {% endif %}
+    {% if ctaNewsletter %}
+      <div>
+        <a href="#newsletter" class="link">Subscribe to the newsletter</a>
+      </div>
+    {% endif %}
+    {% if cta2 %}
+      <br>
+      <div>
+        <a href="{{ cta2.href }}" class="href">{{ cta2.title }}</a>
+      </div>
+    {% endif %}
+  </article>
+</section>

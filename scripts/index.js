@@ -1,10 +1,7 @@
-const yaml = require('js-yaml');
-const fs = require('fs');
+const doc = require('../site/_data/reads.json');
 
 // Get document, or throw exception on error
 try {
-  const doc = yaml.safeLoad(fs.readFileSync('./data/reads.yml', 'utf8'));
-
   if(!doc || !doc.length) {
     return false;
   }
