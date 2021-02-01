@@ -222,8 +222,8 @@ img {
   left: rem(-3);
   border: rem(1) dotted transparent;
   border-radius: rem(3);
-  cursor: pointer;
   word-break: break-word;
+  cursor: pointer;
   @include tra(transform);
 
   &:after {
@@ -237,6 +237,14 @@ img {
   &:active {
     border-color: currentColor;
     transform: translateX(rem(3));
+  }
+}
+
+[class*="static"] {
+  &:hover,
+  &:focus,
+  &:active {
+    transform: none;
   }
 }
 

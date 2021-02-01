@@ -9,10 +9,10 @@
           {% unless latest == read %}
             {% if thisRead == read %}
               {% assign readHref = {{ read.date }} | prepend: '#' %}
-              {% assign readClass = 'target href' %}
+              {% assign readClass = 'target href static' %}
             {% else %}
               {% assign readHref = {{ read.date }} | append: '/' | prepend: '/reads/' %}
-              {% assign readClass = 'notarget href' %}
+              {% assign readClass = 'notarget href static' %}
             {% endif %}
             <li>
               <a class="{{ readClass }}" href="{{ readHref }}">
