@@ -1,4 +1,74 @@
 [{
+  "date": "2021-02-15",
+  "link": "https://mentor.silvestar.codes/reads/2021-02-15/",
+  "description": "including CSS transitions, accessible sketeltons and many more.",
+  "slink": "",
+  "list": [{
+      "link": "https://www.joshwcomeau.com/animation/css-transitions/",
+      "slink": "",
+      "title": "An Interactive Guide to CSS Transitions",
+      "desc": "Josh Comeau writes a tutorial about CSS transitions, and how to use them to create lush, polished animations.",
+      "handle": "@joshwcomeau",
+      "hash": "#css #animation #webdev"
+    },
+    {
+      "link": "https://adrianroselli.com/2020/11/more-accessible-skeletons.html",
+      "slink": "",
+      "title": "More Accessible Skeletons",
+      "desc": "Adrian Roselli describes how to make loading skeletons more accessible.",
+      "handle": "@",
+      "hash": "#a11y #accessibility #html #css"
+    },
+    {
+      "link": "https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/",
+      "slink": "",
+      "title": "Managing focus in the shadow DOM",
+      "desc": "Nolan Lawson figures out how focus works with Shadow DOM.",
+      "handle": "Nolan Lawson",
+      "hash": "#webdev #js #javascript"
+    },
+    {
+      "link": "https://www.nngroup.com/articles/form-design-placeholders/",
+      "slink": "",
+      "title": "Placeholders in Form Fields Are Harmful",
+      "desc": "Katie Sherwin showcases many reasons why placeholders and floating labels should not be used as replacements for field labels.",
+      "handle": "@nngroup @kwsherwin",
+      "hash": "#html #webdev #usability #ux #user #experience"
+    },
+    {
+      "link": "https://html5accessibility.com/stuff/2021/02/09/aria-description-by-public-demand-and-to-thunderous-applause/",
+      "slink": "",
+      "title": "aria-description: By Public Demand and to Thunderous Applause",
+      "desc": "Steve Faulkner introduces a new aria attribute: aria-description.",
+      "handle": "@stevefaulkner",
+      "hash": "#webdev #a11y #accessibility"
+    },
+    {
+      "link": "https://dev.to/jesuisundev/understand-3d-in-javascript-threejs-in-5-minutes-1ohf",
+      "slink": "",
+      "title": "Understand 3D in Javascript (ThreeJS) in 5 minutes",
+      "desc": "Mehdi Zed describes how to start with ThreeJS and understand the 3D model.",
+      "handle": "@jesuisundev",
+      "hash": "#webdev #js #javascript"
+    },
+    {
+      "link": "https://smolcss.dev/",
+      "slink": "",
+      "title": "SmolCSS",
+      "desc": "Minimal snippets for modern CSS layouts and components.",
+      "handle": "@5t3ph",
+      "hash": "#css #webdev"
+    },
+    {
+      "link": "https://github.com/GoogleChrome/web-vitals",
+      "slink": "",
+      "title": "Web Vitals",
+      "desc": "Essential metrics for a healthy site.",
+      "handle": "@ChromiumDev",
+      "hash": "#webdev #webperf #perfmatters #cls #fcp"
+    }
+  ]
+}, {
   "date": "2021-02-08",
   "link": "https://mentor.silvestar.codes/reads/2021-02-08/",
   "slink": "https://bit.ly/3cLufb4",

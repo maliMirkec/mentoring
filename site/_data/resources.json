@@ -113,7 +113,8 @@
          {
             "name": "BEM basics",
             "resources": [
-               "http://getbem.com/introduction/"
+               "http://getbem.com/introduction/",
+               "https://9elements.com/bem-cheat-sheet/"
             ]
          },
          {
