@@ -28,6 +28,7 @@
       <guid>{{ metadata.url | append: '/reads/' | append: article.date }}</guid>
       <pubDate>{{ article.date | date: '%a, %d %b %Y %H:%M:%S %z' }}</pubDate>
       <author>{{ metadata.author.email }} ({{ metadata.author.name }})</author>
+      <description>An issue {{ reads | size | plus: 1 | minus: forloop.index | prepend: '#' }} of the UI Dev Newsletter{% if article.description %}, {{ article.description }}{% endif %}</description>
     </item>
     {% endfor %}
   </channel>
