@@ -1,11 +1,11 @@
 [{
   "date": "2021-02-15",
   "link": "https://mentor.silvestar.codes/reads/2021-02-15/",
+  "slink": "https://bit.ly/37gbjxD",
   "description": "including CSS transitions, accessible sketeltons and many more.",
-  "slink": "",
   "list": [{
       "link": "https://www.joshwcomeau.com/animation/css-transitions/",
-      "slink": "",
+      "slink": "https://bit.ly/2ZiTp8S",
       "title": "An Interactive Guide to CSS Transitions",
       "desc": "Josh Comeau writes a tutorial about CSS transitions, and how to use them to create lush, polished animations.",
       "handle": "@joshwcomeau",
@@ -13,15 +13,15 @@
     },
     {
       "link": "https://adrianroselli.com/2020/11/more-accessible-skeletons.html",
-      "slink": "",
+      "slink": "https://bit.ly/3b7hCoa",
       "title": "More Accessible Skeletons",
       "desc": "Adrian Roselli describes how to make loading skeletons more accessible.",
-      "handle": "@",
+      "handle": "@aardrian",
       "hash": "#a11y #accessibility #html #css"
     },
     {
       "link": "https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/",
-      "slink": "",
+      "slink": "https://bit.ly/3jKzSYw",
       "title": "Managing focus in the shadow DOM",
       "desc": "Nolan Lawson figures out how focus works with Shadow DOM.",
       "handle": "Nolan Lawson",
@@ -29,7 +29,7 @@
     },
     {
       "link": "https://www.nngroup.com/articles/form-design-placeholders/",
-      "slink": "",
+      "slink": "https://bit.ly/3piIC9l",
       "title": "Placeholders in Form Fields Are Harmful",
       "desc": "Katie Sherwin showcases many reasons why placeholders and floating labels should not be used as replacements for field labels.",
       "handle": "@nngroup @kwsherwin",
@@ -37,7 +37,7 @@
     },
     {
       "link": "https://html5accessibility.com/stuff/2021/02/09/aria-description-by-public-demand-and-to-thunderous-applause/",
-      "slink": "",
+      "slink": "https://bit.ly/2ZicsAq",
       "title": "aria-description: By Public Demand and to Thunderous Applause",
       "desc": "Steve Faulkner introduces a new aria attribute: aria-description.",
       "handle": "@stevefaulkner",
@@ -45,7 +45,7 @@
     },
     {
       "link": "https://dev.to/jesuisundev/understand-3d-in-javascript-threejs-in-5-minutes-1ohf",
-      "slink": "",
+      "slink": "https://bit.ly/2Nux59y",
       "title": "Understand 3D in Javascript (ThreeJS) in 5 minutes",
       "desc": "Mehdi Zed describes how to start with ThreeJS and understand the 3D model.",
       "handle": "@jesuisundev",
@@ -53,7 +53,7 @@
     },
     {
       "link": "https://smolcss.dev/",
-      "slink": "",
+      "slink": "https://bit.ly/3rNviva",
       "title": "SmolCSS",
       "desc": "Minimal snippets for modern CSS layouts and components.",
       "handle": "@5t3ph",
@@ -61,7 +61,7 @@
     },
     {
       "link": "https://github.com/GoogleChrome/web-vitals",
-      "slink": "",
+      "slink": "https://bit.ly/3tRqc2W",
       "title": "Web Vitals",
       "desc": "Essential metrics for a healthy site.",
       "handle": "@ChromiumDev",
