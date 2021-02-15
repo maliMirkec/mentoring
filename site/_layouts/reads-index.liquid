@@ -1,21 +1,11 @@
-{% comment %} {% include _mixins/global %}
-include variables {% endcomment %}
-<!DOCTYPE html>
-<html lang="en">
-  {% include _partials/head %}
-  <body class="wrapper wrapper--omega">
-    {% include _partials/header %}
-    <main class="main" id="main">
-      {% include _partials/hero %}
-      {% include _partials/reads-latest %}
-      {% include _partials/reads-all %}
-      {% include _partials/newsletter %}
-      {% if beer %}
-        {% include _partials/beer %}
-      {% endif %}
-    </main>
-    {% include _partials/footer %}
-    {% include _assets/deferred-styles %}
-    {% include _assets/scripts %}
-  </body>
-</html>
+---
+layout: default
+---
+
+{% include _partials/hero %}
+{% include _partials/reads-latest %}
+{% include _partials/reads-all %}
+{% include _partials/newsletter %}
+{% if beer %}
+  {% include _partials/beer %}
+{% endif %}

@@ -1,6 +1,4 @@
-{% comment %} {% unless env.development %} {% endcomment %}
-<meta name="title" content="{{title}}">
-<meta name="navTitle" content="{{navTitle}}">
+{% unless env.development %}
   {% if title == 'Home' or navTitle == 'Home' %}
     <style>{% include ../../assets/dist/css/style-home.critical.min.css %}</style>
   {% elsif title == 'Programs' or navTitle == 'Programs' %}
@@ -16,4 +14,4 @@
   {% elsif title == 'Apply' or navTitle == 'Apply' %}
     <style>{% include ../../assets/dist/css/style-apply.critical.min.css %}</style>
   {% endif %}
-{% comment %} {% endunless %} {% endcomment %}
+{% endunless %}

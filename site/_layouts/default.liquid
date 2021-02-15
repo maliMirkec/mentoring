@@ -1,0 +1,31 @@
+{% assign readIndex = 1 %}
+{% for findRead in reads %}{% if findRead == thisRead %}{% assign readIndex = forloop.index %}{% endif %}{% endfor %}
+{% if thisRead %}
+  {% assign thisIssue = reads | size | plus: 1 | minus: readIndex | prepend: '#' %}
+  {% if thisRead.description %}
+    {% assign issueDesc = ' ' | append: thisRead.description %}
+  {% else %}
+    {% assign issueDesc = '.' %}
+  {% endif %}
+  {% assign thisTitle = 'UI Dev Newsletter ' | append: thisIssue %}
+  {% assign thisDesc = "An issue " | append: thisIssue | append: ' of the UI Dev Newsletter' | append: issueDesc | escape %}
+{% else description %}
+  {% assign thisTitle = title %}
+  {% assign thisDesc = description | escape %}
+{% endif %}
+{% if description == blank %}
+  {% assign thisDesc = site.description | escape %}
+{% endif %}
+<!DOCTYPE html>
+<html{% if site.lang %} lang="{{ site.lang }}"{% endif %}>
+  {% include _partials/head %}
+  <body class="wrapper wrapper--omega">
+    {% include _partials/header %}
+    <main class="main" id="main">
+      {{ content }}
+    </main>
+    {% include _partials/footer %}
+    {% include _assets/deferred-styles %}
+    {% include _assets/scripts %}
+  </body>
+</html>

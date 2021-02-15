@@ -1,10 +1,5 @@
 {% assign readIndex = 1 %}
-{% for findRead in reads %}
-  {% if findRead == thisRead %}
-    {% assign readIndex = forloop.index %}
-  {% endif %}
-{% endfor %}
-
+{% for findRead in reads %}{% if findRead == thisRead %}{% assign readIndex = forloop.index %}{% endif %}{% endfor %}
 {% if thisRead %}
   <section>
     <article class="intro intro-alpha">
