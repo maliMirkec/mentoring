@@ -15,7 +15,7 @@
       "link": "https://elad.medium.com/how-does-css-work-92fe7116916d",
       "slink": "https://bit.ly/3umbph3",
       "title": "How Does CSS Work?",
-      "desc": "Elad Shechter explains how to understand the default behavior of styles in our browsers",
+      "desc": "Elad Shechter explains how to understand the default behaviour of styles in our browsers.",
       "handle": "@eladsc",
       "hash": "#css #webdev #frontend"
     },
@@ -23,7 +23,7 @@
       "link": "https://www.freecodecamp.org/news/fetch-api-cheatsheet/",
       "slink": "https://bit.ly/3bxeH8m",
       "title": "The Fetch API Cheatsheet: Nine of the Most Common API Requests",
-      "desc": "Ondrej Polesny shares and describes 9 most common Fetch API requests in detail.",
+      "desc": "Ondrej Polesny shares and describes the nine most common Fetch API requests in detail.",
       "handle": "@ondrabus",
       "hash": "#js #javascript #webdev #frontend"
     },
@@ -55,7 +55,7 @@
       "link": "https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/",
       "slink": "https://bit.ly/2NRhbWZ",
       "title": "Citibank just got a $500 million lesson in the importance of UI design",
-      "desc": "Timothy B. Lee describes how Citibank was trying to make $7.8M in interest payments but it sent $900M instead.",
+      "desc": "Timothy B. Lee describes how Citibank was trying to make $7.8M in interest payments, but it sent $900M instead.",
       "handle": "@binarybits",
       "hash": "#oops #webdev #developers"
     },
@@ -63,7 +63,7 @@
       "link": "https://dzhavat.github.io/2021/02/18/debugging-layout-repaint-issues-triggered-by-css-transition.html",
       "slink": "https://bit.ly/3upn52K",
       "title": "Debugging layout repaint issues triggered by CSS Transition",
-      "desc": "Dzhavat Ushev walks us throught the process of fixing repaint issues caused by CSS transitions.",
+      "desc": "Dzhavat Ushev walks us throughout the process of fixing repaint issues caused by CSS transitions.",
       "handle": "@dzhavatushev",
       "hash": "#ui #css #webperf #perfmatters"
     }
