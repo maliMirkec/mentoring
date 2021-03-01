@@ -9,9 +9,11 @@
   {% endif %}
   {% assign thisTitle = 'UI Dev Newsletter ' | append: thisIssue %}
   {% assign thisDesc = "Issue " | append: thisIssue | append: ' of the UI Dev Newsletter' | append: issueDesc | escape %}
+  {% assign thisImage = thisRead.og %}
 {% else description %}
   {% assign thisTitle = title %}
   {% assign thisDesc = description | escape %}
+  {% assign thisImage = site.image %}
 {% endif %}
 {% if description == blank %}
   {% assign thisDesc = site.description | escape %}

@@ -11,14 +11,14 @@
 {% if site.url and page.url %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 {% endif %}
-{% if site.image %}
-  <meta property="og:image" content="{{ site.image }}">
+{% if thisImage %}
+  <meta property="og:image" content="{{ thisImage }}">
 {% endif %}
 {% if site.twitterHandle %}
   <meta name="twitter:site" content="@{{ site.twitterHandle }}">
 {% endif %}
-{% if site.image %}
-  <meta name="twitter:image" content="{{ site.image }}">
+{% if thisImage %}
+  <meta name="twitter:image" content="{{ thisImage }}">
   <meta name="twitter:card" content="summary_large_image">
 {% endif %}
 {% if site.url and page.url %}
