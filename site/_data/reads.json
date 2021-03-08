@@ -1,4 +1,75 @@
 [{
+  "date": "2021-03-08",
+  "link": "https://mentor.silvestar.codes/reads/2021-03-08/",
+  "slink": "https://bit.ly/3t0ej9H",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-47.jpg",
+  "description": "features WebAIM's annual accessibility report, in-depth exploration of z-index, and JavaScript debounce function.",
+  "list": [{
+      "link": "https://torquemag.io/2021/03/gutenberg-full-site-editing/",
+      "slink": "https://bit.ly/2OfBWw6",
+      "title": "What Is Gutenberg Full-Site Editing (And How to Access It Today)",
+      "desc": "Will Morris shows how to set up full-site editing and use it to edit every part of your WordPress website, including the underlying template.",
+      "handle": "@wpengine",
+      "hash": "#wordpress #gutenberg"
+    },
+    {
+      "link": "https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/",
+      "slink": "https://bit.ly/38kPrl2",
+      "title": "The Best Font Loading Strategies and How to Execute Them",
+      "desc": "Zell Liew shares the best font loading strategies and how to execute all of them.",
+      "handle": "@zellwk",
+      "hash": "#html #fonts #webdev"
+    },
+    {
+      "link": "https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/",
+      "slink": "https://bit.ly/3sWUikk",
+      "title": "You want enabling CSS selectors, not disabling ones",
+      "desc": "Silvestar Bistrović shows how to write better CSS selectors.",
+      "handle": "",
+      "hash": "#css #webdev"
+    },
+    {
+      "link": "https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/",
+      "slink": "https://bit.ly/3qxMaFy",
+      "title": "Unicode Characters – What Every Developer Must Know About Encoding",
+      "desc": "Kealan Parr explains a brief history of encoding and what we use now.",
+      "handle": "@kealanparr",
+      "hash": "#"
+    },
+    {
+      "link": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+      "slink": "https://bit.ly/3qlDNww",
+      "title": "Through the pipeline: An exploration of front-end bundlers",
+      "desc": "Andrew Walpole explores Parcel, Rollup, and esbuild to find which one works the best for his needs.",
+      "handle": "@walpolea",
+      "hash": "#webdev #css #javascript #js"
+    },
+    {
+      "link": "https://kittygiraudel.com/2021/03/07/imagining-native-skip-links/",
+      "slink": "https://bit.ly/3qA6y93",
+      "title": "Imagining native skip links",
+      "desc": "Kitty Giraudel proposes a few solutions for a native skip link.",
+      "handle": "@KittyGiraudel",
+      "hash": "#accessibility #a11y #html"
+    },
+    {
+      "link": "https://vasilis.nl/nerd/skipping-skip-links/",
+      "slink": "https://bit.ly/2O5ez8K",
+      "title": "Skipping skip links",
+      "desc": "Vasilis Van Gemert questions the usage of skip links.",
+      "handle": "@vasilis",
+      "hash": "#accessibility #a11y #html"
+    },
+    {
+      "link": "https://www.zdnet.com/article/hackers-exploit-websites-to-give-them-excellent-seo-before-deploying-malware/",
+      "slink": "https://zd.net/3cfEK4i",
+      "title": "Hackers exploit websites to give them excellent SEO before deploying malware",
+      "desc": "Climbing up Google’s ranks is key to this new technique.",
+      "handle": "@zdnet",
+      "hash": "#web #security #websecurity"
+    }
+  ]
+}, {
   "date": "2021-03-01",
   "link": "https://mentor.silvestar.codes/reads/2021-03-01/",
   "slink": "https://bit.ly/3bMorMl",
@@ -33,7 +104,7 @@
       "slink": "https://bit.ly/3e0FVar",
       "title": "Hiding Content Responsibly",
       "desc": "Kitty Giraudel shows all the ways to hide something through HTML or CSS and when to use it.",
-      "handle": "@HugoGiraudel",
+      "handle": "@KittyGiraudel",
       "hash": "#a11y #accessibility"
     },
     {
