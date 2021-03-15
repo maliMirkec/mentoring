@@ -1,4 +1,75 @@
 [{
+  "date": "2021-03-15",
+  "link": "https://mentor.silvestar.codes/reads/2021-03-15/",
+  "slink": "https://bit.ly/3lme8mr",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-48.jpg",
+  "description": "features JS this keyword, a JS trick for faster development, CSS repeating gradients, and CSS audit report.",
+  "list": [{
+      "link": "https://web.dev/javascript-this/",
+      "slink": "https://bit.ly/3qIC2cY",
+      "title": "JavaScript: What is the meaning of this?",
+      "desc": "Jake Archibald describes the meaning and context of the keyword 'this' in different situations.",
+      "handle": "@jaffathecake @ChromiumDev",
+      "hash": "#js #javascript"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=fViMRQLWcCo",
+      "slink": "https://bit.ly/3bMbMtW",
+      "title": "A Single Trick to Speed Up Your JavaScript Development",
+      "desc": "James Perkins shows how to use jsconfig.json to make it easier to develop complex javascript applications with many different folders by using absolute paths.",
+      "handle": "@james_r_perkins",
+      "hash": "#js #javascript #frontend #webdev"
+    },
+    {
+      "link": "https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1",
+      "slink": "https://bit.ly/3vtH7JF",
+      "title": "A Generative SVG Starter Kit",
+      "desc": "George Francis provides all the tools you need to start creating your generative SVG art/design.",
+      "handle": "@georgedoescode",
+      "hash": "#svg #webdev #frontend #design"
+    },
+    {
+      "link": "https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/",
+      "slink": "https://bit.ly/3qLYkKL",
+      "title": "Best practices can slow your application down",
+      "desc": "Roberta Arcoverde and Ryan Donovan share the insights of not using the best practices while building the StackOverflow site.",
+      "handle": "@rla4 @stackoverflow",
+      "hash": "#webdev"
+    },
+    {
+      "link": "https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/",
+      "slink": "https://bit.ly/3vpLV2F",
+      "title": "CSS defines functions to repeat gradients",
+      "desc": "Stefan Judis summarizes the usage of repeating gradients in CSS.",
+      "handle": "@stefanjudis",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://dev.to/devggaurav/5-super-under-rated-free-tools-resources-i-use-almost-every-day-as-a-frontend-developer-5c6g",
+      "slink": "https://bit.ly/2NiLXZ4",
+      "title": "5 super under-rated free tools/resources I use almost every day.",
+      "desc": "Gaurav shares the underrated tools and apps he uses every day as a frontend developer.",
+      "handle": "@devggaurav",
+      "hash": "#html #css #js #javascript #frontend #webdev"
+    },
+    {
+      "link": "https://css-auditors.com/reports/bundesliga-2021-03/",
+      "slink": "https://bit.ly/3vodE3T",
+      "title": "The CSS File Size and Count Report for Bundesliga sites",
+      "desc": "Ivan Smokrović shares insights on CSS file sizes from auditing Bundesliga sites.",
+      "handle": "@CSSAuditors",
+      "hash": "#RespectCSS #css #webdev #frontend"
+    },
+    {
+      "link": "https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/",
+      "slink": "https://bit.ly/30MrSO6",
+      "title": "On CSS sizes and performance budget",
+      "desc": "Ivan Smokrović and Silvestar Bistrović write about CSS sizes, performance budget, data usage, and costs in Bundesliga sites.",
+      "handle": "@CSSAuditors",
+      "hash": "#RespectCSS #css #webdev #frontend"
+    }
+  ]
+}, {
   "date": "2021-03-08",
   "link": "https://mentor.silvestar.codes/reads/2021-03-08/",
   "slink": "https://bit.ly/3t0ej9H",
@@ -129,7 +200,7 @@
       "title": "The Very First CSS Report About CSS File Sizes and File Count",
       "desc": "Silvestar Bistrović shares how and why CSS Auditors started and how they published the first CSS report about file sizes in FPL.",
       "handle": "@CSSAuditors",
-      "hash": "#ux #webdesign #design"
+      "hash": "#RespectCSS #css #webdev #frontend"
     },
     {
       "link": "https://fontjoy.com/",
