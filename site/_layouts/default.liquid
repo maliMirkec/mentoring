@@ -13,7 +13,11 @@
 {% else description %}
   {% assign thisTitle = title %}
   {% assign thisDesc = description | escape %}
-  {% assign thisImage = site.image %}
+  {% if image != blank %}
+    {% assign thisImage = image %}
+  {% else description %}
+    {% assign thisImage = site.image %}
+  {% endif %}
 {% endif %}
 {% if description == blank %}
   {% assign thisDesc = site.description | escape %}

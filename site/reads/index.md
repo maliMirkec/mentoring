@@ -3,6 +3,7 @@ layout: reads-index
 title: UI Dev Newsletter
 navTitle: Reads
 description: UI Dev Newsletter is a hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
+image: https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter.jpg
 tagline:
   - UI Dev Newsletter is a hand-curated list of articles, tutorials, opinions, and tools related to User Interface development. Enjoy the read.
 noCta: true
