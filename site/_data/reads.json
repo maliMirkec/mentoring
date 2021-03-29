@@ -1,4 +1,75 @@
 [{
+  "date": "2021-03-29",
+  "link": "https://mentor.silvestar.codes/reads/2021-03-29/",
+  "slink": "",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-50.jpg",
+  "description": "features guide to accessible front-end components, horizontal rules styling, useful sites for web development and more.",
+  "list": [{
+      "link": "https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
+      "slink": "",
+      "title": "A Complete Guide To Accessible Front-End Components",
+      "desc": "Vitaly Friedman looks into reliable, accessible components: from tabs and tables to toggles and tooltips.",
+      "handle": "@smashingmag",
+      "hash": "#accessiblity #a11y"
+    },
+    {
+      "link": "https://calibreapp.com/blog/css-performance",
+      "slink": "",
+      "title": "How to Improve CSS Performance",
+      "desc": "Milica Mihajlija covers what kinds of performance issues CSS can cause and best practices for crafting CSS that doesn’t get in people’s way",
+      "handle": "@bibydigital @calibreapp",
+      "hash": "#css"
+    },
+    {
+      "link": "https://tatianamac.com/posts/prefers-reduced-motion/",
+      "slink": "",
+      "title": "prefers-reduced-motion: Taking a no-motion-first approach to animations",
+      "desc": "Tatiana Mac provides an approach and guidance to discussing how you to animation thoughtfully and responsibly.",
+      "handle": "@TatianaTMac",
+      "hash": "#css #accessibility #a11y"
+    },
+    {
+      "link": "https://www.sarasoueidan.com/blog/horizontal-rules/",
+      "slink": "",
+      "title": "Not Your Typical Horizontal Rules",
+      "desc": "Sara Soueidan shows how to add a nice little personal touch to your content and designs by customizing horizontal rules.",
+      "handle": "@SaraSoueidan",
+      "hash": "#html #css"
+    },
+    {
+      "link": "https://dev.to/mwrpwr/how-i-made-my-website-load-18-faster-181k",
+      "slink": "",
+      "title": "How I Made My Website Load 18% Faster",
+      "desc": "Joseph Maurer describes how 15 minutes could save you 15% or more on performance.",
+      "handle": "@maurerpwer",
+      "hash": "#webdev #webperf #perfmatters"
+    },
+    {
+      "link": "https://adactio.com/journal/17943",
+      "slink": "",
+      "title": "Good form",
+      "desc": "Jeremy Keith describes and admires the booking process of the National Health Service coronavirus vaccination.",
+      "handle": "@adactioJournal",
+      "hash": "#webdev #covid19"
+    },
+    {
+      "link": "https://www.reddit.com/r/webdev/comments/mcyn74/websites_i_found_useful_during_my_web_development/",
+      "slink": "",
+      "title": "Websites I found useful during my web development journey",
+      "desc": "Dominik shares a comprehensive list of helpful web development resources that could help you, too.",
+      "handle": "",
+      "hash": "#webdev"
+    },
+    {
+      "link": "https://www.fontshare.com/",
+      "slink": "",
+      "title": "Fontshare",
+      "desc": "Fontshare is a service that helps brands and individuals who do not have the budget but still want to access beautiful typography.",
+      "handle": "@itfoundry",
+      "hash": "#webdev #webdesign #fonts"
+    }
+  ]
+}, {
   "date": "2021-03-22",
   "link": "https://mentor.silvestar.codes/reads/2021-03-22/",
   "slink": "https://bit.ly/3fdUAjp",
