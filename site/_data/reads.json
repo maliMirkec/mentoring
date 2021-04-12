@@ -1,12 +1,12 @@
 [{
   "date": "2021-04-12",
   "link": "https://mentor.silvestar.codes/reads/2021-04-12/",
-  "slink": "",
+  "slink": "https://bit.ly/3mItwui",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-52.jpg",
   "description": "features.",
   "list": [{
       "link": "https://www.matuzo.at/blog/html-boilerplate/",
-      "slink": "",
+      "slink": "https://bit.ly/3wRCLwD",
       "title": "My current HTML boilerplate",
       "desc": "Manuel Matuzović shares every element he uses for the basic structure of an HTML document with explanations why.",
       "handle": "@mmatuzo",
@@ -14,7 +14,7 @@
     },
     {
       "link": "https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/",
-      "slink": "",
+      "slink": "https://bit.ly/3g1bq59",
       "title": "CSS Is, In Fact, Awesome",
       "desc": "Jim Nielsen describes how familiarizing ourselves with CSS underlying rules and mechanisms allows us to recognize its awesomeness fully.",
       "handle": "@jimniels",
@@ -22,7 +22,7 @@
     },
     {
       "link": "https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/",
-      "slink": "",
+      "slink": "https://bit.ly/3g1RLlN",
       "title": "Modern CSS Upgrades To Improve Accessibility",
       "desc": "Stephanie Eckles covers a range of topics from focus visibility to respecting color and contrast settings.",
       "handle": "@5t3ph",
@@ -30,7 +30,7 @@
     },
     {
       "link": "https://ishadeed.com/article/inspect-element-curiosity/",
-      "slink": "",
+      "slink": "https://bit.ly/3uHFeI5",
       "title": "Inspect Element As A Way To Feed Your Curiosity",
       "desc": "Ahmad Shadeed highlights some of the exciting and valuable things he learned while being curious about others’ work.",
       "handle": "@shadeed9",
@@ -38,7 +38,7 @@
     },
     {
       "link": "https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/",
-      "slink": "",
+      "slink": "https://bit.ly/2RsjRMO",
       "title": "Cheat sheet for moving from jQuery to vanilla JavaScript",
       "desc": "Tobias Ahlin compiles a practical reference guide with some of the most common jQuery patterns and their JavaScript equivalents.",
       "handle": "@tobiasahlin",
@@ -46,7 +46,7 @@
     },
     {
       "link": "https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg",
-      "slink": "",
+      "slink": "https://bit.ly/3dZptFI",
       "title": "Time for Next-Gen Codecs to Dethrone JPEG",
       "desc": "Jon Sneyers introduces JPEG XL, the next-generation image compression codec.",
       "handle": "@jonsneyers @cloudinary",
@@ -54,7 +54,7 @@
     },
     {
       "link": "https://markodenic.com/javascript-tips/",
-      "slink": "",
+      "slink": "https://bit.ly/3wLauIa",
       "title": "JavaScript Tips",
       "desc": "Marko Denic shares JavaScript tips you won’t find in most tutorials.",
       "handle": "@denicmarko",
@@ -62,7 +62,7 @@
     },
     {
       "link": "https://webvitals.dev/cls",
-      "slink": "",
+      "slink": "https://bit.ly/3dTZ3Fn",
       "title": "Cumulative Layout Shift Debugger",
       "desc": "Visualize the cumulative layout shifts of any webpage, so it becomes easier to identify what needs improving on mobile and/or desktop in the initial load of a website.",
       "handle": "@filiwiese",
