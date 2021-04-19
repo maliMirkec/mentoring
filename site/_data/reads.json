@@ -1,4 +1,75 @@
 [{
+  "date": "2021-04-19",
+  "link": "https://mentor.silvestar.codes/reads/2021-04-19/",
+  "slink": "https://bit.ly/3giX9B7",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-53.jpg",
+  "description": "features overflow issues in CSS, container queries, CSS generators, and more.",
+  "list": [{
+      "link": "https://css-tricks.com/css-is-a-strongly-typed-language/",
+      "slink": "https://bit.ly/3dv9IHB",
+      "title": "CSS is a Strongly Typed Language",
+      "desc": "Eric Bailey explains how CSS is strongly typed language, lists all possible types of values, and offers some proof.",
+      "handle": "@ericwbailey",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2021/04/css-overflow-issues/",
+      "slink": "https://bit.ly/3v32xwa",
+      "title": "Overflow Issues In CSS",
+      "desc": "Ahmad Shadeed explores the causes of overflow issues and how to solve them using DevTools and other methods.",
+      "handle": "@shadeed9",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://ishadeed.com/article/say-hello-to-css-container-queries/",
+      "slink": "https://bit.ly/3uZqnck",
+      "title": "Say Hello To CSS Container Queries",
+      "desc": "Ahmad Shadeed explains why we need container queries, how they could make our life easier, and how to achieve more powerful components and layouts.",
+      "handle": "@shadeed9",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://developer.chrome.com/blog/new-in-chrome-90/#overflow-clip",
+      "slink": "https://bit.ly/3tClIgk",
+      "title": "Prevent overflow with overflow: clip",
+      "desc": "Pete LePage announces Chrome 90 supports a new overflow property 'clip' that prevents any scrolling for the box, including programmatic scrolling.",
+      "handle": "@ChromiumDev @petele",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance",
+      "slink": "https://bit.ly/2Qz69qU",
+      "title": "The best approach to lazy load images for maximum performance",
+      "desc": "Adrian Bece explains how to use image lazy loading in browsers that do and don't support the native lazy load.",
+      "handle": "@AdrianBeceDev",
+      "hash": "#html #webperf #perfmatters"
+    },
+    {
+      "link": "https://sarahmhigley.com/writing/whcm-quick-tips/",
+      "slink": "https://bit.ly/3mZnbus",
+      "title": "Quick Tips for High Contrast Mode",
+      "desc": "Sarah Higley covers some surprising behavior of Windows High Contrast mode.",
+      "handle": "@codingchaos",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://markodenic.com/css-generators/",
+      "slink": "https://bit.ly/3dsCqc6",
+      "title": "CSS Generators",
+      "desc": "Marko Denic shares a collection of the best CSS generators that could help you avoid time-consuming tasks.",
+      "handle": "@denicmarko",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://uiw.tf/",
+      "slink": "https://bit.ly/3tIZ7Pf",
+      "title": "uiwtf",
+      "desc": "uiwtf is an experimental laboratory of user interface patterns and interactions that make you think 'what the f**k?' in a thought-provoking way.",
+      "handle": "@raunofreiberg",
+      "hash": "#frontend #webdev #inspiration"
+    }
+  ]
+}, {
   "date": "2021-04-12",
   "link": "https://mentor.silvestar.codes/reads/2021-04-12/",
   "slink": "https://bit.ly/3mItwui",
