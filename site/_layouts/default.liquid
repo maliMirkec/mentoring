@@ -8,7 +8,7 @@
     {% assign issueDesc = '.' %}
   {% endif %}
   {% assign thisTitle = 'UI Dev Newsletter ' | append: thisIssue %}
-  {% assign thisDesc = "Issue " | append: thisIssue | append: ' of the UI Dev Newsletter' | append: issueDesc | escape %}
+  {% assign thisDesc = "UI Dev Newsletter Issue " | append: thisIssue | append: ' features' | append: issueDesc | escape %}
   {% assign thisImage = thisRead.og %}
 {% else description %}
   {% assign thisTitle = title %}

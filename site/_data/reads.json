@@ -3,7 +3,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-04-26/",
   "slink": "https://bit.ly/3sR3RRi",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-54.jpg",
-  "description": "features CLS guide, split text animations, CSS data visualization framework, and more.",
+  "description": "CLS guide, split text animations, CSS data visualization framework, and more.",
   "list": [{
       "link": "https://www.debugbear.com/blog/devtools-performance",
       "slink": "https://bit.ly/32LxZD9",
@@ -74,7 +74,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-04-19/",
   "slink": "https://bit.ly/3giX9B7",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-53.jpg",
-  "description": "features overflow issues in CSS, container queries, CSS generators, and more.",
+  "description": "overflow issues in CSS, container queries, CSS generators, and more.",
   "list": [{
       "link": "https://css-tricks.com/css-is-a-strongly-typed-language/",
       "slink": "https://bit.ly/3dv9IHB",
@@ -145,7 +145,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-04-12/",
   "slink": "https://bit.ly/3mItwui",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-52.jpg",
-  "description": "features HTML boilerplate, CSS accessibility improvements, jQuery to JavaScript cheat sheet, and many more.",
+  "description": "HTML boilerplate, CSS accessibility improvements, jQuery to JavaScript cheat sheet, and many more.",
   "list": [{
       "link": "https://www.matuzo.at/blog/html-boilerplate/",
       "slink": "https://bit.ly/3wRCLwD",
@@ -216,7 +216,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-04-05/",
   "slink": "https://bit.ly/2R2LD21",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-51.jpg",
-  "description": "features magical 3D button, CSS position and background properties, media queries in JavaScript, and more.",
+  "description": "magical 3D button, CSS position and background properties, media queries in JavaScript, and more.",
   "list": [{
       "link": "https://www.joshwcomeau.com/animation/3d-button/",
       "slink": "https://bit.ly/320BGER",
@@ -287,7 +287,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-03-29/",
   "slink": "https://bit.ly/31vuT5M",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-50.jpg",
-  "description": "features guide to accessible front-end components, horizontal rules styling, useful sites for web development and more.",
+  "description": "guide to accessible front-end components, horizontal rules styling, useful sites for web development and more.",
   "list": [{
       "link": "https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
       "slink": "https://bit.ly/3cwWLgb",
@@ -358,7 +358,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-03-22/",
   "slink": "https://bit.ly/3fdUAjp",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-49.jpg",
-  "description": "features CSS nesting, :has selector, overenhancement and more.",
+  "description": "CSS nesting, :has selector, overenhancement and more.",
   "list": [{
       "link": "https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/",
       "slink": "https://bit.ly/3lArmw0",
@@ -429,7 +429,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-03-15/",
   "slink": "https://bit.ly/3lme8mr",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-48.jpg",
-  "description": "features JS this keyword, a JS trick for faster development, CSS repeating gradients, and CSS audit report.",
+  "description": "JS this keyword, a JS trick for faster development, CSS repeating gradients, and CSS audit report.",
   "list": [{
       "link": "https://web.dev/javascript-this/",
       "slink": "https://bit.ly/3qIC2cY",
@@ -500,7 +500,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-03-08/",
   "slink": "https://bit.ly/3t0ej9H",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-47.jpg",
-  "description": "features Gutenberg Full-Site Editing, font loading strategies, enabling CSS selectors and more.",
+  "description": "Gutenberg Full-Site Editing, font loading strategies, enabling CSS selectors and more.",
   "list": [{
       "link": "https://torquemag.io/2021/03/gutenberg-full-site-editing/",
       "slink": "https://bit.ly/2OfBWw6",
@@ -571,7 +571,7 @@
   "link": "https://mentor.silvestar.codes/reads/2021-03-01/",
   "slink": "https://bit.ly/3bMorMl",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-46.jpg",
-  "description": "features WebAIM's annual accessibility report, in-depth exploration of z-index, and JavaScript debounce function.",
+  "description": "WebAIM's annual accessibility report, in-depth exploration of z-index, and JavaScript debounce function.",
   "list": [{
       "link": "https://webaim.org/projects/million/",
       "slink": "https://bit.ly/37XmTxW",
@@ -641,7 +641,7 @@
   "date": "2021-02-22",
   "link": "https://mentor.silvestar.codes/reads/2021-02-22/",
   "slink": "https://bit.ly/3bsfE1T",
-  "description": "features CSS file size report, Fetch API Cheatsheet, UI Design Tips and more.",
+  "description": "CSS file size report, Fetch API Cheatsheet, UI Design Tips and more.",
   "list": [{
       "link": "https://css-auditors.com/reports/premier-league-2021-02/",
       "slink": "https://bit.ly/3btFUJh",
@@ -711,7 +711,7 @@
   "date": "2021-02-15",
   "link": "https://mentor.silvestar.codes/reads/2021-02-15/",
   "slink": "https://bit.ly/37gbjxD",
-  "description": "features CSS transitions, accessible skeletons and more.",
+  "description": "CSS transitions, accessible skeletons and more.",
   "list": [{
       "link": "https://www.joshwcomeau.com/animation/css-transitions/",
       "slink": "https://bit.ly/2ZiTp8S",
@@ -1087,7 +1087,7 @@
     {
       "link": "https://bit.ly/3i35HL5",
       "title": "Case Study: lynnandtonic.com 2020 refresh",
-      "desc": "Lynn Fisher explains the process of the creation of new fancy features on the homepage.",
+      "desc": "Lynn Fisher explains the process of the creation of new fancy on the homepage.",
       "handle": "@lynnandtonic",
       "hash": "#css"
     },
@@ -1120,7 +1120,7 @@
     {
       "link": "https://bit.ly/3nbBydu",
       "title": "Is Safari the next Internet Explorer?",
-      "desc": "Danny Guo compares Safari browser with Internet Explorer in terms of web features and implementations.",
+      "desc": "Danny Guo compares Safari browser with Internet Explorer in terms of web and implementations.",
       "handle": "@dannyguo",
       "hash": "#browsers #safari #ie"
     },
@@ -1758,7 +1758,7 @@
     {
       "link": "https://bit.ly/3jtgBcr",
       "title": "10 useful HTML file upload tips for web developers",
-      "desc": "Tapas Adhikary shows 10 features of HTML file upload support, including drag-and-drop and multiple uploads.",
+      "desc": "Tapas Adhikary shows 10 of HTML file upload support, including drag-and-drop and multiple uploads.",
       "handle": "@tapasadhikary",
       "hash": "#html #upload"
     },
@@ -1825,7 +1825,7 @@
     {
       "link": "https://bit.ly/3ja9qFF",
       "title": "Learn & practice Git",
-      "desc": "Git exercises is a new way to learn and practice Git and discover its features you might haven’t been aware of."
+      "desc": "Git exercises is a new way to learn and practice Git and discover its you might haven’t been aware of."
     }
   ]
 },
@@ -2141,7 +2141,7 @@
   "date": "2020-08-24",
   "list": [{
       "link": "https://bit.ly/31p3x1H",
-      "title": "5 most annoying website features I face as a blind person every single day",
+      "title": "5 most annoying website I face as a blind person every single day",
       "desc": "Holly Tuke describes the five most annoying inaccessible web elements she faces as a blind screen reader user every day and how to fix them."
     },
     {
@@ -2411,12 +2411,12 @@
     {
       "link": "https://www.smashingmagazine.com/2020/07/css-news-july-2020/",
       "title": "CSS News July 2020",
-      "desc": "Rachel Andrew takes a look at some of the interesting CSS features that are making their way into browsers right now."
+      "desc": "Rachel Andrew takes a look at some of the interesting CSS that are making their way into browsers right now."
     },
     {
       "link": "https://blog.logrocket.com/the-ultimate-guide-to-iframes/",
       "title": "The ultimate guide to iframes",
-      "desc": "Nada Rifki goes through many iframe element features and talks about usage, tricky situations, security, and accessibility."
+      "desc": "Nada Rifki goes through many iframe element and talks about usage, tricky situations, security, and accessibility."
     },
     {
       "link": "https://dev.to/carriepascale/a-very-beginner-s-guide-to-webpack-2jal",
@@ -2454,7 +2454,7 @@
     },
     {
       "link": "https://css-tricks.com/when-sass-and-new-css-features-collide/",
-      "title": "When Sass and New CSS Features Collide",
+      "title": "When Sass and New CSS Collide",
       "desc": "Ana Tudor explains how to solve a problem when a new CSS Feature has the same name as the existing Sass function like min() or linear-gradient()."
     },
     {
