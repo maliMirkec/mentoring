@@ -15,7 +15,7 @@ try {
       list1 += `
     <li>
       <p>
-        <span><a href="${item.slink}" target="_blank"><strong style="color:#FF3366">${item.title}</strong><br><small style="color:#FF3366">${item.link}</small></a></span><br>
+        <span><a href="${item.slink}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${item.title}</strong><br><small style="color:#FF3366">${item.link}</small></a></span><br>
         <span>${item.desc}</span>
       </p>
     </li>`
@@ -43,16 +43,21 @@ More UI Dev links: https://bit.ly/2PazCGY.
   console.log('~~~~~~~~~~~~~')
 
   console.log(`
-<h1><a href="${doc[0].slink}" target="_blank"><strong style="color:#FF3366">UI Dev Newsletter #${doc.length}</strong></a></h1>
+<a style="display:block;background:#eee;padding:2rem;text-decoration:none" href="${doc[0].slink}"><img alt="UI Dev Newsletter logo" class="tl-email-image" height="100" src="https://res.cloudinary.com/starbist/image/upload/v1619351897/uidevnewsletter-logo3_uhcdjf.png" style="margin: 0 auto; border: none; width: 400px; max-width: 400px;" width="400" /></a>
+</a>
+
+<div style="background:#fff;border:1px solid #eee;padding:2rem">
+<h1><a href="${doc[0].slink}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">Issue #${doc.length}</strong></a></h1>
 
 <h5><strong>${doc[0].date}</strong></h5>
 
-<ul>
+<ul style="padding: 0">
   ${list1}
 </ul>
 
 <p>Happy coding!</p>
-  `);
+</div>
+`);
 
   console.log('~~~~~~~~~~~~~')
   console.log('UI Post')
