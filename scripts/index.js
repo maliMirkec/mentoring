@@ -31,8 +31,6 @@ ${item.desc}
 ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + item.handle : 'by ' + item.handle}
 #ui #uidev ${item.hash ? item.hash : ''}
 
-More UI Dev links: https://bit.ly/2PazCGY.
-
 -------------
 `
     })
@@ -81,13 +79,11 @@ Happy coding!
   console.log(`UI Dev Newsletter Issue ${doc.length} features:
 - ${doc[0].description.split(', ').join('\n- ')}
 
-https://mentor.silvestar.codes/reads/2021-04-26/
+https://mentor.silvestar.codes/reads/${doc[0].date}/
 
 #ui #uidev #html #css #javascript #frontend
 
 ${doc[0].list.map(d => d.handle).join(' ')}`)
-
-console.log(doc[0].list.map(d => d.handle));
 } catch (e) {
   console.log(e);
 }
