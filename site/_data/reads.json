@@ -1,4 +1,75 @@
 [{
+  "date": "2021-05-10",
+  "link": "https://mentor.silvestar.codes/reads/2021-05-10/",
+  "slink": "https://bit.ly/2Q1qULV",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-56.jpg",
+  "description": "Airbnb's JavaScript style guide, how to make show password option, advice on how to build better landing pages, and more.",
+  "list": [{
+      "link": "https://github.com/airbnb/javascript",
+      "slink": "https://bit.ly/3tFGqLv",
+      "title": "Airbnb JavaScript Style Guide",
+      "desc": "Airbnb shares a comprehensive style guide for using JavaScript.",
+      "handle": "@Airbnb",
+      "hash": "#js #javascript"
+    },
+    {
+      "link": "https://ishadeed.com/article/cross-browser-development/",
+      "slink": "https://bit.ly/3hbY4DO",
+      "title": "The State of CSS Cross-Browser Development",
+      "desc": "Ahmad Shadeed shows how css cross-browser development used to be and highlights css problems that still need to be fixed.",
+      "handle": " @shadeed9",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option/",
+      "slink": "https://bit.ly/33zx9tr",
+      "title": "Simple things are complicated: making a show password option",
+      "desc": "Andy Sellick describes how to build secure and accessible password input with a show password option.",
+      "handle": "@GOVUK",
+      "hash": "#html #frontend #webdev #security #accessibility #a11Y"
+    },
+    {
+      "link": "https://html5accessibility.com/stuff/2021/05/01/html-developers-please-consider-in-the-year-of-2021/",
+      "slink": "https://bit.ly/2Q0um9A",
+      "title": "HTML Developers: Please Consider – in the year of 2021",
+      "desc": "Steve Faulkner lists common aria attributes and which HTML elements to use with them.",
+      "handle": "@stevefaulkner",
+      "hash": "#html #accessibility #a11y"
+    },
+    {
+      "link": "https://chenhuijing.com/blog/debugging-vertical-layouts-in-2021/",
+      "slink": "https://bit.ly/3hcIN5H",
+      "title": "Debugging vertical layouts in 2021",
+      "desc": "Chen Hui Jing revisits the states of DevTools for debugging CSS grid in vertical writing mode.",
+      "handle": "@hj_chen",
+      "hash": "#css #devtools #frontend #webdev"
+    },
+    {
+      "link": "https://www.twitter.com/heyblake/status/1389725784651309056",
+      "slink": "https://bit.ly/33tSUuM",
+      "title": "17 advices to make better landing pages",
+      "desc": "Blake Emal shares 17 learnings to help your landing page convert from auditing 500+ websites over the past six years.",
+      "handle": "@heyblake",
+      "hash": "#webdesign #frontend #webdev"
+    },
+    {
+      "link": "https://css-tricks.com/is-css-a-programming-language/",
+      "slink": "https://bit.ly/3ewbHfl",
+      "title": "Is CSS a Programming Language?",
+      "desc": "Chris Coyier tries to answer the evergreen question about CSS with respect in mind.",
+      "handle": "@chriscoyier @css",
+      "hash": "#css #frontend #webdev"
+    },
+    {
+      "link": "https://type.method.ac/",
+      "slink": "https://bit.ly/3txtfvY",
+      "title": "Kern Type, the kerning game",
+      "desc": "A game that helps you learn to kern type.",
+      "handle": "@methodofaction",
+      "hash": "#type #fonts #kerning #webdesign"
+    }
+  ]
+}, {
   "date": "2021-05-03",
   "link": "https://mentor.silvestar.codes/reads/2021-05-03/",
   "slink": "https://bit.ly/3nFeKou",
