@@ -1,12 +1,12 @@
 [{
   "date": "2021-05-17",
   "link": "https://mentor.silvestar.codes/reads/2021-05-17/",
-  "slink": "",
+  "slink": "https://bit.ly/3uVVKon",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-57.jpg",
   "description": "Web Vitals optimization, Container Queries exploration, Psychology of Design, and more.",
   "list": [{
       "link": "https://web.dev/optimize-vitals-lighthouse/",
-      "slink": "",
+      "slink": "https://bit.ly/3hwu05T",
       "title": "Optimizing Web Vitals using Lighthouse",
       "desc": "Addy Osmani covers new tooling in Lighthouse, PageSpeed, and DevTools to help identify how your site can improve on the Web Vitals.",
       "handle": "@addyosmani",
@@ -14,7 +14,7 @@
     },
     {
       "link": "https://mxb.dev/blog/container-queries-web-components/",
-      "slink": "",
+      "slink": "https://bit.ly/3ootjNv",
       "title": "Container Queries in Web Components",
       "desc": "Max Böck explores Container Queries and shares the process of creating a book store demo.",
       "handle": "@mxbck",
@@ -22,7 +22,7 @@
     },
     {
       "link": "https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
-      "slink": "",
+      "slink": "https://bit.ly/2SRMVxP",
       "title": "Component-level art direction with CSS Container Queries",
       "desc": "Sara Soueidan explores the possibilities of Container Queries by taking a closer look into a classic card component.",
       "handle": "@SaraSoueidan",
@@ -30,7 +30,7 @@
     },
     {
       "link": "https://css-irl.info/toggling-css-custom-properties-with-radio-buttons/",
-      "slink": "",
+      "slink": "https://bit.ly/33N6vNR",
       "title": "Toggling CSS Custom Properties with Radio Buttons",
       "desc": "Michelle Barker shares why CSS Variables are great for toggling between different values using radio buttons.",
       "handle": "@CSSInRealLife",
@@ -38,7 +38,7 @@
     },
     {
       "link": "https://www.dannyguo.com/blog/what-i-learned-by-relearning-html",
-      "slink": "",
+      "slink": "https://bit.ly/2Rsrlzz",
       "title": "What I Learned by Relearning HTML",
       "desc": "Danny Guo shares his positive experience while relearning HTML by taking a beginners course and reading the MDN documentation for HTML.",
       "handle": "@dannyguo",
@@ -46,7 +46,7 @@
     },
     {
       "link": "https://growth.design/psychology/",
-      "slink": "",
+      "slink": "https://bit.ly/3tV4Osz",
       "title": "🧠 Psychology of Design: 101 Cognitive Biases &amp; Principles That Affect Your UX",
       "desc": "A complete list of cognitive biases and design principles. Tons of product examples, tips, and checklists to improve your user experience.",
       "handle": "",
@@ -54,7 +54,7 @@
     },
     {
       "link": "https://github.com/microsoft/Web-Dev-For-Beginners",
-      "slink": "",
+      "slink": "https://bit.ly/3eQftjV",
       "title": "Web Development for Beginners - A Curriculum",
       "desc": "Microsoft offers a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics.",
       "handle": "@OpenAtMicrosoft",
@@ -62,7 +62,7 @@
     },
     {
       "link": "https://markodenic.com/tools/glassmorphism-css-generator/",
-      "slink": "",
+      "slink": "https://bit.ly/3yhtb7e",
       "title": "Glassmorphism CSS Generator",
       "desc": "Marko Denic creates a helpful tool for generating appealing glass effects with CSS only.",
       "handle": "@denicmarko",
