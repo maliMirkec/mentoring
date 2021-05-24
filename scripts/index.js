@@ -49,7 +49,7 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
 
 <h5><strong>${doc[0].date}</strong></h5>
 
-<ul style="padding: 0">
+<ul style="list-style:none;padding:0">
   ${list1}
 </ul>
 
@@ -84,6 +84,14 @@ https://mentor.silvestar.codes/reads/${doc[0].date}/
 #ui #uidev #html #css #javascript #frontend
 
 ${doc[0].list.map(d => d.handle).join(' ')}`)
+
+  if(!doc[0].slink || doc[0].slink === '') {
+    console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nShorten the links!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
+  }
+
+  if(!doc[0].description || doc[0].description === '') {
+    console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nAdd the description!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
+  }
 } catch (e) {
   console.log(e);
 }
