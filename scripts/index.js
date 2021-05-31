@@ -75,12 +75,18 @@ Happy coding!
 
   console.log(list3);
 
-  console.log(`UI Dev Newsletter Issue ${doc.length} features:
-- ${doc[0].description.split(', ').join('\n- ')}
+  console.log(`UI Dev Newsletter Issue ${doc.length} is out!
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-${doc[0].list.map(d => d.handle).join(' ')}`)
+Featuring ${doc[0].list.map(d => d.handle).join(' ')}
+
+
+Read the latest UI Dev Newsletter Issue ${doc.length}.
+
+https://mentor.silvestar.codes/reads/${doc[0].date}/
+
+Featuring ${doc[0].list.map(d => d.handle).join(' ')}`)
 
   if(!doc[0].slink || doc[0].slink === '') {
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nShorten the links!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
