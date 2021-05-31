@@ -29,7 +29,6 @@ ${item.desc}
       list3 += `
 ${item.desc}
 ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + item.handle : 'by ' + item.handle}
-#ui #uidev ${item.hash ? item.hash : ''}
 
 -------------
 `
@@ -80,8 +79,6 @@ Happy coding!
 - ${doc[0].description.split(', ').join('\n- ')}
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
-
-#ui #uidev #html #css #javascript #frontend
 
 ${doc[0].list.map(d => d.handle).join(' ')}`)
 
