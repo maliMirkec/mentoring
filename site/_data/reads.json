@@ -1,4 +1,75 @@
 [{
+  "date": "2021-06-07",
+  "link": "https://mentor.silvestar.codes/reads/2021-06-07/",
+  "slink": "https://bit.ly/2T0yaci",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-60.jpg",
+  "description": "SVG styling and animating, HTML and CSS techniques to reduce your JavaScript, Wes Bos' JavaScript notes, and more.",
+  "list": [{
+      "link": "https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/",
+      "slink": "https://bit.ly/2SY1pMK",
+      "title": "25 Years of CSS",
+      "desc": "Eric A. Meyer takes a look at notes about CSS that he wrote 25 years ago while attending the WWW5 conference.",
+      "handle": "@meyerweb",
+      "hash": ""
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/",
+      "slink": "https://bit.ly/3vYkMUC",
+      "title": "Styling And Animating SVGs With CSS",
+      "desc": "Sara Soueidan explains why it is essential to optimize your SVGs, why put in the effort to make them accessible, and how to style and animate them with CSS.",
+      "handle": "@SaraSoueidan",
+      "hash": ""
+    },
+    {
+      "link": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
+      "slink": "https://bit.ly/3fTtbTt",
+      "title": "HTML and CSS techniques to reduce your JavaScript",
+      "desc": "Anthony Ricaud explores native solutions that are available to most of your users and don’t require JavaScript.",
+      "handle": "@anthony_ricaud",
+      "hash": ""
+    },
+    {
+      "link": "https://a11y-collective.com/blog/the-perfect-link/",
+      "slink": "https://bit.ly/2T5Wr0j",
+      "title": "The perfect link",
+      "desc": "Rian Rietveld tries to answer how do we write, design, and code a link that works for everyone on every device.",
+      "handle": "@RianRietveld",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/eevajonnapanula/don-t-develop-just-for-yourself-a-developer-s-checklist-to-accessibility-545k",
+      "slink": "https://bit.ly/2T3p7ag",
+      "title": "Don't Develop Just for Yourself - A Developer's Checklist to Accessibility",
+      "desc": "Eevis Panula provides information about accessibility and what things to check manually after automated testing.",
+      "handle": "@EevisPanula",
+      "hash": ""
+    },
+    {
+      "link": "https://blog.eleftheriabatsou.com/amp/color-psychology-in-web-design",
+      "slink": "https://bit.ly/34YZbzf",
+      "title": "Color psychology in web design",
+      "desc": "Eleftheria Batsou shares a quick guide about picking the “right” color for the web-based on psychology.",
+      "handle": "@BatsouElef",
+      "hash": ""
+    },
+    {
+      "link": "https://wesbos.com/javascript",
+      "slink": "https://bit.ly/3cnXAar",
+      "title": "JavaScript Notes & Reference",
+      "desc": "Wes Bos shares helpful notes based on his Beginner JavaScript Video Course.",
+      "handle": "@wesbos",
+      "hash": ""
+    },
+    {
+      "link": "https://compressimage.io/",
+      "slink": "https://bit.ly/3uWovkj",
+      "title": "Compress Image Online",
+      "desc": "Compress JPG and PNG images at light speed with a Browser-based Image compressor. Private, Works Offline, No Limits, 0 carbon emission.",
+      "handle": "@towfiqi",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-05-31",
   "link": "https://mentor.silvestar.codes/reads/2021-05-31/",
   "slink": "https://bit.ly/2TqmRdr",

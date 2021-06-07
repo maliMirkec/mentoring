@@ -28,6 +28,7 @@ ${item.desc}
 
       list3 += `
 ${item.desc}
+
 ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + item.handle : 'by ' + item.handle}
 
 -------------
@@ -73,20 +74,23 @@ Happy coding!
   console.log('UI Twitter')
   console.log('~~~~~~~~~~~~~')
 
-  console.log(list3);
-
-  console.log(`UI Dev Newsletter Issue ${doc.length} is out!
+  console.log(`
+UI Dev Newsletter Issue ${doc.length} is out!
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
 Featuring ${doc[0].list.map(d => d.handle).join(' ')}
 
+-------------`)
 
-Read the latest UI Dev Newsletter Issue ${doc.length}.
+  console.log(list3);
+
+  console.log(`Read the latest UI Dev Newsletter Issue ${doc.length}.
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${doc[0].list.map(d => d.handle).join(' ')}`)
+Featuring ${doc[0].list.map(d => d.handle).join(' ')}
+`)
 
   if(!doc[0].slink || doc[0].slink === '') {
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nShorten the links!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
