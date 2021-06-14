@@ -1,4 +1,75 @@
 [{
+  "date": "2021-06-14",
+  "link": "https://mentor.silvestar.codes/reads/2021-06-14/",
+  "slink": "https://bit.ly/2Tr4wgy",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-61.jpg",
+  "description": "size-adjust property, frontend auditing tools, CSS system colors, and more.",
+  "list": [{
+      "link": "https://web.dev/css-size-adjust/",
+      "slink": "https://bit.ly/3glSgXt",
+      "title": "CSS size-adjust for @font-face",
+      "desc": "Ada Argyle introduces size-adjust property that could adjust fonts, to normalize the document font sizes and prevent layout shift when switching between fonts.",
+      "handle": "@argyleink @ChromiumDev",
+      "hash": ""
+    },
+    {
+      "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
+      "slink": "https://bit.ly/3vlY9bE",
+      "title": "Media Queries in Times of @container",
+      "desc": "Max Böck tries to figure out will we need media queries at all with container queries on the horizon.",
+      "handle": "@mxbck",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/targetblank/",
+      "slink": "https://bit.ly/3xeZ6DG",
+      "title": "target=blank",
+      "desc": "Chris Coyier explains the difference between '_blank' and 'blank' in the target attribute.",
+      "handle": "@chriscoyier @css",
+      "hash": ""
+    },
+    {
+      "link": "https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/",
+      "slink": "https://bit.ly/3xoN8aX",
+      "title": "The right tag for the job: why you should use semantic HTML",
+      "desc": "Sophie Koonin shows why you should use semantic HTML tags and how they are announced in screen readers.",
+      "handle": "@type__error",
+      "hash": ""
+    },
+    {
+      "link": "https://blog.jim-nielsen.com/2021/css-system-colors/",
+      "slink": "https://bit.ly/3pRsKMV",
+      "title": "CSS System Colors",
+      "desc": "Jim Nielsen shows how to use color-scheme property to make dark mode.",
+      "handle": "@jimniels",
+      "hash": ""
+    },
+    {
+      "link": "https://gomakethings.com/the-mobile-web-is-the-web/",
+      "slink": "https://bit.ly/3wnGeCF",
+      "title": "The mobile web is the web",
+      "desc": "Chris Ferdinandi explains why we should think of performance when building for the web.",
+      "handle": "@ChrisFerdinandi",
+      "hash": ""
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
+      "slink": "https://bit.ly/3xjMjQt",
+      "title": "Three Front-End Auditing Tools I Discovered Recently",
+      "desc": "Stefan Judis shares three less-known tools that might help you optimize your page speed score.",
+      "handle": "@stefanjudis",
+      "hash": ""
+    },
+    {
+      "link": "https://whocanuse.com/",
+      "slink": "https://bit.ly/35g9Aa4",
+      "title": "whocanuse",
+      "desc": "A site that shows you who can use a combination of two colors.",
+      "handle": "@coreyginnivan",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-06-07",
   "link": "https://mentor.silvestar.codes/reads/2021-06-07/",
   "slink": "https://bit.ly/2T0yaci",
