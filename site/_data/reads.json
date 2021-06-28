@@ -1,4 +1,75 @@
 [{
+  "date": "2021-06-28",
+  "link": "https://mentor.silvestar.codes/reads/2021-06-28/",
+  "slink": "https://bit.ly/35Wsao8",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-63.jpg",
+  "description": "content-visibility, organizing CSS declarations, DevTools snippets, and more.",
+  "list": [{
+      "link": "https://css-tricks.com/almanac/properties/c/content-visibility/",
+      "slink": "https://bit.ly/3dkHgrr",
+      "title": "content-visibility",
+      "desc": "Idorenyin Udoh explains all about the content-visibility property in CSS.",
+      "handle": "@broods_",
+      "hash": ""
+    },
+    {
+      "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
+      "slink": "https://bit.ly/2TarvN0",
+      "title": "Organize your CSS declarations alphabetically",
+      "desc": "Eric Bailey explains why organizing CSS declarations are essential and why using alphabetical order might be the best solution.",
+      "handle": "@ericwbailey",
+      "hash": ""
+    },
+    {
+      "link": "https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html",
+      "slink": "https://bit.ly/3jkBc6a",
+      "title": "Using CSS to Enforce Accessibility",
+      "desc": "Adrian Roselli lists some examples of how the CSS selector is keying off the HTML, what WCAG Success Criteria they help support, and if there are any gotchas.",
+      "handle": "@aardrian",
+      "hash": ""
+    },
+    {
+      "link": "https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html",
+      "slink": "https://bit.ly/3x5g9sk",
+      "title": "Inherit, initial, unset, revert",
+      "desc": "Peter-Paul Koch explains special CSS keywords you can use on any CSS property, where and when to use them to the greatest effect, and which ones should exist, but not.",
+      "handle": "@ppk",
+      "hash": ""
+    },
+    {
+      "link": "https://dougsillars.com/2021/06/21/gifs-on-the-web-a-new-way-to-bloat/",
+      "slink": "https://bit.ly/3A6rk5R",
+      "title": "GIFs on the web: A new way to bloat",
+      "desc": "Doug Sillars shows how the Giphy platform loads an additional 300+ KB of code to your site when embedding GIFs.",
+      "handle": "@dougsillars",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/madsstoumann/updating-a-25-year-old-website-42jm",
+      "slink": "https://bit.ly/2U3Q8Ll",
+      "title": "Updating A 25-Year-Old Website",
+      "desc": "Mads Stoumann shows how old code is sometimes unavoidable, either because of scope or costs, but it can teach you a thing or two.",
+      "handle": "@madsstoumann",
+      "hash": ""
+    },
+    {
+      "link": "https://github.com/matuzo/DevToolsSnippets",
+      "slink": "https://bit.ly/2T3FoN6",
+      "title": "DevToolsSnippets",
+      "desc": "Manuel Matuzović shares a collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.",
+      "handle": "@mmatuzo",
+      "hash": ""
+    },
+    {
+      "link": "https://canwe.dev/",
+      "slink": "https://bit.ly/3A4QjGD",
+      "title": "Can We",
+      "desc": "Mehdi Merah shares a collection of websites focused on browser usage and features.",
+      "handle": "@meduzen",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-06-21",
   "link": "https://mentor.silvestar.codes/reads/2021-06-21/",
   "slink": "https://bit.ly/3cVhslr",
