@@ -1,12 +1,12 @@
 [{
-  "date": "2021-07-04",
-  "link": "https://mentor.silvestar.codes/reads/2021-07-04/",
-  "slink": "",
+  "date": "2021-07-05",
+  "link": "https://mentor.silvestar.codes/reads/2021-07-05/",
+  "slink": "https://bit.ly/3jIGAjI",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-64.jpg",
-  "description": "",
+  "description": "JavaScript GitHub projects, prefers-reduced-motion and browser defaults, Glassmorphism CSS Generator, and more.",
   "list": [{
       "link": "https://dev.to/ankit01oss/7-github-projects-essential-for-every-javascript-developer-258i",
-      "slink": "",
+      "slink": "https://bit.ly/3dHDoRr",
       "title": "7 GitHub projects essential for every Javascript developer 👨🏽‍💻 🚀",
       "desc": "Ankit Anand shares amazing and popular GitHub projects that will help you become a better Javascript developer.",
       "handle": "Ankit Anand",
@@ -14,7 +14,7 @@
     },
     {
       "link": "https://gomakethings.com/images-and-screen-reader-users/",
-      "slink": "",
+      "slink": "https://bit.ly/2UqpFaT",
       "title": "Images and screen reader users",
       "desc": "Chris Ferdinandi shows how to use the alt attribute with img elements to provide descriptive text that can be read aloud by screen readers and other assistive technology.",
       "handle": "@ChrisFerdinandi",
@@ -22,7 +22,7 @@
     },
     {
       "link": "https://uxdesign.cc/do-i-have-to-try-again-in-a-few-minutes-15f70d3e7301",
-      "slink": "",
+      "slink": "https://bit.ly/3Atm9gI",
       "title": "Do I have to “Try again in a few minutes”?",
       "desc": "Frank W. explains what might be a better way to have products keep delivering value even when they glitch.",
       "handle": "@uxdesigncc",
@@ -30,7 +30,7 @@
     },
     {
       "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
-      "slink": "",
+      "slink": "https://bit.ly/3ApFHCD",
       "title": "Positioning Overlay Content with CSS Grid",
       "desc": "Ryan Mulligan shows how to use CSS Grid and alignment properties to create component layouts that contain multiple overlapping elements.",
       "handle": "@hexagoncircle",
@@ -38,7 +38,7 @@
     },
     {
       "link": "https://brucelawson.co.uk/2021/prefers-reduced-motion-and-browser-defaults/",
-      "slink": "",
+      "slink": "https://bit.ly/3ApFOhx",
       "title": "prefers-reduced-motion and browser defaults",
       "desc": "Bruce Lawson proposes some default behaviour for reduced motion and shares a temporary CSS workaround.",
       "handle": "@brucel",
@@ -46,7 +46,7 @@
     },
     {
       "link": "https://gist.github.com/jackdomleo7/55659bafe581d19cc341ef775d6a9e6b",
-      "slink": "",
+      "slink": "https://bit.ly/3wl53OG",
       "title": "Useful global CSS",
       "desc": "Jack Domleo shares a set of useful global CSS defaults to add to your site alongside a reset stylesheet (with explanations).",
       "handle": "@jackdomleo7",
@@ -54,7 +54,7 @@
     },
     {
       "link": "https://ui.glass/generator/",
-      "slink": "",
+      "slink": "https://bit.ly/2UXqPei",
       "title": "Glassmorphism CSS Generator",
       "desc": "Zoltán Szőgyényi shares a CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.",
       "handle": "@zoltanszogyenyi",
@@ -62,7 +62,7 @@
     },
     {
       "link": "https://www.screensizes.app/",
-      "slink": "",
+      "slink": "https://bit.ly/3dEutk0",
       "title": "Screen Sizes",
       "desc": "A complete guide for Apple displays.",
       "handle": "@trevormkay",
