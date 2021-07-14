@@ -30,7 +30,7 @@ body {
       line-height: 0.75;
     }
 
-    &:after {
+    &:not(.plain).after {
       content: "";
       position: absolute;
       top: 100%;
@@ -53,14 +53,14 @@ body {
     }
 
     @include mq($until: desktop) {
-      &:after {
+      &:not(.plain):after {
         left: 40%;
         background-image: linear-gradient(to right, transparent, $color-delta 50%, transparent);
       }
     }
 
     @include mq($from: desktop) {
-      &:after {
+      &:not(.plain):after {
         top: 100%;
         left: 0;
         background-image: linear-gradient(to right, $color-delta 50%, transparent);
