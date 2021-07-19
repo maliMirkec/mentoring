@@ -9,6 +9,7 @@ try {
   let list1 = '';
   let list2 = '';
   let list3 = '';
+  let promo = '';
 
   if(doc[0].list && doc[0].list.length) {
     doc[0].list.forEach(item => {
@@ -31,6 +32,14 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
 -------------
 `
     })
+  }
+
+  if(doc[0].promotion) {
+    list1 += `
+    <li>
+      <p><small>Self-promotion</small><br><span><a href="${doc[0].promotion.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${doc[0].promotion.title}</strong><br><small style="color:#FF3366">${doc[0].promotion.link}</small></a></span><br><span>${doc[0].promotion.desc}</span></p>
+    </li>
+    `
   }
 
   console.log('~~~~~~~~~~~~~')
@@ -84,12 +93,16 @@ https://mentor.silvestar.codes/reads/${doc[0].date}/
 Featuring ${doc[0].list.map(d => d.handle).join(' ')}
 `)
 
-  if(!doc[0].link || doc[0].link === '') {
+  if(!doc[0].slink || doc[0].slink === '') {
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nShorten the links!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
   }
 
   if(!doc[0].description || doc[0].description === '') {
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nAdd the description!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
+  }
+
+  if(!doc[0].grammarly || doc[0].grammarly === '') {
+    console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nCheck the grammar!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
   }
 } catch (e) {
   console.log(e);

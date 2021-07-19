@@ -1,4 +1,84 @@
 [{
+  "date": "2021-07-19",
+  "link": "https://mentor.silvestar.codes/reads/2021-07-19/",
+  "slink": "https://bit.ly/3zi8PdL",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-66.jpg",
+  "description": "lazy-loading performance, 'theme-color' meta tag, designing better filters, and more.",
+  "grammarly": "true",
+  "promotion": {
+    "link": "https://www.silvestar.codes/stories/",
+    "slink": "https://bit.ly/3ktSVZv",
+    "title": "New on my web: Stories",
+    "desc": "Just random thoughts and notes from yours truly.",
+    "handle": "@malimirkeccita",
+    "hash": ""
+  },
+  "list": [{
+      "link": "https://web.dev/lcp-lazy-loading/",
+      "slink": "https://bit.ly/2VRz0cx",
+      "title": "The performance effects of too much lazy-loading",
+      "desc": "Rick Viscomi and Felix Arntz share data-driven advice for lazy-loading images with Core Web Vitals in mind.",
+      "handle": "@rick_viscomi @felixarntz @ChromiumDev",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
+      "slink": "https://bit.ly/3eAIS0O",
+      "title": "Meta Theme Color and Trickery",
+      "desc": "Manuel Matuzović explores the possibilities of a 'theme-color' meta tag.",
+      "handle": "@mmatuzo",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/colabottles/why-accessibility-26mf",
+      "slink": "https://bit.ly/3inBgQn",
+      "title": "Why Accessibility?",
+      "desc": "Todd Libby explains why accessibility should be an equal citizen of your project.",
+      "handle": "@toddlibby",
+      "hash": ""
+    },
+    {
+      "link": "https://uxdesign.cc/designing-a-chair-a-story-about-junior-designers-vs-senior-designers-24be40b1d2cb",
+      "slink": "https://bit.ly/3hP9xZX",
+      "title": "Designing a chair: A story about Junior vs. Senior Designers.",
+      "desc": "Stan Reimgen explains the difference between junior and senior designers, which could be applied to developers.",
+      "handle": "@stanreim @uxdesigncc",
+      "hash": ""
+    },
+    {
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar",
+      "slink": "https://mzl.la/2VYUmoz",
+      "title": "Lexical grammar",
+      "desc": "MDN contributors describe everything about JavaScript's lexical grammar from control characters and white space to automatic semicolon insertion and browser compatibility.",
+      "handle": "@MozDevNet @mozilla",
+      "hash": ""
+    },
+    {
+      "link": "https://medium.com/nerd-for-tech/why-you-should-stop-using-ui-frameworks-9289f0569a57",
+      "slink": "https://bit.ly/2UhoX0f",
+      "title": "Why I am not the King",
+      "desc": "Kevin Powell shares a lot of helpful CSS resources and professionals in his humble post.",
+      "handle": "@kevinJPowell",
+      "hash": ""
+    },
+    {
+      "link": "https://www.dottedsquirrel.com/javascript-language/",
+      "slink": "https://bit.ly/3exmk1a",
+      "title": "Trends Come And Go, But JavaScript Is Forever",
+      "desc": "Aphinya Dechalert explores a little into the history of JavaScript and its good and bad parts.",
+      "handle": "@dottedsquirrel",
+      "hash": ""
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
+      "slink": "https://bit.ly/36HT1Vn",
+      "title": "Frustrating Design Patterns: Broken Filters",
+      "desc": "Vitaly Friedman describes how to design better filters on the web.",
+      "handle": "@smashingmag",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-07-12",
   "link": "https://mentor.silvestar.codes/reads/2021-07-12/",
   "slink": "https://bit.ly/2VoM74K",
