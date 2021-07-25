@@ -1,4 +1,84 @@
 [{
+  "date": "2021-07-26",
+  "link": "https://mentor.silvestar.codes/reads/2021-07-26/",
+  "slink": "https://bit.ly/3kSwAF7",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-66.jpg",
+  "description": "inlining Critical CSS across the JavaScript ecosystem, media queries support in CSS and JavaScript, DevTools Font Editor, and more.",
+  "grammarly": "true",
+  "promotion": {
+    "link": "",
+    "slink": "",
+    "title": "",
+    "desc": "",
+    "handle": "",
+    "hash": ""
+  },
+  "list": [{
+      "link": "https://web.dev/aurora-resource-inlining/",
+      "slink": "https://bit.ly/2Wnnwhv",
+      "title": "Resource inlining in JavaScript frameworks",
+      "desc": "Minko Gechev shows how to improve Largest Contentful Paint across the JavaScript ecosystem by inlining Critical CSS.",
+      "handle": "@mgechev @ChromiumDev",
+      "hash": ""
+    },
+    {
+      "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
+      "slink": "https://bit.ly/3eWee26",
+      "title": "Detecting media query support in CSS and JavaScript",
+      "desc": "Kilian Valkhof shows how to detect support for media queries regardless of if they are turned on.",
+      "handle": "@kilianvalkhof",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
+      "slink": "https://bit.ly/3kTYh0o",
+      "title": "Using the Specificity of :where() as a CSS Reset",
+      "desc": "Mojtaba Seyedi explains how to use the 'where()' selector to reset the weight of the selector for easier resetting.",
+      "handle": "@mojtabaseyedi",
+      "hash": ""
+    },
+    {
+      "link": "https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/#classic-vs-overlay",
+      "slink": "https://bit.ly/3y3zRoJ",
+      "title": "Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property",
+      "desc": "Bramus Van Damme explains how developers could control a side-effect when showing scrollbars on the web to avoid layout shifts.",
+      "handle": "@bramusblog @bramus",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i",
+      "slink": "https://bit.ly/2ULE81N",
+      "title": "The Ultimate Cheat sheet List For Web Developers",
+      "desc": "Insha Ramin shares some quick and helpful cheat sheets that'll save you hours in wasted time each week.",
+      "handle": "@Insharamin",
+      "hash": ""
+    },
+    {
+      "link": "https://umaar.com/dev-tips/244-font-editor/",
+      "slink": "https://bit.ly/3x3abaw",
+      "title": "Chrome DevTools: Easily control typography with the CSS Font Editor",
+      "desc": "Umar Hansa shows how to use the font editor within the styles pane to change typography on a web page quickly.",
+      "handle": "@umaar",
+      "hash": ""
+    },
+    {
+      "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+      "slink": "https://bit.ly/3x4zyJc",
+      "title": "How To Learn Stuff Quickly",
+      "desc": "Josh Comeau shares what he has learned about learning and shows how he pick up new skills lickety-split.",
+      "handle": "@joshwcomeau",
+      "hash": ""
+    },
+    {
+      "link": "https://pagespeed.compare/",
+      "slink": "https://bit.ly/3eThlYy",
+      "title": "PageSpeed Compare",
+      "desc": "Sander Heilbron shares a project that allows you to compare performance metrics of your pages against each other or your competitors using Google PageSpeed Insights.",
+      "handle": "@sanderheilbron",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-07-19",
   "link": "https://mentor.silvestar.codes/reads/2021-07-19/",
   "slink": "https://bit.ly/3zi8PdL",

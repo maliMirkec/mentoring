@@ -25,7 +25,9 @@ ${item.desc}
 `
 
       list3 += `
-${item.desc}
+👉 ${item.title}
+
+💬 ${item.desc}
 
 ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + item.handle : 'by ' + item.handle}
 
@@ -34,7 +36,7 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
     })
   }
 
-  if(doc[0].promotion) {
+  if(doc[0].promotion && doc[0].promotion.link) {
     list1 += `
     <li>
       <p><small>Self-promotion</small><br><span><a href="${doc[0].promotion.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${doc[0].promotion.title}</strong><br><small style="color:#FF3366">${doc[0].promotion.link}</small></a></span><br><span>${doc[0].promotion.desc}</span></p>
@@ -76,7 +78,7 @@ Happy coding!
   console.log('~~~~~~~~~~~~~')
 
   console.log(`
-UI Dev Newsletter Issue ${doc.length} is out!
+🆕 UI Dev Newsletter Issue ${doc.length} is out! 🗞️
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
@@ -86,7 +88,8 @@ Featuring ${doc[0].list.map(d => d.handle).join(' ')}
 
   console.log(list3);
 
-  console.log(`Read the latest UI Dev Newsletter Issue ${doc.length}.
+  console.log(`
+🆕 Read the latest UI Dev Newsletter Issue ${doc.length}. 🗞️
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
@@ -101,7 +104,7 @@ Featuring ${doc[0].list.map(d => d.handle).join(' ')}
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nAdd the description!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
   }
 
-  if(!doc[0].grammarly || doc[0].grammarly === '') {
+  if(!doc[0].grammarly || doc[0].grammarly !== 'true') {
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nCheck the grammar!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
   }
 } catch (e) {
