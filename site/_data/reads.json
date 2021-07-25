@@ -33,7 +33,7 @@
       "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
       "slink": "https://bit.ly/3kTYh0o",
       "title": "Using the Specificity of :where() as a CSS Reset",
-      "desc": "Mojtaba Seyedi explains how to use the 'where()' selector to reset the weight of the selector for easier resetting.",
+      "desc": "Mojtaba Seyedi explains how to use the 'where()' selector to reset the weight of the selector for easier overriding.",
       "handle": "@mojtabaseyedi",
       "hash": ""
     },
