@@ -19,7 +19,7 @@ try {
       </li>`
 
       list2 += `
-- [${item.title}](${item.link})
+- [${item.title}](${item.slink})
 ${item.desc}
 
 `
@@ -46,7 +46,7 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
     list2 += `
 **Self-promotion**
 
-- [${doc[0].promotion.title}](${doc[0].promotion.link})
+- [${doc[0].promotion.title}](${doc[0].promotion.slink})
 ${doc[0].promotion.desc}
 `
   }
@@ -72,6 +72,8 @@ ${doc[0].promotion.desc}
   console.log('~~~~~~~~~~~~~')
 
   console.log(`
+**Links**
+
 ${list2}
 
 Happy coding!
