@@ -42,6 +42,13 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
       <p><small>Self-promotion</small><br><span><a href="${doc[0].promotion.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${doc[0].promotion.title}</strong><br><small style="color:#FF3366">${doc[0].promotion.link}</small></a></span><br><span>${doc[0].promotion.desc}</span></p>
     </li>
     `
+
+    list2 += `
+**Self-promotion**
+
+- [${doc[0].promotion.title}](${doc[0].promotion.link})
+${doc[0].promotion.desc}
+`
   }
 
   console.log('~~~~~~~~~~~~~')
