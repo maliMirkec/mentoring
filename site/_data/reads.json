@@ -25,7 +25,7 @@
       "link": "https://web.dev/learn/css/pseudo-classes/#:focus-:focus-within-and-:focus-visible",
       "slink": "https://bit.ly/3s03jKg",
       "title": "Pseudo-classes",
-      "desc": "A lesson about CSS pseudo-classes and different states of it, like interactive, validation states, and more.",
+      "desc": "A lesson about CSS pseudo-classes and different states of it, like interactive, validation, and other states.",
       "handle": "@ChromiumDev",
       "hash": ""
     },
