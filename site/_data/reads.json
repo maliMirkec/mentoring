@@ -1,4 +1,85 @@
 [{
+  "date": "2021-08-16",
+  "link": "https://mentor.silvestar.codes/reads/2021-08-16/",
+  "slink": "https://bit.ly/2VVysCs",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-70.jpg",
+  "description": "accessible focus indicators, CSS transforms, HTTP/3, quick-accessibility checks, and more.",
+  "grammarly": "true",
+  "promotion": {
+    "type": "Just for fun",
+    "link": "http://www.savewalterwhite.com/",
+    "slink": "https://bit.ly/3iMDnPe",
+    "title": "Save Walter White",
+    "desc": "If you are a fan of Breaking Bad, you might remember a website Walter Jr. built for his dad to raise the money for the medical procedure. This is that site.",
+    "handle": "@AMC_TV @BreakingBad",
+    "hash": ""
+  },
+  "list": [
+    {
+      "link": "https://www.sarasoueidan.com/blog/focus-indicators/",
+      "slink": "https://bit.ly/3yKrtuK",
+      "title": "A guide to designing accessible, WCAG-compliant focus indicators",
+      "desc": "Sara Soueidan shares a guide to designing accessible focus indicators with real-life examples and use cases.",
+      "handle": "@SaraSoueidan",
+      "hash": ""
+    },
+    {
+      "link": "https://www.joshwcomeau.com/css/transforms/",
+      "slink": "https://bit.ly/2VXdVNP",
+      "title": "The World of CSS Transforms",
+      "desc": "Josh Comeau shares everything about the transform property and shows some of the fantastic and unexpected things you can do with it.",
+      "handle": "@joshwcomeau",
+      "hash": ""
+    }, {
+      "link": "https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/",
+      "slink": "https://bit.ly/37OytL6",
+      "title": "The State Of Mobile First and Desktop First",
+      "desc": "Ahmad Shadeed explores what mobile-first and desktop first mean, and he tries to discover if these methods are still relevant today.",
+      "handle": "@shadeed9",
+      "hash": ""
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
+      "slink": "https://bit.ly/2UiymEC",
+      "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
+      "desc": "Robin Marx explains what HTTP/3 is, why it was needed so soon after HTTP/2, how we should use it, and how it improves web performance.",
+      "handle": "@programmingart",
+      "hash": ""
+    },
+    {
+      "link": "https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html",
+      "slink": "https://bit.ly/37MaQTw",
+      "title": "Breaking the web forward",
+      "desc": "Peter-Paul Koch tries to explain why everybody thinks Safari is holding back the web, and he shares his solution for the problem.",
+      "handle": "@ppk",
+      "hash": ""
+    },
+    {
+      "link": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/",
+      "slink": "https://bit.ly/2VQgSQq",
+      "title": "CSS Utility Classes and 'Separation of Concerns'",
+      "desc": "Adam Wathan explains how he got the idea for utility classes in CSS. The article was released at the time of releasing his open-source project TailwindCSS.",
+      "handle": "@adamwathan",
+      "hash": ""
+    },
+    {
+      "link": "https://www.youtube.com/playlist?app=desktop&list=PLTqm2yVMMUKWTr9XWdW5hJ9tk512Ow0SE",
+      "slink": "https://bit.ly/3yO1gLV",
+      "title": "Quick accessibility tests",
+      "desc": "TetraLogical shares ten quick accessibility checks anyone can run.",
+      "handle": "@tetralogical",
+      "hash": ""
+    },
+    {
+      "link": "https://www.npmjs.com/package/git-recent",
+      "slink": "https://bit.ly/3iNbTsH",
+      "title": "git-recent",
+      "desc": "Paul Irish shares a package that allows you to use the 'git recent' command to see your latest local git branches.",
+      "handle": "@paul_irish",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-08-09",
   "link": "https://mentor.silvestar.codes/reads/2021-08-09/",
   "slink": "https://bit.ly/2XcnnOb",
@@ -78,6 +159,7 @@
   "description": "CSS absolute units, accessible overflow, JavaScript quiz, and more.",
   "grammarly": "true",
   "promotion": {
+    "type": "Self-promotion",
     "link": "https://dev.to/starbist/you-don-t-need-react-for-building-websites-455f",
     "slink": "https://bit.ly/3jd4jql",
     "title": "You don’t need React for building websites",
@@ -230,6 +312,7 @@
   "description": "lazy-loading performance, 'theme-color' meta tag, designing better filters, and more.",
   "grammarly": "true",
   "promotion": {
+    "type": "Self-promotion",
     "link": "https://www.silvestar.codes/stories/",
     "slink": "https://bit.ly/3ktSVZv",
     "title": "New on my web: Stories",

@@ -39,12 +39,12 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
   if(doc[0].promotion && doc[0].promotion.link) {
     list1 += `
     <li>
-      <p><small>Self-promotion</small><br><span><a href="${doc[0].promotion.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${doc[0].promotion.title}</strong><br><small style="color:#FF3366">${doc[0].promotion.link}</small></a></span><br><span>${doc[0].promotion.desc}</span></p>
+      <p><small>${doc[0].promotion.type}</small><br><span><a href="${doc[0].promotion.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${doc[0].promotion.title}</strong><br><small style="color:#FF3366">${doc[0].promotion.link}</small></a></span><br><span>${doc[0].promotion.desc}</span></p>
     </li>
     `
 
     list2 += `
-**Self-promotion**
+**${doc[0].promotion.type}**
 
 - [${doc[0].promotion.title}](${doc[0].promotion.slink})
 ${doc[0].promotion.desc}
