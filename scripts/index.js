@@ -19,7 +19,7 @@ try {
       </li>`
 
       list2 += `
-- [${item.title}](${item.slink})
+[${item.title}](${item.slink})
 ${item.desc}
 
 `
@@ -44,9 +44,9 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
     `
 
     list2 += `
-**${doc[0].promotion.type}**
+## ${doc[0].promotion.type}
 
-- [${doc[0].promotion.title}](${doc[0].promotion.slink})
+[${doc[0].promotion.title}](${doc[0].promotion.slink})
 ${doc[0].promotion.desc}
 `
   }
@@ -72,11 +72,11 @@ ${doc[0].promotion.desc}
   console.log('~~~~~~~~~~~~~')
 
   console.log(`
-**Links**
+## Links
 
 ${list2}
 
-Happy coding!
+**Happy coding!**
 
 [Subscribe to the newsletter here!](https://buttondown.email/starbist)
   `);

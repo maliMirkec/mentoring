@@ -1,4 +1,85 @@
 [{
+  "date": "2021-08-23",
+  "link": "https://mentor.silvestar.codes/reads/2021-08-23/",
+  "slink": "https://bit.ly/3gr7DOa",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-71.jpg",
+  "description": "horizontal scrollbars issues, SVG star rating, View Source tool, and more.",
+  "grammarly": "true",
+  "promotion": {
+    "type": "Just for fun",
+    "link": "https://downloads.bbc.co.uk/interactive/embed/container.html?url=//downloads.bbc.co.uk/interactive/h2g2/main.js&height=577px&width=944px&path=//downloads.bbc.co.uk/radio/games/h2g2/",
+    "slink": "https://bbc.in/3gkXTVu",
+    "title": "The Hitchhiker's Guide To The Galaxy - Infocom interactive fiction",
+    "desc": "Play a 1984 interactive fiction game written by Douglas Adams and Steve Meretzky and published by Infocom.",
+    "handle": "",
+    "hash": ""
+  },
+  "list": [
+    {
+      "link": "https://polypane.app/blog/strategies-for-dealing-with-horizontal-overflows/",
+      "slink": "https://bit.ly/3kiWSyf",
+      "title": "How to find the cause of horizontal scrollbars",
+      "desc": "Kilian Valkhof explains what causes horizontal scrollbars and shows some techniques for finding horizontal scrolling issues.",
+      "handle": "@kilianvalkhof @Polypane",
+      "hash": ""
+    },
+    {
+      "link": "https://ishadeed.com/article/star-rating-svg/",
+      "slink": "https://bit.ly/3msQbMS",
+      "title": "Star Rating: An SVG Solution",
+      "desc": "Ahmad Shadeed goes through the SVG solution for star rating systems and how it works for different scenarios.",
+      "handle": "@shadeed9",
+      "hash": ""
+    },
+    {
+      "link": "https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/",
+      "slink": "https://bit.ly/3jeKKiR",
+      "title": "What I learned from Software Engineering at Google",
+      "desc": "Swizec Teller shares a recap of lessons after reading the “Software Engineering at Google” book.",
+      "handle": "@swizec",
+      "hash": ""
+    },
+    {
+      "link": "https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/",
+      "slink": "https://bit.ly/385CeMI",
+      "title": "Does shadow DOM improve style performance?",
+      "desc": "Nolan Lawson tries to answer this question by showing how shadow DOM works and by benchmarking the selectors.",
+      "handle": "",
+      "hash": ""
+    },
+    {
+      "link": "https://www.filamentgroup.com/lab/video-with-sizes/",
+      "slink": "https://bit.ly/2XEC64A",
+      "title": "HTML Video Sources Should Be Responsive",
+      "desc": "Scott Jehl proposes a solution for responsibly-sized, responsive, contextually-sized videos.",
+      "handle": "@scottjehl @filamentgroup",
+      "hash": ""
+    },
+    {
+      "link": "https://ricostacruz.com/nprogress/",
+      "slink": "https://bit.ly/3865Ycc",
+      "title": "NProgress.js",
+      "desc": "Rico Sta. Cruz shares a nanoscopic progress bar featuring realistic trickle animations to convince your users that something is happening!",
+      "handle": "@rstacruz",
+      "hash": ""
+    },
+    {
+      "link": "https://neatnik.net/view-source/",
+      "slink": "https://bit.ly/3sDVTww",
+      "title": "View Source",
+      "desc": "Neatnik shares a tool to view the source of any web page on the internet that could be very handy, especially on mobile devices.",
+      "handle": "@neatnikllc",
+      "hash": ""
+    }, {
+      "link": "https://mobile.twitter.com/perborgen/status/1427365523357044738",
+      "slink": "https://bit.ly/3kjADZ0",
+      "title": "The joy of sharing an open source project on Reddit",
+      "desc": "Per Harald Borgen shares a tweet with a negative comment from Reddit that sums up the everyday experience of using Reddit.",
+      "handle": "@perborgen",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-08-16",
   "link": "https://mentor.silvestar.codes/reads/2021-08-16/",
   "slink": "https://bit.ly/2VVysCs",
