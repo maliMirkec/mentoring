@@ -36,19 +36,21 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
     })
   }
 
-  if(doc[0].promotion && doc[0].promotion.link) {
-    list1 += `
-    <li>
-      <p><small>${doc[0].promotion.type}</small><br><span><a href="${doc[0].promotion.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${doc[0].promotion.title}</strong><br><small style="color:#FF3366">${doc[0].promotion.link}</small></a></span><br><span>${doc[0].promotion.desc}</span></p>
-    </li>
-    `
+  if(doc[0].promotion && doc[0].promotion.length) {
+    doc[0].promotion.forEach(item => {
+      list1 += `
+      <li>
+        <p><small>${item.type}</small><br><span><a href="${item.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${item.title}</strong><br><small style="color:#FF3366">${item.link}</small></a></span><br><span>${item.desc}</span></p>
+      </li>
+      `
 
-    list2 += `
-## ${doc[0].promotion.type}
+      list2 += `
+## ${item.type}
 
-[${doc[0].promotion.title}](${doc[0].promotion.slink})
-${doc[0].promotion.desc}
+[${item.title}](${item.slink})
+${item.desc}
 `
+  })
   }
 
   console.log('~~~~~~~~~~~~~')

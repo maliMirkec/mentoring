@@ -5,7 +5,7 @@
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-71.jpg",
   "description": "horizontal scrollbars issues, SVG star rating, View Source tool, and more.",
   "grammarly": "true",
-  "promotion": {
+  "promotion": [{
     "type": "Just for fun",
     "link": "https://downloads.bbc.co.uk/interactive/embed/container.html?url=//downloads.bbc.co.uk/interactive/h2g2/main.js&height=577px&width=944px&path=//downloads.bbc.co.uk/radio/games/h2g2/",
     "slink": "https://bbc.in/3gkXTVu",
@@ -13,7 +13,15 @@
     "desc": "Play a 1984 interactive fiction game written by Douglas Adams and Steve Meretzky and published by Infocom.",
     "handle": "",
     "hash": ""
-  },
+  }, {
+    "type": "Self-promotion",
+    "link": "https://www.silvestar.codes/articles/nightmare-dx-shopify/",
+    "slink": "https://bit.ly/3jd4jql",
+    "title": "Nightmare DX (Developer Experience): Shopify",
+    "desc": "I published an article about Shopify and its (un)friendliness for developers.",
+    "handle": "@malimirkeccita",
+    "hash": ""
+  }],
   "list": [
     {
       "link": "https://polypane.app/blog/strategies-for-dealing-with-horizontal-overflows/",
@@ -86,7 +94,7 @@
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-70.jpg",
   "description": "accessible focus indicators, CSS transforms, HTTP/3, quick-accessibility checks, and more.",
   "grammarly": "true",
-  "promotion": {
+  "promotion": [{
     "type": "Just for fun",
     "link": "http://www.savewalterwhite.com/",
     "slink": "https://bit.ly/3iMDnPe",
@@ -94,7 +102,7 @@
     "desc": "If you are a fan of Breaking Bad, you might remember a website Walter Jr. built for his dad to raise the money for the medical procedure. This is that site.",
     "handle": "@AMC_TV @BreakingBad",
     "hash": ""
-  },
+  }],
   "list": [
     {
       "link": "https://www.sarasoueidan.com/blog/focus-indicators/",
@@ -239,7 +247,7 @@
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-68.jpg",
   "description": "CSS absolute units, accessible overflow, JavaScript quiz, and more.",
   "grammarly": "true",
-  "promotion": {
+  "promotion": [{
     "type": "Self-promotion",
     "link": "https://dev.to/starbist/you-don-t-need-react-for-building-websites-455f",
     "slink": "https://bit.ly/3jd4jql",
@@ -247,7 +255,7 @@
     "desc": "I published an article about not using React to build websites, which triggered an interesting discussion last week.",
     "handle": "@malimirkeccita",
     "hash": ""
-  },
+  }],
   "list": [{
       "link": "https://www.smashingmagazine.com/2021/07/css-absolute-units/",
       "slink": "https://bit.ly/3fmlfJV",
@@ -392,7 +400,7 @@
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-66.jpg",
   "description": "lazy-loading performance, 'theme-color' meta tag, designing better filters, and more.",
   "grammarly": "true",
-  "promotion": {
+  "promotion": [{
     "type": "Self-promotion",
     "link": "https://www.silvestar.codes/stories/",
     "slink": "https://bit.ly/3ktSVZv",
@@ -400,7 +408,7 @@
     "desc": "Just random thoughts and notes from yours truly.",
     "handle": "@malimirkeccita",
     "hash": ""
-  },
+  }],
   "list": [{
       "link": "https://web.dev/lcp-lazy-loading/",
       "slink": "https://bit.ly/2VRz0cx",
