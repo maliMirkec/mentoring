@@ -1,4 +1,85 @@
 [{
+  "date": "2021-08-30",
+  "link": "https://mentor.silvestar.codes/reads/2021-08-30/",
+  "slink": "https://bit.ly/38m74kk",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-72.jpg",
+  "description": "an essay about software crisis, web dev journal, button generator, and more.",
+  "grammarly": "true",
+  "promotion": [{
+    "type": "Just for fun",
+    "link": "https://www.robinrendle.com/essays/newsletters/",
+    "slink": "Newsletters",
+    "title": "https://bit.ly/2UTpANA",
+    "desc": "Robin Rendle explains why newsletters are hot and why they bother him.",
+    "handle": "@robinrendle",
+    "hash": ""
+  }],
+  "list": [
+    {
+      "link": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
+      "slink": "https://bit.ly/3sUqbv6",
+      "title": "Software Crisis 2.0",
+      "desc": "Baldur Bjarnason shares everything he learned relevant to software project failure in a single essay and tries to answer why it happens and why it is so common.",
+      "handle": "@fakebaldur",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/allthecode/i-bet-you-don-t-keep-a-developer-journal-3-reasons-you-should-4kn3",
+      "slink": "https://bit.ly/3jljrDo",
+      "title": "I Bet You Don't Keep A Developer Journal: 3 Reasons You Should",
+      "desc": "Simon Barker explains what the value of keeping a work journal is.",
+      "handle": "@allthecode_",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/",
+      "slink": "https://bit.ly/2WsFOye",
+      "title": "Stealing Game Animation Techniques to Engage Users",
+      "desc": "Eli Penner shares few ways how to use animations while trying to annoy very few users.",
+      "handle": "@eli_the_brave",
+      "hash": ""
+    },
+    {
+      "link": "https://adiyathemighty.com/blog/2021-08-11_setting-juniors-up-for-success",
+      "slink": "https://bit.ly/3DqffKz",
+      "title": "Setting juniors up for success",
+      "desc": "Adiya Mohr explains hiring juniors are an investment.",
+      "handle": "@adiyathemighty",
+      "hash": ""
+    },
+    {
+      "link": "https://scruples.studio/privacy-focused-websites",
+      "slink": "https://bit.ly/3zpxUnu",
+      "title": "Privacy-focused Websites",
+      "desc": "Dave Smyth explains what a privacy-focused website looks like and what you need to consider to build one.",
+      "handle": "@websmyth",
+      "hash": ""
+    },
+    {
+      "link": "https://markodenic.com/tools/buttons-generator/?ref=producthunt",
+      "slink": "https://bit.ly/3mDp4yQ",
+      "title": "Buttons Generator",
+      "desc": "Marko Denic shares a tool where you could copy and paste CSS code for more than 100 different button styles.",
+      "handle": "@denicmarko",
+      "hash": ""
+    }, {
+      "link": "https://how-i-experience-web-today.com/",
+      "slink": "https://bit.ly/3gCNDYH",
+      "title": "How I experience web today",
+      "desc": "Guangyi Li shares a site that demonstrates everyday web surfing experiences these days.",
+      "handle": "@li_guangyi",
+      "hash": ""
+    },
+    {
+      "link": "https://www.twitter.com/csaba_kissi/status/1430469195464994816",
+      "slink": "https://bit.ly/2WsFQWS",
+      "title": "8 Free Sites For Web Developers You Probably Didn't Know Existed ",
+      "desc": "Csaba Kissi shares valuable tools and websites for web development, social sharing, and more.",
+      "handle": "@csaba_kissi",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-08-23",
   "link": "https://mentor.silvestar.codes/reads/2021-08-23/",
   "slink": "https://bit.ly/3gr7DOa",
@@ -79,7 +160,7 @@
       "handle": "@neatnikllc",
       "hash": ""
     }, {
-      "link": "https://mobile.twitter.com/perborgen/status/1427365523357044738",
+      "link": "https://www.twitter.com/perborgen/status/1427365523357044738",
       "slink": "https://bit.ly/3kjADZ0",
       "title": "The joy of sharing an open source project on Reddit",
       "desc": "Per Harald Borgen shares a tweet with a negative comment from Reddit that sums up the everyday experience of using Reddit.",
@@ -742,7 +823,7 @@
       "hash": ""
     },
     {
-      "link": "https://mobile.twitter.com/Insharamin/status/1405417453362970624",
+      "link": "https://www.twitter.com/Insharamin/status/1405417453362970624",
       "slink": "https://bit.ly/3xBduX6",
       "title": "7 Cheat sheet website for Web Developers",
       "desc": "Insha Ramin shares some helpful free guides to HTML, CSS, API, React, and many more.",
@@ -1310,7 +1391,7 @@
       "hash": "#google #developers"
     },
     {
-      "link": "https://mobile.twitter.com/_georgemoller/status/1385631721362702336",
+      "link": "https://www.twitter.com/_georgemoller/status/1385631721362702336",
       "slink": "https://bit.ly/32IZWLQ",
       "title": "2021 CSS Developer Roadmap",
       "desc": "George Moller shares a 10-step summary for learning CSS in 2021.",
@@ -2164,7 +2245,7 @@
       "hash": "#webdev #webgl"
     },
     {
-      "link": "https://mobile.twitter.com/diana_ashktorab/status/1354840337525731328",
+      "link": "https://www.twitter.com/diana_ashktorab/status/1354840337525731328",
       "slink": "https://bit.ly/3oAVuHD",
       "title": "A single-div panda",
       "desc": "Diana, an 8-year-old, explains how to build a panda using CSS and a single div.",
