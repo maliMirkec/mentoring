@@ -1,4 +1,85 @@
 [{
+  "date": "2021-09-06",
+  "link": "https://mentor.silvestar.codes/reads/2021-09-06/",
+  "slink": "https://bit.ly/2WQkZNp",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-73.jpg",
+  "description": "carbon emissions on the web, z-index guide, wavy dividers generator, and more.",
+  "grammarly": "true",
+  "promotion": [{
+    "type": "Self-promotion",
+    "link": "https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/",
+    "slink": "https://bit.ly/3tiqgZA",
+    "title": "You want enabling CSS selectors, not disabling ones",
+    "desc": "Chris Coyier shares one of my articles about a selector that does a job without disabling the particular rule.",
+    "handle": "@chriscoyier @css",
+    "hash": ""
+  }],
+  "list": [
+    {
+      "link": "https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
+      "slink": "https://bit.ly/3n7I3Su",
+      "title": "Reducing Carbon Emissions On The Web",
+      "desc": "Berwyn Powell shares his thoughts and experiences about making websites environmentally friendly.",
+      "handle": "@smashingmag",
+      "hash": ""
+    },
+    {
+      "link": "https://ishadeed.com/article/understanding-z-index/",
+      "slink": "https://bit.ly/3zPYQwG",
+      "title": "Understanding Z-Index in CSS",
+      "desc": "Ahmad Shadeed shares a visual guide on how z-index and stacking contexts work in CSS.",
+      "handle": "@shadeed9",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/exploring-the-css-paint-api-blob-animation/",
+      "slink": "https://bit.ly/2WYPh0b",
+      "title": "Exploring the CSS Paint API: Blob Animation",
+      "desc": "Temani Afif explains how to use the powerful Paint API and math to make a blog animation.",
+      "handle": "@ChallengesCss",
+      "hash": ""
+    },
+    {
+      "link": "https://alvaromontoro.com/blog/67979/creating-accessible-css-art",
+      "slink": "https://bit.ly/3BPCXyl",
+      "title": "Creating Accessible CSS Art",
+      "desc": "Álvaro Montoro shares some tips and best practices to make CSS art more accessible for everyone.",
+      "handle": "@alvaro_montoro",
+      "hash": ""
+    },
+    {
+      "link": "https://www.matuzo.at/blog/element-diversity/",
+      "slink": "https://bit.ly/3BJbv5d",
+      "title": "Element diversity",
+      "desc": "Manuel Matuzović shares a list of reasons why we use divs and explains why we shouldn't use divs so much.",
+      "handle": "@mmatuzo",
+      "hash": ""
+    }, {
+      "link": "https://careerswitchtocoding.com/blog/stop-put-down-that-ternary-lines-are-free",
+      "slink": "https://bit.ly/3jKYkuk",
+      "title": "Stop! Put Down That Ternary, Lines Are Free",
+      "desc": "Simon Barker explains why we should strive to write code that is understandable to the team's newest and least experienced members by writing more readable code.",
+      "handle": "@allthecode_",
+      "hash": ""
+    },
+    {
+      "link": "https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization",
+      "slink": "https://bit.ly/3n6dDjx",
+      "title": "High performance bracket pair colorization",
+      "desc": "Visual Studio Code starts to support native bracket pair colorization in the last update.",
+      "handle": "@code",
+      "hash": ""
+    },
+    {
+      "link": "https://wavier.art/",
+      "slink": "https://bit.ly/2X2oqAm",
+      "title": "Wavy Dividers Generator",
+      "desc": "Eugene Zolotarenko shares a tool for generating wavy dividers with ease.",
+      "handle": "@eugZolotarenko",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-08-30",
   "link": "https://mentor.silvestar.codes/reads/2021-08-30/",
   "slink": "https://bit.ly/38m74kk",
@@ -73,7 +154,7 @@
     {
       "link": "https://www.twitter.com/csaba_kissi/status/1430469195464994816",
       "slink": "https://bit.ly/2WsFQWS",
-      "title": "8 Free Sites For Web Developers You Probably Didn't Know Existed ",
+      "title": "8 Free Sites For Web Developers You Probably Didn't Know Existed",
       "desc": "Csaba Kissi shares valuable tools and websites for web development, social sharing, and more.",
       "handle": "@csaba_kissi",
       "hash": ""
