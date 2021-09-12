@@ -1,4 +1,98 @@
 [{
+  "date": "2021-09-13",
+  "link": "https://mentor.silvestar.codes/reads/2021-09-13/",
+  "slink": "https://bit.ly/2Xgnitb",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-74.jpg",
+  "description": "less absolute positioning, split button component, 4 emmet tricks, and more.",
+  "grammarly": "true",
+  "promotion": [
+    {
+      "type": "Twitter thread",
+      "link": "https://mobile.twitter.com/csswizardry/status/1436361516534620168",
+      "slink": "https://bit.ly/3k6HaYt",
+      "title": "CSS resources (fonts, background images) are not requested by your CSS, but by the DOM node that needs them",
+      "desc": "Harry Roberts explains how the speed of the DOM determines CSS-resource discovery, not the speed of the CSS itself.",
+      "handle": "@csswizardry",
+      "hash": ""
+    },
+    {
+      "type": "Self-promotion",
+      "link": "https://www.silvestar.codes/articles/how-to-find-and-insert-unicode-symbols-in-html/",
+      "slink": "https://bit.ly/3nqKKyE",
+      "title": "How to find and insert Unicode symbols in HTML",
+      "desc": "I have published an article about my preferred way of inserting Unicode characters in HTML.",
+      "handle": "",
+      "hash": ""
+    }
+  ],
+  "list": [
+    {
+      "link": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
+      "slink": "https://bit.ly/3Eb40Gb",
+      "title": "Less Absolute Positioning With Modern CSS",
+      "desc": "Ahmad Shadeed explores a few use-cases where absolute positioning isn’t needed anymore.",
+      "handle": "@shadeed9",
+      "hash": ""
+    },
+    {
+      "link": "https://web.dev/building-a-split-button-component/",
+      "slink": "https://bit.ly/3tyyj4N",
+      "title": "Building a split-button component",
+      "desc": "Adam Argyle shares a foundational overview of how to build an accessible split-button component.",
+      "handle": "@argyleink @ChromiumDev",
+      "hash": ""
+    },
+    {
+      "link": "https://gomakethings.com/vanilla-js-is-a-web-performance-decision/",
+      "slink": "https://bit.ly/3E2N2K2",
+      "title": "Vanilla JS is a web performance decision",
+      "desc": "Chris Ferdinandi explains why you should use as little JavaScript as possible if you care about your users.",
+      "handle": "@ChrisFerdinandi",
+      "hash": ""
+    },
+    {
+      "link": "https://uxdesign.cc/how-to-optimize-button-microcopy-8f54455d311d",
+      "slink": "https://bit.ly/2YFWtyO",
+      "title": "How to optimize button microcopy",
+      "desc": "Maria Panagiotidi shares seven suggestions with examples about how to write better call-to-action microcopy.",
+      "handle": "@mariapage @uxdesigncc",
+      "hash": ""
+    },
+    {
+      "link": "https://betterprogramming.pub/4-lesser-known-emmet-tricks-to-speed-up-your-coding-882f4c8707e0",
+      "slink": "https://bit.ly/2VAuorz",
+      "title": "4 Lesser-Known Emmet Tricks To Speed Up Your Coding",
+      "desc": "Mikael Ainalem shares helpful Emmet tips, including chaining CSS commands and setting the size of image elements.",
+      "handle": "@mikaelainalem",
+      "hash": ""
+    },
+    {
+      "link": "https://www.failory.com/interview/css-for-js-developers",
+      "slink": "https://bit.ly/3novUIK",
+      "title": "Pre-Selling a Programming Course and Making $550k in Revenue",
+      "desc": "Nico Cerdeira shares an interview with a Successful Startup Founder Josh Comeau.",
+      "handle": "@nicocerdeira @hellofailory @joshwcomeau",
+      "hash": ""
+    },
+    {
+      "type": "Just for fun",
+      "link": "https://remoteok.io/vscode",
+      "slink": "https://bit.ly/3z6ks71",
+      "title": "Remote OK VS Code",
+      "desc": "Pieter Levels shares a fully-functional fake VS Code so, if you're a programmer, you too can browse remote jobs in your office without your boss finding out.",
+      "handle": "@levelsio",
+      "hash": ""
+    },
+    {
+      "link": "https://bonsaibrowser.com/",
+      "slink": "https://bit.ly/3lfXTHV",
+      "title": "Bonsai",
+      "desc": "Web-browser for research that helps programmers think clearly.",
+      "handle": "",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-09-06",
   "link": "https://mentor.silvestar.codes/reads/2021-09-06/",
   "slink": "https://bit.ly/2WQkZNp",
@@ -180,7 +274,7 @@
     "link": "https://www.silvestar.codes/articles/nightmare-dx-shopify/",
     "slink": "https://bit.ly/3jfDpj3",
     "title": "Nightmare DX (Developer Experience): Shopify",
-    "desc": "I published an article about Shopify and its (un)friendliness for developers.",
+    "desc": "I have published an article about Shopify and its (un)friendliness for developers.",
     "handle": "@malimirkeccita",
     "hash": ""
   }],
@@ -348,7 +442,7 @@
     }, {
       "link": "https://benmyers.dev/blog/on-the-dl/",
       "slink": "https://bit.ly/37w5kUU",
-      "title": "On the <dl>",
+      "title": "On the dl",
       "desc": "Ben Myers explains everything about the underrated description list element and shows some real-life uses of name-value pairs.",
       "handle": "@BenDMyers",
       "hash": ""
@@ -414,7 +508,7 @@
     "link": "https://dev.to/starbist/you-don-t-need-react-for-building-websites-455f",
     "slink": "https://bit.ly/3jd4jql",
     "title": "You don’t need React for building websites",
-    "desc": "I published an article about not using React to build websites, which triggered an interesting discussion last week.",
+    "desc": "I have published an article about not using React to build websites, which triggered an interesting discussion last week.",
     "handle": "@malimirkeccita",
     "hash": ""
   }],
