@@ -1,4 +1,88 @@
 [{
+  "date": "2021-09-20",
+  "link": "https://mentor.silvestar.codes/reads/2021-09-20/",
+  "slink": "",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-75.jpg",
+  "description": "",
+  "grammarly": "",
+  "promotion": [
+    {
+      "type": "Popular on Twitter",
+      "link": "https://mobile.twitter.com/github/status/1437748034910277636",
+      "slink": "",
+      "title": "Play your favorite tunes with Spotify in your terminal.",
+      "desc": "GitHub shares a Spotify TUI — Spotify for the terminal written in Rust.",
+      "handle": "@github",
+      "hash": ""
+    }
+  ],
+  "list": [
+    {
+      "link": "https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/",
+      "slink": "",
+      "title": "The Future of CSS: Cascade Layers (CSS @layer)",
+      "desc": "Bramus Van Damme explains what are Cascade Layers, how we can use them, and what benefits they bring.",
+      "handle": "@bramusblog @bramus",
+      "hash": ""
+    },
+    {
+      "link": "https://www.joshwcomeau.com/css/designing-shadows/",
+      "slink": "",
+      "title": "Designing Beautiful Shadows in CSS",
+      "desc": "Josh Comeau describes all you need to know about box-shadows, from theory to practical examples.",
+      "handle": "@joshwcomeau",
+      "hash": ""
+    },
+    {
+      "link": "https://www.htmhell.dev/tips/autocapitalization/",
+      "slink": "",
+      "title": "Autocapitalization",
+      "desc": "Manuel Matuzović explains how to control virtual keyboards capitalization of words and characters by default.",
+      "handle": "@mmatuzo",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/grainy-gradients/",
+      "slink": "",
+      "title": "Grainy Gradients",
+      "desc": "Jimmy Chion shows how to generate colorful noise to add texture to a gradient with only a small amount of CSS and SVG.",
+      "handle": "@jimmmy",
+      "hash": ""
+    },
+    {
+      "link": "https://web.dev/patterns/web-vitals-patterns/",
+      "slink": "",
+      "title": "Web Vitals patterns",
+      "desc": "Chrome Developers share a collection that includes patterns that are often tricky to implement without hurting your Core Web Vitals scores.",
+      "handle": "@ChromiumDev",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08",
+      "slink": "",
+      "title": "Master Frontend Development By Cloning These Websites",
+      "desc": "Chris Hansen lists which sites you should try to clone and incorporate functionality, like modals and drop downs, to become a better developers.",
+      "handle": "@hyggedev",
+      "hash": ""
+    },
+    {
+      "link": "https://design-system.w3.org/",
+      "slink": "",
+      "title": "W3C Design System",
+      "desc": "W3C team shares design system that shows how the front end assets (CSS and JavaScript) are organised and compiled for their site.",
+      "handle": "@w3c",
+      "hash": ""
+    },
+    {
+      "link": "https://shadows.brumm.af/",
+      "slink": "",
+      "title": "Smooth Shadow",
+      "desc": "Philipp Brumm shares a helpful little tool to make a smooth shadow.",
+      "handle": "@funkensturm",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-09-13",
   "link": "https://mentor.silvestar.codes/reads/2021-09-13/",
   "slink": "https://bit.ly/2Xgnitb",
@@ -75,7 +159,6 @@
       "hash": ""
     },
     {
-      "type": "Just for fun",
       "link": "https://remoteok.io/vscode",
       "slink": "https://bit.ly/3z6ks71",
       "title": "Remote OK VS Code",
@@ -1024,7 +1107,7 @@
       "link": "https://web.dev/css-size-adjust/",
       "slink": "https://bit.ly/3glSgXt",
       "title": "CSS size-adjust for @font-face",
-      "desc": "Ada Argyle introduces size-adjust property that could adjust fonts, to normalize the document font sizes and prevent layout shift when switching between fonts.",
+      "desc": "Adam Argyle introduces size-adjust property that could adjust fonts, to normalize the document font sizes and prevent layout shift when switching between fonts.",
       "handle": "@argyleink @ChromiumDev",
       "hash": ""
     },
@@ -1506,7 +1589,7 @@
       "link": "https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma",
       "slink": "https://bit.ly/3gQGZ29",
       "title": "165+ Developer Resources I Discovered in 2020-2021",
-      "desc": "Gedalya Krycer shares a comprehensive, well-organized list of helpful web dev resources—from HTML, CSS, and JavaScript to WordPress, Git, and design.",
+      "desc": "Gedalya Krycer shares a comprehensive, well-organized list of helpful web dev resources — from HTML, CSS, and JavaScript to WordPress, Git, and design.",
       "handle": "@ThePracticalDev",
       "hash": "#html #css #js #javascript #webdev"
     }
@@ -3773,7 +3856,7 @@
     {
       "link": "https://css-tricks.com/spotting-a-trend/",
       "title": "Spotting a Trend",
-      "desc": "Geoff Graham shows the latest trend on web design—blobby shapes."
+      "desc": "Geoff Graham shows the latest trend on web design — blobby shapes."
     },
     {
       "link": "https://defaced.dev/tools/layout-shift-gif-generator/",
