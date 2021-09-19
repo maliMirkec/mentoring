@@ -1,15 +1,15 @@
 [{
   "date": "2021-09-20",
   "link": "https://mentor.silvestar.codes/reads/2021-09-20/",
-  "slink": "",
+  "slink": "https://bit.ly/3tVuFSx",
   "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-75.jpg",
-  "description": "",
-  "grammarly": "",
+  "description": "Cascade Layers, all about shadows in CSS, W3C Design System, and more.",
+  "grammarly": "true",
   "promotion": [
     {
       "type": "Popular on Twitter",
       "link": "https://mobile.twitter.com/github/status/1437748034910277636",
-      "slink": "",
+      "slink": "https://bit.ly/3klA16r",
       "title": "Play your favorite tunes with Spotify in your terminal.",
       "desc": "GitHub shares a Spotify TUI — Spotify for the terminal written in Rust.",
       "handle": "@github",
@@ -19,15 +19,15 @@
   "list": [
     {
       "link": "https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/",
-      "slink": "",
+      "slink": "https://bit.ly/2XG3H5J",
       "title": "The Future of CSS: Cascade Layers (CSS @layer)",
-      "desc": "Bramus Van Damme explains what are Cascade Layers, how we can use them, and what benefits they bring.",
+      "desc": "Bramus Van Damme explains Cascade Layers, how we can use them, and what benefits they bring.",
       "handle": "@bramusblog @bramus",
       "hash": ""
     },
     {
       "link": "https://www.joshwcomeau.com/css/designing-shadows/",
-      "slink": "",
+      "slink": "https://bit.ly/39mfdFU",
       "title": "Designing Beautiful Shadows in CSS",
       "desc": "Josh Comeau describes all you need to know about box-shadows, from theory to practical examples.",
       "handle": "@joshwcomeau",
@@ -35,23 +35,23 @@
     },
     {
       "link": "https://www.htmhell.dev/tips/autocapitalization/",
-      "slink": "",
+      "slink": "https://bit.ly/3EysBF5",
       "title": "Autocapitalization",
-      "desc": "Manuel Matuzović explains how to control virtual keyboards capitalization of words and characters by default.",
+      "desc": "Manuel Matuzović explains how to control the virtual keyboard's capitalization of words and characters by default.",
       "handle": "@mmatuzo",
       "hash": ""
     },
     {
       "link": "https://css-tricks.com/grainy-gradients/",
-      "slink": "",
+      "slink": "https://bit.ly/3hL0etq",
       "title": "Grainy Gradients",
-      "desc": "Jimmy Chion shows how to generate colorful noise to add texture to a gradient with only a small amount of CSS and SVG.",
+      "desc": "Jimmy Chion shows how to generate colorful noise to add texture to a gradient with only a tiny amount of CSS and SVG.",
       "handle": "@jimmmy",
       "hash": ""
     },
     {
       "link": "https://web.dev/patterns/web-vitals-patterns/",
-      "slink": "",
+      "slink": "https://bit.ly/3zizEOo",
       "title": "Web Vitals patterns",
       "desc": "Chrome Developers share a collection that includes patterns that are often tricky to implement without hurting your Core Web Vitals scores.",
       "handle": "@ChromiumDev",
@@ -59,23 +59,23 @@
     },
     {
       "link": "https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08",
-      "slink": "",
+      "slink": "https://bit.ly/2XCUGuc",
       "title": "Master Frontend Development By Cloning These Websites",
-      "desc": "Chris Hansen lists which sites you should try to clone and incorporate functionality, like modals and drop downs, to become a better developers.",
+      "desc": "To become a better developer, Chris Hansen lists which sites you should try to clone and incorporate functionality, like modals and dropdowns.",
       "handle": "@hyggedev",
       "hash": ""
     },
     {
       "link": "https://design-system.w3.org/",
-      "slink": "",
+      "slink": "https://bit.ly/3AvKS3G",
       "title": "W3C Design System",
-      "desc": "W3C team shares design system that shows how the front end assets (CSS and JavaScript) are organised and compiled for their site.",
+      "desc": "W3C team shares a design system that shows how the front-end assets (CSS and JavaScript) are organized and compiled for their site.",
       "handle": "@w3c",
       "hash": ""
     },
     {
       "link": "https://shadows.brumm.af/",
-      "slink": "",
+      "slink": "https://bit.ly/3EysBoz",
       "title": "Smooth Shadow",
       "desc": "Philipp Brumm shares a helpful little tool to make a smooth shadow.",
       "handle": "@funkensturm",
