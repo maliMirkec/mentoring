@@ -4,3 +4,4 @@ dist
 _tmp
 public
 assets/dist
+.todo
