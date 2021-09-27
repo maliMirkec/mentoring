@@ -41,8 +41,7 @@ ${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + it
       list1 += `
       <li>
         <p><small>${item.type}</small><br><span><a href="${item.link}" target="_blank" style="text-decoration:none"><strong style="color:#FF3366">${item.title}</strong><br><small style="color:#FF3366">${item.link}</small></a></span><br><span>${item.desc}</span></p>
-      </li>
-      `
+      </li>`
 
       list2 += `
 ## ${item.type}

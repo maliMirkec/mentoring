@@ -1,4 +1,97 @@
 [{
+  "date": "2021-09-27",
+  "link": "https://mentor.silvestar.codes/reads/2021-09-27/",
+  "slink": "https://bit.ly/3EWQmXQ",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-76.jpg",
+  "description": "how CSS works, accent-color, why hyperlinks are blue, and more.",
+  "grammarly": "true",
+  "promotion": [
+    {
+      "type": "Popular on CodePen",
+      "link": "https://codepen.io/aaroniker/full/qBjyKGO",
+      "slink": "https://bit.ly/3CJZWLy",
+      "title": "Feedback Reactions (Dark version)",
+      "desc": "Aaron Iker shares a CSS-only and interactive rating system based on emojis.",
+      "handle": "@aaroniker_me",
+      "hash": ""
+    },
+    {
+      "type": "Just for fun",
+      "link": "https://www.youtube.com/watch?app=desktop&v=S9Do2p4PwtE",
+      "slink": "https://bit.ly/3kF2K6q",
+      "title": "re:bass",
+      "desc": "Dylan Beattie shares an original composition inspired by the Git version control system where rhythms and melodies diverge, merge, conflict, and resolve, like branches in a codebase.",
+      "handle": "@dylanbeattie",
+      "hash": ""
+    }
+  ],
+  "list": [
+    {
+      "link": "https://elad.medium.com/how-does-css-work-92fe7116916d",
+      "slink": "https://bit.ly/3umbph3",
+      "title": "How Does CSS Works?",
+      "desc": "Elad Shechter explains what defined the default behavior of CSS and how you can change and control them.",
+      "handle": "@eladsc",
+      "hash": ""
+    },
+    {
+      "link": "https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
+      "slink": "https://bit.ly/3ibA9UH",
+      "title": "Simplifying Form Styles With accent-color",
+      "desc": "Michelle Barker looks at what it does and how to use accent-color alongside a color scheme for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
+      "handle": "@MicheBarks @smashingmag",
+      "hash": ""
+    },
+    {
+      "link": "https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles",
+      "slink": "https://bit.ly/3kFOOZP",
+      "title": "An update to how we generate web page titles",
+      "desc": "Google Search Central introduces a new system of generating titles for web pages and shares a rundown on how it works.",
+      "handle": "@googlesearchc",
+      "hash": ""
+    },
+    {
+      "link": "https://giuseppegurgone.com/twitter-html/",
+      "slink": "https://bit.ly/3AIj3oE",
+      "title": "Twitter's div Soup and Uglyfied CSS, Explained",
+      "desc": "Giuseppe Gurgone reasons how to make sense of Twitter’s website source code and why the authors made some unconventional and controversial choices.",
+      "handle": "@giuseppegurgone",
+      "hash": ""
+    },
+    {
+      "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
+      "slink": "https://mzl.la/39J8GoA",
+      "title": "Why are hyperlinks blue?",
+      "desc": "Elise Blanchard shares a journey through technology history and interfaces to explore how links were handled before color monitors and how interfaces and hyperlinks rapidly evolved once color became an option.",
+      "handle": "@firefox",
+      "hash": ""
+    },
+    {
+      "link": "https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/",
+      "slink": "https://bit.ly/3AJyKMq",
+      "title": "7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS",
+      "desc": "Habdul Hazeez shares seven different examples that showcase how ::before and ::after can be used to create exciting effects.",
+      "handle": "@ziizium @css",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/vansh__bhardwaj/7-ui-design-fundamentals-for-developers-57hg",
+      "slink": "https://bit.ly/3ua6UGI",
+      "title": "7 UI Design Fundamentals for Developers",
+      "desc": "Vansh Bhardwaj shares how you can build interfaces and apps that look good by following basic UI fundamentals, like whitespace, typography, and visual hierarchy.",
+      "handle": "@vansh__bhardwaj",
+      "hash": ""
+    },
+    {
+      "link": "https://learnpine.com/blog/7-useful-html-attributes-you-may-not-know",
+      "slink": "https://bit.ly/2Y02G8U",
+      "title": "7 useful HTML attributes you may not know",
+      "desc": "Mariana Simon shares a list of HTML attributes that many beginners don’t know, but that can be helpful.",
+      "handle": "@simonpaix",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-09-20",
   "link": "https://mentor.silvestar.codes/reads/2021-09-20/",
   "slink": "https://bit.ly/3tVuFSx",
