@@ -23,12 +23,12 @@
     <atom:link href="{{ metadata.feedUrl }}" rel="self" type="application/rss+xml"/>
     {% for article in articles %}
     <item>
-      <title>UI Dev Newsletter, Issue features {{ reads | size | plus: 1 | minus: forloop.index | prepend: '#' }}</title>
+      <title>UI Dev Newsletter, Issue {{ reads | size | plus: 1 | minus: forloop.index | prepend: '#' }}</title>
       <link>{{ metadata.url | append: '/reads/' | append: article.date }}</link>
       <guid>{{ metadata.url | append: '/reads/' | append: article.date }}</guid>
       <pubDate>{{ article.date | date: '%a, %d %b %Y %H:%M:%S %z' }}</pubDate>
       <author>{{ metadata.author.email }} ({{ metadata.author.name }})</author>
-      <description>Issue {{ reads | size | plus: 1 | minus: forloop.index | prepend: '#' }} of the UI Dev Newsletter{% if article.description %}, {{ article.description }}{% endif %}</description>
+      <description>Issue {{ reads | size | plus: 1 | minus: forloop.index | prepend: '#' }} of the UI Dev Newsletter{% if article.description %} features {{ article.description }}{% endif %}</description>
     </item>
     {% endfor %}
   </channel>
