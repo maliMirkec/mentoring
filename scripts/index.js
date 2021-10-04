@@ -92,7 +92,7 @@ ${list2}
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${doc[0].list.map(d => d.handle).join(' ')}
+Featuring ${doc[0].list.concat(doc[0].promotion).map(d => d.handle).join(' ')}
 
 -------------`)
 
@@ -103,7 +103,7 @@ Featuring ${doc[0].list.map(d => d.handle).join(' ')}
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${doc[0].list.map(d => d.handle).join(' ')}
+Featuring ${doc[0].list.concat(doc[0].promotion).map(d => d.handle).join(' ')}
 `)
 
   if(!doc[0].slink || doc[0].slink === '') {
