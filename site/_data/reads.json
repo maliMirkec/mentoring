@@ -1,4 +1,106 @@
 [{
+  "date": "2021-10-18",
+  "link": "https://mentor.silvestar.codes/reads/2021-10-18/",
+  "slink": "https://bit.ly/3phgVkS",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-79.jpg",
+  "description": "latest news in the CSS world, CSS analyzer, HTML size analyzer, and more.",
+  "grammarly": "true",
+  "promotion": [
+    {
+      "type": "Just for fun",
+      "link": "https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/",
+      "slink": "https://bit.ly/3ARPjVy",
+      "title": "I keep making things out of checkboxes",
+      "desc": "Bryan Braun explains why he got on a run making checkbox animations and why he couldn’t stop.",
+      "handle": "BryanEBraun",
+      "hash": ""
+    },
+    {
+      "type": "Popular on Twitter",
+      "link": "https://mobile.twitter.com/dan_abramov/status/1447710863960551433",
+      "slink": "https://bit.ly/3BS1H9D",
+      "title": "A universal date format that works for everyone",
+      "desc": "Dan Abramov shares a date format that might be a solution to an evergreen problem with dates.",
+      "handle": "@dan_abramov",
+      "hash": ""
+    },
+    {
+      "type": "Story",
+      "link": "https://blog.jim-nielsen.com/2021/a-new-toilet/",
+      "slink": "https://bit.ly/3lOT2yW",
+      "title": "A New Toilet",
+      "desc": "Jim Nielsen shares a story about getting to the root of a shitty problem.",
+      "handle": "@jimniels",
+      "hash": ""
+    }
+  ],
+  "list": [
+    {
+      "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
+      "slink": "https://bit.ly/3aNwkRz",
+      "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What",
+      "desc": "Chris Coyier shares a list of things happening in the CSS world lately.",
+      "handle": "@chriscoyier @css",
+      "hash": ""
+    },
+    {
+      "link": "https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/",
+      "slink": "https://bit.ly/3ARwtOx",
+      "title": "Conditional border-radius and three future CSS features",
+      "desc": "Stefan Judis simplifies the conditional border radius solution and explores different future solutions.",
+      "handle": "@stefanjudis",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd",
+      "slink": "https://bit.ly/3vl5UjH",
+      "title": "100 Bytes of CSS to look great everywhere",
+      "desc": "Shawn Swyx Wang shares a few lines of code that make every website look good.",
+      "handle": "@swyx",
+      "hash": ""
+    },
+    {
+      "link": "https://www.projectwallace.com/blog/new-online-css-analyzer",
+      "slink": "https://bit.ly/3aLMIlF",
+      "title": "New online CSS analyzer",
+      "desc": "Bart Veneman introduces a new CSS analyzer that powers all of Project Wallace, a next-gen analyzer that keeps track of your CSS over time.",
+      "handle": "@bartveneman @projectwallace",
+      "hash": ""
+    },
+    {
+      "link": "https://www.zachleat.com/web/lighthouse-deception/",
+      "slink": "https://bit.ly/3BRPL7J",
+      "title": "The art of deception, Lighthouse score edition",
+      "desc": "Zach Leatherman explains the possibilities to manipulate the Lighthouse score and how to avoid common mistakes.",
+      "handle": "@zachleat",
+      "hash": ""
+    },
+    {
+      "link": "https://dev.to/rjitsu/stop-using-if-else-264o",
+      "slink": "https://bit.ly/3lSYKQg",
+      "title": "Stop using if else",
+      "desc": "Rishav Jadon shows how to write “if else” statements in an object-oriented way by using Objects and Maps.",
+      "handle": "@rovenclasher",
+      "hash": ""
+    },
+    {
+      "link": "https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/",
+      "slink": "https://bit.ly/3vntEU3",
+      "title": "What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?",
+      "desc": "Christian Heilmann explains why it is good to use Visual Studio Code as the editor of the in-browser Developer Tools.",
+      "handle": "@codepo8",
+      "hash": ""
+    },
+    {
+      "link": "https://www.debugbear.com/html-size-analyzer",
+      "slink": "https://bit.ly/3aL4wgC",
+      "title": "HTML Size Analyzer",
+      "desc": "Analyze HTML size and catch bloat like inline images, large React hydration state or code duplication.",
+      "handle": "@debugbear",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-10-11",
   "link": "https://mentor.silvestar.codes/reads/2021-10-11/",
   "slink": "https://bit.ly/3uZZt5f",
@@ -602,7 +704,7 @@
       "hash": ""
     },
     {
-      "link": "https://markodenic.com/tools/buttons-generator/?ref=producthunt",
+      "link": "https://markodenic.com/tools/buttons-generator/",
       "slink": "https://bit.ly/3mDp4yQ",
       "title": "Buttons Generator",
       "desc": "Marko Denic shares a tool where you could copy and paste CSS code for more than 100 different button styles.",
@@ -2467,7 +2569,7 @@
     {
       "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
       "slink": "https://bit.ly/2O8zc3m",
-      "title": "What the heck, z-index??",
+      "title": "What the heck, z-index?",
       "desc": "Josh Comeau explores stacking contexts, one of the most misunderstood mechanisms in CSS.",
       "handle": "@joshwcomeau",
       "hash": "#css #frontend"
