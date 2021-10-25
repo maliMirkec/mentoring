@@ -1,4 +1,89 @@
 [{
+  "date": "2021-10-25",
+  "link": "https://mentor.silvestar.codes/reads/2021-10-25/",
+  "slink": "https://bit.ly/3GnERJI",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-80.jpg",
+  "description": "overscroll behavior, favicon analysis, placeholder for images, and more.",
+  "grammarly": "true",
+  "promotion": [
+    {
+      "type": "Popular on Twitter",
+      "link": "https://mobile.twitter.com/jensimmons/status/1452374028249862147",
+      "slink": "https://bit.ly/310iTw0",
+      "title": "For the last 5+ years, web developers have been frustrated with CSS. Why?",
+      "desc": "Jen Simmons asks why developers are ranting and hating CSS.",
+      "handle": "@jensimmons",
+      "hash": ""
+    }
+  ],
+  "list": [
+    {
+      "link": "https://ishadeed.com/article/prevent-scroll-chaining-overscroll-behavior/",
+      "slink": "https://bit.ly/3pBfz4Q",
+      "title": "Prevent Scroll Chaining With Overscroll Behavior",
+      "desc": "Ahmad Shadeed goes through the overscroll-behavior CSS property, the problem it solves, how it works, and where we can use it.",
+      "handle": "@shadeed9",
+      "hash": ""
+    },
+    {
+      "link": "https://css-irl.info/evaluating-clever-css-solutions/",
+      "slink": "https://bit.ly/3Bge2TI",
+      "title": "Evaluating Clever CSS Solutions",
+      "desc": "Michelle Barker explains why the “cleverest” solution isn’t always the best and some new specifications that might make clever hacks less necessary.",
+      "handle": "@CSSInRealLife",
+      "hash": ""
+    },
+    {
+      "link": "https://daverupert.com/2021/10/html-with-superpowers",
+      "slink": "https://bit.ly/3Ei76HR",
+      "title": "HTML with Superpowers",
+      "desc": "Dave Rupert shares his talk about using, styling, and building Web Components and why they are worth investigating.",
+      "handle": "@davatron5000",
+      "hash": ""
+    },
+    {
+      "link": "https://iconmap.io/blog",
+      "slink": "https://bit.ly/3noedHH",
+      "title": "We Analyzed 425,909 Favicons",
+      "desc": "Adam, Nathan & Patrick analyzed the top 100,000 websites’ favicons and shared some fascinating insights.",
+      "handle": "@adamdoppelt",
+      "hash": ""
+    },
+    {
+      "link": "https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/",
+      "slink": "https://bit.ly/2ZmrBnY",
+      "title": "What do I need to read to be a great at CSS?",
+      "desc": "Baldur Bjarnason answers if reading css articles like css-tricks & smashing magazines is a waste of time.",
+      "handle": "@fakebaldur",
+      "hash": ""
+    },
+    {
+      "type": "Blast from the past",
+      "link": "https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html",
+      "slink": "https://bit.ly/3CgDXfi",
+      "title": "Why I Hate Frameworks, Benji Smith.",
+      "desc": "Fredrik Holmqvist explains how it is to use frameworks but using a hammer as an example.",
+      "handle": "@thelastguy",
+      "hash": ""
+    },
+    {
+      "link": "https://houdini.how/",
+      "slink": "https://bit.ly/38Tq7SR",
+      "title": "Houdini.how",
+      "desc": "The community-driven resource library of CSS Houdini worklets.",
+      "handle": "@ChromiumDev",
+      "hash": ""
+    },
+    {
+      "link": "https://lorem.space/",
+      "slink": "https://bit.ly/3b9oXUE",
+      "title": "Lorem.space",
+      "desc": "A useful placeholder image generator.",
+      "handle": "@Saadeghi",
+      "hash": ""
+    }
+  ]
+}, {
   "date": "2021-10-18",
   "link": "https://mentor.silvestar.codes/reads/2021-10-18/",
   "slink": "https://bit.ly/3phgVkS",
