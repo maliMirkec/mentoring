@@ -87,12 +87,17 @@ ${list2}
   console.log('UI Twitter')
   console.log('~~~~~~~~~~~~~')
 
+  const arr1 = doc[0].list.concat(doc[0].promotion).map(d => d.handle.split(' ')).flat().sort()
+  const arr2 = arr1.filter((d1, d2) => {
+    return arr1.indexOf(d1) == d2
+  })
+
   console.log(`
 🆕 UI Dev Newsletter Issue ${doc.length} is out! 🗞️
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${doc[0].list.concat(doc[0].promotion).map(d => d.handle).join(' ')}
+Featuring ${arr2.join(' ')}
 
 -------------`)
 
@@ -103,7 +108,7 @@ Featuring ${doc[0].list.concat(doc[0].promotion).map(d => d.handle).join(' ')}
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${doc[0].list.concat(doc[0].promotion).map(d => d.handle).join(' ')}
+Featuring ${arr2.join(' ')}
 `)
 
   if(!doc[0].slink || doc[0].slink === '') {
