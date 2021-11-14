@@ -1,4 +1,92 @@
 [{
+  "date": "2021-11-15",
+  "link": "https://mentor.silvestar.codes/reads/2021-11-15/",
+  "slink": "https://bit.ly/3ng0P9Y",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-83.jpg",
+  "description": "overflow guide, CSS height: auto animation, background removal app, and more.",
+  "grammarly": "true",
+  "list": [{
+    "link": "https://web.dev/learn/css/overflow/",
+    "slink": "https://bit.ly/2YLgdl3",
+    "title": "Overflow",
+    "desc": "Chrome Developers share a module where you will think outside the (CSS) box and learn how to style overflowing content.",
+    "handle": "@ChromiumDev",
+    "hash": ""
+  },
+  {
+    "link": "https://nemzes.net/posts/animating-height-auto/",
+    "slink": "https://bit.ly/3kxGWte",
+    "title": "Animating height: auto",
+    "desc": "Nelson Menezes shows how to animate the height of an element without knowing its height using only CSS.",
+    "handle": "@nelsonmenezes",
+    "hash": ""
+  },
+  {
+    "link": "https://css-tricks.com/enterkeyhint/",
+    "slink": "https://bit.ly/3Ch9UmS",
+    "title": "enterkeyhint",
+    "desc": "Chris Coyier explains how setting the enterkeyhint attribute could change the action key on a mobile keyboard.",
+    "hash": ""
+  },
+  {
+    "link": "https://www.industrialempathy.com/posts/high-performance-web-font-loading/",
+    "slink": "https://bit.ly/3kApKmM",
+    "title": "More than you ever wanted to know about font loading on the web",
+    "desc": "Malte Ubl describes several techniques to load fonts without affecting Largest Contentful Paint (LCP) and Cumulative Layout Shift (CLS).",
+    "handle": "@cramforce",
+    "hash": ""
+  },
+  {
+    "link": "https://adactio.com/journal/18604",
+    "slink": "https://bit.ly/3HlqJkl",
+    "title": "Inertia",
+    "desc": "Jeremy Keith emphasizes the difference between developer-facing and user-facing frameworks.",
+    "handle": "@adactioJournal",
+    "hash": ""
+  },
+  {
+    "link": "https://www.boia.org/blog/understanding-the-differences-between-wcag-2.2-and-wcag-3.0",
+    "slink": "https://bit.ly/3Hkzn2y",
+    "title": "Understanding the Differences Between WCAG 2.2 and WCAG 3.0",
+    "desc": "Bureau of Internet Accessibility provides some clarity by explaining the significant differences between WCAG versions 2.2 and 3.0. ",
+    "handle": "@BoIAorg",
+    "hash": ""
+  },
+  {
+    "link": "https://designregression.com/article/line-length-revisited-following-the-research",
+    "slink": "https://bit.ly/3kCyNn7",
+    "title": "Line length revisited: following the research",
+    "desc": "Mary Dyson explores the recent eye movement research which questions whether long line lengths do cause reading difficulties.",
+    "handle": "@rosettatype",
+    "hash": ""
+  },
+  {
+    "link": "https://www.erase.bg/en/",
+    "slink": "https://bit.ly/3qBTXpe",
+    "title": "Erase.bg",
+    "desc": "Remove background from images of humans, animals, or objects and download high-resolution images for free.",
+    "handle": "@erase_bg",
+    "hash": ""
+    }
+  ],
+  "promotion": [{
+    "type": "Word of advice",
+    "link": "https://therealadam.com/2021/11/01/dont-be-spooky/",
+    "slink": "https://bit.ly/3wOf74O",
+    "title": "Don’t be spooky",
+    "desc": "Adam Keys shares helpful advice for communicating with your team.",
+    "handle": "@therealadam",
+    "hash": ""
+  }, {
+    "type": "Just for fun",
+    "link": "https://mobile.twitter.com/sumusiriwardana/status/1459019794707931141",
+    "slink": "https://bit.ly/3kBjTgR",
+    "title": "Naming is hard",
+    "desc": "Coming up with a variable name is more challenging than learning JavaScript! 😂",
+    "handle": "@sumusiriwardana",
+    "hash": ""
+  }]
+}, {
   "date": "2021-11-08",
   "link": "https://mentor.silvestar.codes/reads/2021-11-08/",
   "slink": "https://bit.ly/3wlCPoJ",

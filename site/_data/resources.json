@@ -23,6 +23,7 @@
             "name": "CSS basics",
             "resources": [
                "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics",
+               "https://web.dev/learn/css/",
                "https://justmarkup.com/articles/2018-03-27-collection-of-css-snippets/",
                "https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/",
                "https://www.30secondsofcode.org/css/p/1/",
@@ -624,7 +625,8 @@
                "https://nvie.com/posts/a-successful-git-branching-model/",
                "https://gitsheet.wtf/",
                "https://www.madebymike.com.au/writing/how-to-git/",
-               "https://dev.to/milu_franz/git-explained-the-basics-igc"
+               "https://dev.to/milu_franz/git-explained-the-basics-igc",
+               "https://css-tricks.com/creating-the-perfect-commit-in-git/"
             ]
          },
          {
