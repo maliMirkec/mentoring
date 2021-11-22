@@ -1,4 +1,76 @@
 [{
+  "date": "2021-11-22",
+  "link": "https://mentor.silvestar.codes/reads/2021-11-22/",
+  "slink": "https://bit.ly/32oYaTh",
+  "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-84.jpg",
+  "description": "CSS backgrounds, Web Almanac Performance report, a JavaScript utility for spacing on a webpage, and more.",
+  "grammarly": "true",
+  "list": [{
+    "link": "https://web.dev/learn/css/backgrounds/",
+    "slink": "https://bit.ly/3CEFjzS",
+    "title": "Backgrounds",
+    "desc": "Chrome Developers share a module where you will learn how you can style the backgrounds of boxes using CSS.",
+    "handle": "@ChromiumDev"
+  },
+  {
+    "link": "https://almanac.httparchive.org/en/2021/performance",
+    "slink": "https://bit.ly/30TJLOp",
+    "title": "Web Almanac: Performance",
+    "desc": "Sia Karamalegos shares a deep dive on eliminating render-blocking resources and how they relate to the critical render path.",
+    "handle": "@TheGreenGreek"
+  },
+  {
+    "link": "https://web.dev/whats-new-pagespeed-insights/",
+    "slink": "https://bit.ly/30NEx6l",
+    "title": "What's new in PageSpeed Insights",
+    "desc": "Leena Sohoni, Addy Osmani, and Elizabeth Sweeny announce the latest update in PageSpeed Insights to help you better measure and optimize your page and site quality.",
+    "handle": "@addyosmani @egsweeny @ChromiumDev @ChromeDevTools"
+  },
+  {
+    "link": "https://css-tricks.com/a-clever-sticky-footer-technique/",
+    "slink": "https://bit.ly/2ZfW2w0",
+    "title": "A Clever Sticky Footer Technique",
+    "desc": "Chris Coyier explains the sixth way how to build a sticky footer with position sticky.",
+    "handle": "@chriscoyier @css"
+  },
+  {
+    "link": "https://developer.chrome.com/docs/devtools/css-overview/",
+    "slink": "https://bit.ly/3x9mN1z",
+    "title": "Identify potential CSS improvements",
+    "desc": "Jecelyn Yeen shows how to use the CSS Overview panel to understand your page’s CSS better and identify potential improvements.",
+    "handle": "@jecelynyeen @ChromiumDev @ChromeDevTools"
+  },
+  {
+    "link": "https://ericwbailey.design/writing/your-css-is-an-interface/",
+    "slink": "https://bit.ly/3oJtoMm",
+    "title": "Your CSS is an interface",
+    "desc": "Eric Bailey explains how human-friendly CSS class names can help someone use your website or web app.",
+    "handle": "@ericwbailey"
+  },
+  {
+    "link": "https://bradfrost.com/blog/post/design-systems-are-for-user-interfaces/",
+    "slink": "https://bit.ly/3xhDOqn",
+    "title": "Design systems are for user interfaces",
+    "desc": "Brad Frost tries to articulate how his definition of a design system has recently changed to address some hard-earned lessons.",
+    "handle": "@brad_frost"
+  },
+  {
+    "link": "https://github.com/stevenlei/spacingjs",
+    "slink": "https://bit.ly/32bwJvZ",
+    "title": "Spacing.js",
+    "desc": "Steven Lei shares a JavaScript utility for measuring the spacing between elements on a webpage that could be helpful during the development phase.",
+    "handle": ""
+    }
+  ],
+  "promotion": [{
+    "type": "Around the web",
+    "link": "https://drewdevault.com/2021/11/16/Cash-for-leftpad.html",
+    "slink": "https://bit.ly/3cFGjco",
+    "title": "I will pay you cash to delete your npm module",
+    "desc": "Drew DeVault shares a novel solution to the “small modules” problem and supply chain attacks!",
+    "handle": ""
+  }]
+}, {
   "date": "2021-11-15",
   "link": "https://mentor.silvestar.codes/reads/2021-11-15/",
   "slink": "https://bit.ly/3ng0P9Y",
@@ -10,64 +82,56 @@
     "slink": "https://bit.ly/2YLgdl3",
     "title": "Overflow",
     "desc": "Chrome Developers share a module where you will think outside the (CSS) box and learn how to style overflowing content.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://nemzes.net/posts/animating-height-auto/",
     "slink": "https://bit.ly/3kxGWte",
     "title": "Animating height: auto",
     "desc": "Nelson Menezes shows how to animate the height of an element without knowing its height using only CSS.",
-    "handle": "@nelsonmenezes",
-    "hash": ""
+    "handle": "@nelsonmenezes"
   },
   {
     "link": "https://css-tricks.com/enterkeyhint/",
     "slink": "https://bit.ly/3Ch9UmS",
     "title": "enterkeyhint",
     "desc": "Chris Coyier explains how setting the enterkeyhint attribute could change the action key on a mobile keyboard.",
-    "handle": "@chriscoyier @css",
-    "hash": ""
+    "handle": "@chriscoyier @css"
   },
   {
     "link": "https://www.industrialempathy.com/posts/high-performance-web-font-loading/",
     "slink": "https://bit.ly/3kApKmM",
     "title": "More than you ever wanted to know about font loading on the web",
     "desc": "Malte Ubl describes several techniques to load fonts without affecting Largest Contentful Paint (LCP) and Cumulative Layout Shift (CLS).",
-    "handle": "@cramforce",
-    "hash": ""
+    "handle": "@cramforce"
   },
   {
     "link": "https://adactio.com/journal/18604",
     "slink": "https://bit.ly/3HlqJkl",
     "title": "Inertia",
     "desc": "Jeremy Keith emphasizes the difference between developer-facing and user-facing frameworks.",
-    "handle": "@adactioJournal",
-    "hash": ""
+    "handle": "@adactioJournal"
   },
   {
     "link": "https://www.boia.org/blog/understanding-the-differences-between-wcag-2.2-and-wcag-3.0",
     "slink": "https://bit.ly/3Hkzn2y",
     "title": "Understanding the Differences Between WCAG 2.2 and WCAG 3.0",
     "desc": "Bureau of Internet Accessibility provides some clarity by explaining the significant differences between WCAG versions 2.2 and 3.0. ",
-    "handle": "@BoIAorg",
-    "hash": ""
+    "handle": "@BoIAorg"
   },
   {
     "link": "https://designregression.com/article/line-length-revisited-following-the-research",
     "slink": "https://bit.ly/3kCyNn7",
     "title": "Line length revisited: following the research",
     "desc": "Mary Dyson explores the recent eye movement research which questions whether long line lengths do cause reading difficulties.",
-    "handle": "@rosettatype",
-    "hash": ""
+    "handle": "@rosettatype"
   },
   {
     "link": "https://www.erase.bg/en/",
     "slink": "https://bit.ly/3qBTXpe",
     "title": "Erase.bg",
     "desc": "Remove background from images of humans, animals, or objects and download high-resolution images for free.",
-    "handle": "@erase_bg",
-    "hash": ""
+    "handle": "@erase_bg"
     }
   ],
   "promotion": [{
@@ -76,16 +140,14 @@
     "slink": "https://bit.ly/3wOf74O",
     "title": "Don’t be spooky",
     "desc": "Adam Keys shares helpful advice for communicating with your team.",
-    "handle": "@therealadam",
-    "hash": ""
+    "handle": "@therealadam"
   }, {
     "type": "Just for fun",
     "link": "https://mobile.twitter.com/sumusiriwardana/status/1459019794707931141",
     "slink": "https://bit.ly/3kBjTgR",
     "title": "Naming is hard",
     "desc": "Coming up with a variable name is more challenging than learning JavaScript! 😂",
-    "handle": "@sumusiriwardana",
-    "hash": ""
+    "handle": "@sumusiriwardana"
   }]
 }, {
   "date": "2021-11-08",
@@ -99,64 +161,56 @@
     "slink": "https://bit.ly/3bQSRO2",
     "title": "Transitions",
     "desc": "Chrome Developers share a module where you will learn how to define transitions between states of an element and use transitions to improve user experience by providing visual feedback to user interaction.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/",
     "slink": "https://bit.ly/3wpyil3",
     "title": "Developer Tools secrets that shouldn’t be secrets",
     "desc": "Christian Heilmann shares DevTools tips that could help you log and debug your code more efficiently.",
-    "handle": "@codepo8",
-    "hash": ""
+    "handle": "@codepo8"
   },
   {
     "link": "https://www.smashingmagazine.com/2021/10/object-fit-background-size-css/",
     "slink": "https://bit.ly/303i7h2",
     "title": "A Deep Dive Into object-fit And background-size In CSS",
     "desc": "Ahmad Shadeed explains how object-fit and background-size work, when and why we can use them and discusses practical use cases and recommendations.",
-    "handle": "@shadeed9 @smashingmag",
-    "hash": ""
+    "handle": "@shadeed9 @smashingmag"
   },
   {
     "link": "https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/",
     "slink": "https://bit.ly/3BTSUDl",
     "title": "Favicons: How to Make Sure Browsers Only Download the SVG Version",
     "desc": "Chris Coyier explains how to prevent browsers from downloading both .ico and .svg icons by adding sizes attribute.",
-    "handle": "@chriscoyier @css",
-    "hash": ""
+    "handle": "@chriscoyier @css"
   },
   {
     "link": "https://developer.chrome.com/docs/devtools/recorder/",
     "slink": "https://bit.ly/3CWyD13",
     "title": "Record, replay and measure user flows",
     "desc": "Jecelyn Yeen introduces User Flows support in Chrome DevTools and Lighthouse to help you record, replay, and measure interactions beyond page load.",
-    "handle": "@jecelynyeen @ChromiumDev @ChromeDevTools",
-    "hash": ""
+    "handle": "@jecelynyeen @ChromiumDev @ChromeDevTools"
   },
   {
     "link": "https://codepen.io/jonneal/full/ZELvMvw",
     "slink": "https://bit.ly/3COsP9T",
     "title": "Lazy loading JS by visibility",
     "desc": "Jonathan Neal shares Fred K. Schott’s solution for dynamically loading JS using “Islands Architecture,” a strategy where small HTML placeholders are progressively upgraded with dynamic or interactive content as needed.",
-    "handle": "@jon_neal @FredKSchott",
-    "hash": ""
+    "handle": "@jon_neal @FredKSchott"
   },
   {
     "link": "https://colormixer.web.app/",
     "slink": "https://bit.ly/3ETTcfm",
     "title": "Parametric Color Mixer",
     "desc": "Dawid Woldu shares a color palette composer inspired by audio parametric equalizers to create beautiful color palettes with scientific precision.",
-    "handle": "@dawidwoldu",
-    "hash": ""
+    "handle": "@dawidwoldu"
   },
   {
     "link": "https://www.happyhues.co/",
     "slink": "https://bit.ly/3bOB3De",
     "title": "Happy Hues",
     "desc": "Mackenzie Child shares color palettes where every color gives you the context of how that color could be used for your design or illustration projects, plus an explanation of color terminology and the psychology of color.",
-    "handle": "@mackenziechild",
-    "hash": ""
+    "handle": "@mackenziechild"
     }
   ],
   "promotion": [{
@@ -165,16 +219,14 @@
     "slink": "https://bit.ly/3bOB4qM",
     "title": "What HTML tag do you use to mark up Kicker/Eyebrow/Whatever?",
     "desc": "Brad Frost asks questions about those text elements that appear above the title but are styled like standard text or smaller.",
-    "handle": "@brad_frost",
-    "hash": ""
+    "handle": "@brad_frost"
   }, {
     "type": "Discussion",
     "link": "https://dev.to/0shuvo0/can-you-solve-this-interview-problem-4gaa",
     "slink": "https://bit.ly/3kfhN6m",
     "title": "Can you solve this interview problem?",
     "desc": "Shuvo shares a (ridiculous) question from his interview. It might be worth reading the comment section, too.",
-    "handle": "@0shuvo0",
-    "hash": ""
+    "handle": "@0shuvo0"
   }]
 }, {
   "date": "2021-11-01",
@@ -188,64 +240,56 @@
     "slink": "https://bit.ly/31dGg5b",
     "title": "Lists",
     "desc": "Chrome Developers share a module where you will learn how to style all the parts of a list.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://www.htmhell.dev/26-tasty-buttons/",
     "slink": "https://bit.ly/3w4IUWl",
     "title": "#26 HTMHell special: tasty buttons",
     "desc": "Manuel Matuzović shares the second HTMHell special, which focuses on another highly controversial pattern in front-end development: the burger button.",
-    "handle": "@htm_hell @mmatuzo",
-    "hash": ""
+    "handle": "@htm_hell @mmatuzo"
   },
   {
     "link": "https://www.zoho.com/academy/quick-reads/implementing-accessible-ux-for-your-business-site.html",
     "slink": "https://bit.ly/3my3WcR",
     "title": "Implementing Accessible UX for Your Business Site",
     "desc": "Zoho team shares a guide on navigating a website if visitors cannot use a mouse, listen to a video, or read text and graphics.",
-    "handle": "@Zoho",
-    "hash": ""
+    "handle": "@Zoho"
   },
   {
     "link": "https://thenewstack.io/why-outdated-jquery-is-still-the-dominant-javascript-library/",
     "slink": "https://bit.ly/3brQNf9",
     "title": "Why Outdated jQuery Is Still the Dominant JavaScript Library",
     "desc": "Richard MacManus tries to find out the latest on this jQuery, so he spoke to one of the developers who continues to maintain jQuery, Michał Gołębiowski-Owczarek.",
-    "handle": "@ricmac @thenewstack",
-    "hash": ""
+    "handle": "@ricmac @thenewstack"
   },
   {
     "link": "https://docs.github.com/en/get-started/using-github/github-command-palette",
     "slink": "https://bit.ly/3CNj6AR",
     "title": "GitHub Command Palette",
     "desc": "GitHub team launched a command palette to navigate, search, and run commands directly from your keyboard.",
-    "handle": "@github",
-    "hash": ""
+    "handle": "@github"
   },
   {
     "link": "https://www.codecademy.com/resources/blog/30-html-snippets/",
     "slink": "https://bit.ly/3GEpv3v",
     "title": "30 HTML Snippets for the Most Frequently Used HTML Tasks",
     "desc": "Stephan Miller lists 30 commonly used HTML code snippets that might be helpful for any project.",
-    "handle": "@eristoddle @Codecademy",
-    "hash": ""
+    "handle": "@eristoddle @Codecademy"
   },
   {
     "link": "https://blobity.dev/",
     "slink": "https://bit.ly/3pVyuHq",
     "title": "Blobity",
     "desc": "Georgy Marchuk shares a JavaScript plugin for taking the cursor to the next level.",
-    "handle": "@gmrchk",
-    "hash": ""
+    "handle": "@gmrchk"
   },
   {
     "link": "https://www.awwwards.com/best-free-fonts.html",
     "slink": "https://bit.ly/3Bz9Pef",
     "title": "100 Best Free Fonts for Designers in 2021",
     "desc": "Awwwards team shares some nice fonts that are free to use, some for non-commercial use only, and some that have a free version available.",
-    "handle": "@Awwwards",
-    "hash": ""
+    "handle": "@Awwwards"
     }
   ],
   "promotion": [{
@@ -254,16 +298,14 @@
     "slink": "https://bit.ly/3CxIn1y",
     "title": "Using CSS Variables for reduced motion on a global scale",
     "desc": "I have published an article where you could learn how to use CSS Variable and prefers-reduced-motion media feature to remove or minimize animations and transitions on a global scale.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
   }, {
     "type": "Around the web",
     "link": "https://www.pcgamer.com/uk/the-metaverse-is-bullshit/",
     "slink": "https://bit.ly/3mzkeSY",
     "title": "The metaverse is bullshit",
     "desc": "Wes Fenlon explains why metaverse does sound like a worse version of the internet.",
-    "handle": "@wesleyfenlon @pcgamer",
-    "hash": ""
+    "handle": "@wesleyfenlon @pcgamer"
   }]
 }, {
   "date": "2021-10-25",
@@ -277,64 +319,56 @@
     "slink": "https://bit.ly/3pBfz4Q",
     "title": "Prevent Scroll Chaining With Overscroll Behavior",
     "desc": "Ahmad Shadeed goes through the overscroll-behavior CSS property, the problem it solves, how it works, and where we can use it.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://css-irl.info/evaluating-clever-css-solutions/",
     "slink": "https://bit.ly/3Bge2TI",
     "title": "Evaluating Clever CSS Solutions",
     "desc": "Michelle Barker explains why the “cleverest” solution isn’t always the best and some new specifications that might make clever hacks less necessary.",
-    "handle": "@CSSInRealLife",
-    "hash": ""
+    "handle": "@CSSInRealLife"
   },
   {
     "link": "https://daverupert.com/2021/10/html-with-superpowers",
     "slink": "https://bit.ly/3Ei76HR",
     "title": "HTML with Superpowers",
     "desc": "Dave Rupert shares his talk about using, styling, and building Web Components and why they are worth investigating.",
-    "handle": "@davatron5000",
-    "hash": ""
+    "handle": "@davatron5000"
   },
   {
     "link": "https://iconmap.io/blog",
     "slink": "https://bit.ly/3noedHH",
     "title": "We Analyzed 425,909 Favicons",
     "desc": "Adam, Nathan & Patrick analyzed the top 100,000 websites’ favicons and shared some fascinating insights.",
-    "handle": "@adamdoppelt",
-    "hash": ""
+    "handle": "@adamdoppelt"
   },
   {
     "link": "https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/",
     "slink": "https://bit.ly/2ZmrBnY",
     "title": "What do I need to read to be great at CSS?",
     "desc": "Baldur Bjarnason answers if reading CSS articles like CSS-Tricks & Smashing Magazines is a waste of time.",
-    "handle": "@fakebaldur",
-    "hash": ""
+    "handle": "@fakebaldur"
   },
   {
     "link": "https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html",
     "slink": "https://bit.ly/3CgDXfi",
     "title": "Why I Hate Frameworks, Benji Smith.",
     "desc": "Fredrik Holmqvist explains how it is to use frameworks but using a hammer as an example.",
-    "handle": "@thelastguy",
-    "hash": ""
+    "handle": "@thelastguy"
   },
   {
     "link": "https://houdini.how/",
     "slink": "https://bit.ly/38Tq7SR",
     "title": "Houdini.how",
     "desc": "The community-driven resource library of CSS Houdini worklets.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://lorem.space/",
     "slink": "https://bit.ly/3b9oXUE",
     "title": "Lorem.space",
     "desc": "A useful placeholder image generator.",
-    "handle": "@Saadeghi",
-    "hash": ""
+    "handle": "@Saadeghi"
     }
   ],
   "promotion": [{
@@ -343,8 +377,7 @@
     "slink": "https://bit.ly/310iTw0",
     "title": "For the last 5+ years, web developers have been frustrated with CSS. Why?",
     "desc": "Jen Simmons asks why developers are ranting and hating CSS.",
-    "handle": "@jensimmons",
-    "hash": ""
+    "handle": "@jensimmons"
   }]
 }, {
   "date": "2021-10-18",
@@ -358,64 +391,56 @@
     "slink": "https://bit.ly/3aNwkRz",
     "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What",
     "desc": "Chris Coyier shares a list of things happening in the CSS world lately.",
-    "handle": "@chriscoyier @css",
-    "hash": ""
+    "handle": "@chriscoyier @css"
   },
   {
     "link": "https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/",
     "slink": "https://bit.ly/3ARwtOx",
     "title": "Conditional border-radius and three future CSS features",
     "desc": "Stefan Judis simplifies the conditional border radius solution and explores different future solutions.",
-    "handle": "@stefanjudis",
-    "hash": ""
+    "handle": "@stefanjudis"
   },
   {
     "link": "https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd",
     "slink": "https://bit.ly/3vl5UjH",
     "title": "100 Bytes of CSS to look great everywhere",
     "desc": "Shawn Swyx Wang shares a few lines of code that make every website look good.",
-    "handle": "@swyx",
-    "hash": ""
+    "handle": "@swyx"
   },
   {
     "link": "https://www.projectwallace.com/blog/new-online-css-analyzer",
     "slink": "https://bit.ly/3aLMIlF",
     "title": "New online CSS analyzer",
     "desc": "Bart Veneman introduces a new CSS analyzer that powers all of Project Wallace, a next-gen analyzer that keeps track of your CSS over time.",
-    "handle": "@bartveneman @projectwallace",
-    "hash": ""
+    "handle": "@bartveneman @projectwallace"
   },
   {
     "link": "https://www.zachleat.com/web/lighthouse-deception/",
     "slink": "https://bit.ly/3BRPL7J",
     "title": "The art of deception, Lighthouse score edition",
     "desc": "Zach Leatherman explains the possibilities to manipulate the Lighthouse score and how to avoid common mistakes.",
-    "handle": "@zachleat",
-    "hash": ""
+    "handle": "@zachleat"
   },
   {
     "link": "https://dev.to/rjitsu/stop-using-if-else-264o",
     "slink": "https://bit.ly/3lSYKQg",
     "title": "Stop using if else",
     "desc": "Rishav Jadon shows how to write “if else” statements in an object-oriented way by using Objects and Maps.",
-    "handle": "@rovenclasher",
-    "hash": ""
+    "handle": "@rovenclasher"
   },
   {
     "link": "https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/",
     "slink": "https://bit.ly/3FX0tfD",
     "title": "What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?",
     "desc": "Christian Heilmann explains why it is good to use Visual Studio Code as the editor of the in-browser Developer Tools.",
-    "handle": "@codepo8",
-    "hash": ""
+    "handle": "@codepo8"
   },
   {
     "link": "https://www.debugbear.com/html-size-analyzer",
     "slink": "https://bit.ly/3aL4wgC",
     "title": "HTML Size Analyzer",
     "desc": "Analyze HTML size and catch bloat like inline images, large React hydration state or code duplication.",
-    "handle": "@debugbear",
-    "hash": ""
+    "handle": "@debugbear"
     }
   ],
   "promotion": [{
@@ -424,8 +449,7 @@
     "slink": "https://bit.ly/3ARPjVy",
     "title": "I keep making things out of checkboxes",
     "desc": "Bryan Braun explains why he got on a run making checkbox animations and why he couldn’t stop.",
-    "handle": "@BryanEBraun",
-    "hash": ""
+    "handle": "@BryanEBraun"
   },
   {
     "type": "Popular on Twitter",
@@ -433,8 +457,7 @@
     "slink": "https://bit.ly/3BS1H9D",
     "title": "A universal date format that works for everyone",
     "desc": "Dan Abramov shares a date format that might be a solution to an evergreen problem with dates.",
-    "handle": "@dan_abramov",
-    "hash": ""
+    "handle": "@dan_abramov"
   },
   {
     "type": "Story",
@@ -442,8 +465,7 @@
     "slink": "https://bit.ly/3lOT2yW",
     "title": "A New Toilet",
     "desc": "Jim Nielsen shares a story about getting to the root of a shitty problem.",
-    "handle": "@jimniels",
-    "hash": ""
+    "handle": "@jimniels"
     }
   ]
 }, {
@@ -458,64 +480,56 @@
     "slink": "https://bit.ly/3mzJmrk",
     "title": "Conditional Border Radius In CSS",
     "desc": "Ahmad Shadeed highlights the problem of conditional border radius and explains how the solutions work.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://web.dev/sanitizer/",
     "slink": "https://bit.ly/3oMw65g",
     "title": "Safe DOM manipulation with the Sanitizer API",
     "desc": "Jack J shows how the new Sanitizer API aims to build a robust processor for arbitrary strings to be safely inserted into a page.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://www.scottohara.me/blog/2021/10/04/redundantly-redundant.html",
     "slink": "https://bit.ly/3BvOgMa",
     "title": "Redundantly Redundant a11y Accessibility",
     "desc": "Scott O’Hara shows which aria attributes work best with input fields.",
-    "handle": "@scottohara",
-    "hash": ""
+    "handle": "@scottohara"
   },
   {
     "link": "https://yatil.net/blog/buttons-vs-links",
     "slink": "https://bit.ly/3AwNrRY",
     "title": "Buttons vs. Links",
     "desc": "Eric Eggert explains what buttons and links are, what they do, and how they can look.",
-    "handle": "@yatil",
-    "hash": ""
+    "handle": "@yatil"
   },
   {
     "link": "https://cloudfour.com/thinks/the-price-is-which/",
     "slink": "https://bit.ly/3Dvgozx",
     "title": "The price is... which?",
     "desc": "Gerardo Rodriguez shows how a few small changes can significantly enhance the accessibility experience for sale prices.",
-    "handle": "@_gerardo",
-    "hash": ""
+    "handle": "@_gerardo"
   },
   {
     "link": "https://baymard.com/blog/links-accessibility",
     "slink": "https://bit.ly/3BoRNfj",
     "title": "Accessibility for E-Commerce: 3 Best Practices For Navigational Links (73% of Sites Fail)",
     "desc": "Alex Krzyminsk discusses three critical methods for making links accessible to all users.",
-    "handle": "@Baymard",
-    "hash": ""
+    "handle": "@Baymard"
   },
   {
     "link": "https://www.icw.digital/why-web-designer-want-know-budget/",
     "slink": "https://bit.ly/3uW4b3Y",
     "title": "Web Design budgets: Why does your web designer want to know how much money you have?",
     "desc": "Paul Edwards answers why web designers want to know the project budget.",
-    "handle": "@ICW_Digital",
-    "hash": ""
+    "handle": "@ICW_Digital"
   },
   {
     "link": "https://redact.photo/",
     "slink": "https://bit.ly/3oP4T2a",
     "title": "redact.photo",
     "desc": "Rik Schennink shares a tool that is the fastest way to censor sensitive information (on images) online.",
-    "handle": "@rikschennink",
-    "hash": ""
+    "handle": "@rikschennink"
     }
   ],
   "promotion": [{
@@ -524,8 +538,7 @@
     "slink": "https://bit.ly/3FxTdXb",
     "title": "Appreciation for being a web developer",
     "desc": "I wrote an article in which I explain why I am appreciative of being a web developer.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
   }]
 }, {
   "date": "2021-10-04",
@@ -539,64 +552,56 @@
     "slink": "https://bit.ly/3A5bwiv",
     "title": "One last time: custom styling radio buttons and checkboxes",
     "desc": "Scott O’Hara explains what is necessary to restyle radios and checkboxes directly.",
-    "handle": "@scottohara",
-    "hash": ""
+    "handle": "@scottohara"
   },
   {
     "link": "https://blog.jim-nielsen.com/2021/defining-basic-javascript-terms/",
     "slink": "https://bit.ly/2ZU8Mbz",
     "title": "Defining Basic JavaScript Terms: map, filter, and reduce",
     "desc": "Jim Nielsen explains why APIs methods map, filter, and reduce are named the way they are in JavaScript language.",
-    "handle": "@jimniels",
-    "hash": ""
+    "handle": "@jimniels"
   },
   {
     "link": "https://web.dev/speculative-prerendering/",
     "slink": "https://bit.ly/3D5Zk39",
     "title": "Bringing instant page-loads to the browser through speculative prerendering",
     "desc": "Leena Sohoni and Addy Osmani write about speculative prerendering in the browser and how to participate in the Chrome origin trial.",
-    "handle": "@addyosmani @ChromiumDev",
-    "hash": ""
+    "handle": "@addyosmani @ChromiumDev"
   },
   {
     "link": "https://sia.codes/posts/lighthouse-treemap/",
     "slink": "https://bit.ly/3iq2eI7",
     "title": "Explore JavaScript Dependencies With Lighthouse Treemap",
     "desc": "Sia Karamalegos explains how to inspect all JavaScript downloaded and used/unused for a site in a handy data visualization with Lighthouse Treemap.",
-    "handle": "@thegreengreek",
-    "hash": ""
+    "handle": "@thegreengreek"
   },
   {
     "link": "https://muthuannamalai.tech/10-github-repository-every-web-developer-should-know",
     "slink": "https://bit.ly/3orDCCF",
     "title": "10 GitHub Repository every Web Developer should Know",
     "desc": "Muthu Annamalai Venkatachalam puts together a list of ten GitHub repositories to help you grow as a developer.",
-    "handle": "@muthuannamalai_",
-    "hash": ""
+    "handle": "@muthuannamalai_"
   },
   {
     "link": "https://css-tricks.com/so-many-little-design-helper-sites/",
     "slink": "https://bit.ly/3FioQ6W",
     "title": "So many little design helper sites!",
     "desc": "Chris Coyier shares a few sites with handy little tools like wave generators and more.",
-    "handle": "@chriscoyier @css",
-    "hash": ""
+    "handle": "@chriscoyier @css"
   },
   {
     "link": "https://boringseo.org/",
     "slink": "https://bit.ly/2YkuJ2U",
     "title": "Boring SEO",
     "desc": "An SEO guide for non-lazy people.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
   },
   {
     "link": "https://csswizardry.com/ct/",
     "slink": "https://bit.ly/3DcglZE",
     "title": "ct.css",
     "desc": "Harry Roberts shares a diagnostic CSS snippet that exposes potential performance issues in your page’s head tags.",
-    "handle": "@csswizardry",
-    "hash": ""
+    "handle": "@csswizardry"
     }
   ],
   "promotion": [{
@@ -605,8 +610,7 @@
     "slink": "https://bit.ly/3uHU1Ur",
     "title": "How To Build An Expandable Accessible Gallery",
     "desc": "Smashing Magazine published my article in which you could learn how to set up a gallery that is expandable as well as accessible.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
   },
   {
     "type": "Popular on Twitter",
@@ -614,8 +618,7 @@
     "slink": "https://bit.ly/3BayLZQ",
     "title": "HTML tips you won't see in most tutorials.",
     "desc": "Marko Denic shares a thread featuring some less-known yet beneficial HTML attributes and elements.",
-    "handle": "@denicmarko",
-    "hash": ""
+    "handle": "@denicmarko"
   },
   {
     "type": "Hacktoberfest",
@@ -623,8 +626,7 @@
     "slink": "https://bit.ly/3FiRPb8",
     "title": "A Hacktoberfest Project For All Web Developers: Style Stage",
     "desc": "Stephanie Eckles explains why the Style Stage is a perfect project for Hacktoberfest.",
-    "handle": "@5t3ph",
-    "hash": ""
+    "handle": "@5t3ph"
   },
   {
     "type": "Just for fun",
@@ -632,8 +634,7 @@
     "slink": "https://bit.ly/3Dcglc6",
     "title": "Misquoting Einstein Is Fast And Stupid, But Not Accurate",
     "desc": "Tarah Wheeler went looking for the origin of a famous quote believed to belong to Albert Einstein.",
-    "handle": "@tarah @Techdirt",
-    "hash": ""
+    "handle": "@tarah @Techdirt"
     }
   ]
 }, {
@@ -648,64 +649,56 @@
     "slink": "https://bit.ly/3umbph3",
     "title": "How Does CSS Works?",
     "desc": "Elad Shechter explains what defined the default behavior of CSS and how you can change and control them.",
-    "handle": "@eladsc",
-    "hash": ""
+    "handle": "@eladsc"
   },
   {
     "link": "https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
     "slink": "https://bit.ly/3ibA9UH",
     "title": "Simplifying Form Styles With accent-color",
     "desc": "Michelle Barker looks at what it does and how to use accent-color alongside a color scheme for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
-    "handle": "@MicheBarks @smashingmag",
-    "hash": ""
+    "handle": "@MicheBarks @smashingmag"
   },
   {
     "link": "https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles",
     "slink": "https://bit.ly/3kFOOZP",
     "title": "An update to how we generate web page titles",
     "desc": "Google Search Central introduces a new system of generating titles for web pages and shares a rundown on how it works.",
-    "handle": "@googlesearchc",
-    "hash": ""
+    "handle": "@googlesearchc"
   },
   {
     "link": "https://giuseppegurgone.com/twitter-html/",
     "slink": "https://bit.ly/3AIj3oE",
     "title": "Twitter's div Soup and Uglyfied CSS, Explained",
     "desc": "Giuseppe Gurgone reasons how to make sense of Twitter’s website source code and why the authors made some unconventional and controversial choices.",
-    "handle": "@giuseppegurgone",
-    "hash": ""
+    "handle": "@giuseppegurgone"
   },
   {
     "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
     "slink": "https://mzl.la/39J8GoA",
     "title": "Why are hyperlinks blue?",
     "desc": "Elise Blanchard shares a journey through technology history and interfaces to explore how links were handled before color monitors and how interfaces and hyperlinks rapidly evolved once color became an option.",
-    "handle": "@firefox",
-    "hash": ""
+    "handle": "@firefox"
   },
   {
     "link": "https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/",
     "slink": "https://bit.ly/3AJyKMq",
     "title": "7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS",
     "desc": "Habdul Hazeez shares seven different examples that showcase how ::before and ::after can be used to create exciting effects.",
-    "handle": "@ziizium @css",
-    "hash": ""
+    "handle": "@ziizium @css"
   },
   {
     "link": "https://dev.to/vansh__bhardwaj/7-ui-design-fundamentals-for-developers-57hg",
     "slink": "https://bit.ly/3ua6UGI",
     "title": "7 UI Design Fundamentals for Developers",
     "desc": "Vansh Bhardwaj shares how you can build interfaces and apps that look good by following basic UI fundamentals, like whitespace, typography, and visual hierarchy.",
-    "handle": "@vansh__bhardwaj",
-    "hash": ""
+    "handle": "@vansh__bhardwaj"
   },
   {
     "link": "https://learnpine.com/blog/7-useful-html-attributes-you-may-not-know",
     "slink": "https://bit.ly/2Y02G8U",
     "title": "7 useful HTML attributes you may not know",
     "desc": "Mariana Simon shares a list of HTML attributes that many beginners don’t know, but that can be helpful.",
-    "handle": "@simonpaix",
-    "hash": ""
+    "handle": "@simonpaix"
     }
   ],
   "promotion": [{
@@ -714,8 +707,7 @@
     "slink": "https://bit.ly/3CJZWLy",
     "title": "Feedback Reactions (Dark version)",
     "desc": "Aaron Iker shares a CSS-only and interactive rating system based on emojis.",
-    "handle": "@aaroniker_me",
-    "hash": ""
+    "handle": "@aaroniker_me"
   },
   {
     "type": "Just for fun",
@@ -723,8 +715,7 @@
     "slink": "https://bit.ly/3kF2K6q",
     "title": "re:bass",
     "desc": "Dylan Beattie shares an original composition inspired by the Git version control system where rhythms and melodies diverge, merge, conflict, and resolve, like branches in a codebase.",
-    "handle": "@dylanbeattie",
-    "hash": ""
+    "handle": "@dylanbeattie"
     }
   ]
 }, {
@@ -739,64 +730,56 @@
     "slink": "https://bit.ly/2XG3H5J",
     "title": "The Future of CSS: Cascade Layers (CSS @layer)",
     "desc": "Bramus Van Damme explains Cascade Layers, how we can use them, and what benefits they bring.",
-    "handle": "@bramusblog @bramus",
-    "hash": ""
+    "handle": "@bramusblog @bramus"
   },
   {
     "link": "https://www.joshwcomeau.com/css/designing-shadows/",
     "slink": "https://bit.ly/39mfdFU",
     "title": "Designing Beautiful Shadows in CSS",
     "desc": "Josh Comeau describes all you need to know about box-shadows, from theory to practical examples.",
-    "handle": "@joshwcomeau",
-    "hash": ""
+    "handle": "@joshwcomeau"
   },
   {
     "link": "https://www.htmhell.dev/tips/autocapitalization/",
     "slink": "https://bit.ly/3EysBF5",
     "title": "Autocapitalization",
     "desc": "Manuel Matuzović explains how to control the virtual keyboard's capitalization of words and characters by default.",
-    "handle": "@mmatuzo",
-    "hash": ""
+    "handle": "@mmatuzo"
   },
   {
     "link": "https://css-tricks.com/grainy-gradients/",
     "slink": "https://bit.ly/3hL0etq",
     "title": "Grainy Gradients",
     "desc": "Jimmy Chion shows how to generate colorful noise to add texture to a gradient with only a tiny amount of CSS and SVG.",
-    "handle": "@jimmmy",
-    "hash": ""
+    "handle": "@jimmmy"
   },
   {
     "link": "https://web.dev/patterns/web-vitals-patterns/",
     "slink": "https://bit.ly/3zizEOo",
     "title": "Web Vitals patterns",
     "desc": "Chrome Developers share a collection that includes patterns that are often tricky to implement without hurting your Core Web Vitals scores.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08",
     "slink": "https://bit.ly/2XCUGuc",
     "title": "Master Frontend Development By Cloning These Websites",
     "desc": "To become a better developer, Chris Hansen lists which sites you should try to clone and incorporate functionality, like modals and dropdowns.",
-    "handle": "@hyggedev",
-    "hash": ""
+    "handle": "@hyggedev"
   },
   {
     "link": "https://design-system.w3.org/",
     "slink": "https://bit.ly/3AvKS3G",
     "title": "W3C Design System",
     "desc": "W3C team shares a design system that shows how the front-end assets (CSS and JavaScript) are organized and compiled for their site.",
-    "handle": "@w3c",
-    "hash": ""
+    "handle": "@w3c"
   },
   {
     "link": "https://shadows.brumm.af/",
     "slink": "https://bit.ly/3EysBoz",
     "title": "Smooth Shadow",
     "desc": "Philipp Brumm shares a helpful little tool to make a smooth shadow.",
-    "handle": "@funkensturm",
-    "hash": ""
+    "handle": "@funkensturm"
     }
   ],
   "promotion": [{
@@ -805,8 +788,7 @@
     "slink": "https://bit.ly/3klA16r",
     "title": "Play your favorite tunes with Spotify in your terminal.",
     "desc": "GitHub shares a Spotify TUI — Spotify for the terminal written in Rust.",
-    "handle": "@github",
-    "hash": ""
+    "handle": "@github"
   }]
 }, {
   "date": "2021-09-13",
@@ -820,64 +802,56 @@
     "slink": "https://bit.ly/3Eb40Gb",
     "title": "Less Absolute Positioning With Modern CSS",
     "desc": "Ahmad Shadeed explores a few use-cases where absolute positioning isn’t needed anymore.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://web.dev/building-a-split-button-component/",
     "slink": "https://bit.ly/3tyyj4N",
     "title": "Building a split-button component",
     "desc": "Adam Argyle shares a foundational overview of how to build an accessible split-button component.",
-    "handle": "@argyleink @ChromiumDev",
-    "hash": ""
+    "handle": "@argyleink @ChromiumDev"
   },
   {
     "link": "https://gomakethings.com/vanilla-js-is-a-web-performance-decision/",
     "slink": "https://bit.ly/3E2N2K2",
     "title": "Vanilla JS is a web performance decision",
     "desc": "Chris Ferdinandi explains why you should use as little JavaScript as possible if you care about your users.",
-    "handle": "@ChrisFerdinandi",
-    "hash": ""
+    "handle": "@ChrisFerdinandi"
   },
   {
     "link": "https://uxdesign.cc/how-to-optimize-button-microcopy-8f54455d311d",
     "slink": "https://bit.ly/2YFWtyO",
     "title": "How to optimize button microcopy",
     "desc": "Maria Panagiotidi shares seven suggestions with examples about how to write better call-to-action microcopy.",
-    "handle": "@mariapage @uxdesigncc",
-    "hash": ""
+    "handle": "@mariapage @uxdesigncc"
   },
   {
     "link": "https://betterprogramming.pub/4-lesser-known-emmet-tricks-to-speed-up-your-coding-882f4c8707e0",
     "slink": "https://bit.ly/2VAuorz",
     "title": "4 Lesser-Known Emmet Tricks To Speed Up Your Coding",
     "desc": "Mikael Ainalem shares helpful Emmet tips, including chaining CSS commands and setting the size of image elements.",
-    "handle": "@mikaelainalem",
-    "hash": ""
+    "handle": "@mikaelainalem"
   },
   {
     "link": "https://www.failory.com/interview/css-for-js-developers",
     "slink": "https://bit.ly/3novUIK",
     "title": "Pre-Selling a Programming Course and Making $550k in Revenue",
     "desc": "Nico Cerdeira shares an interview with a Successful Startup Founder Josh Comeau.",
-    "handle": "@nicocerdeira @hellofailory @joshwcomeau",
-    "hash": ""
+    "handle": "@nicocerdeira @hellofailory @joshwcomeau"
   },
   {
     "link": "https://remoteok.io/vscode",
     "slink": "https://bit.ly/3z6ks71",
     "title": "Remote OK VS Code",
     "desc": "Pieter Levels shares a fully-functional fake VS Code so, if you're a programmer, you too can browse remote jobs in your office without your boss finding out.",
-    "handle": "@levelsio",
-    "hash": ""
+    "handle": "@levelsio"
   },
   {
     "link": "https://bonsaibrowser.com/",
     "slink": "https://bit.ly/3lfXTHV",
     "title": "Bonsai",
     "desc": "Web-browser for research that helps programmers think clearly.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
     }
   ],
   "promotion": [{
@@ -886,8 +860,7 @@
     "slink": "https://bit.ly/3k6HaYt",
     "title": "CSS resources (fonts, background images) are not requested by your CSS, but by the DOM node that needs them",
     "desc": "Harry Roberts explains how the speed of the DOM determines CSS-resource discovery, not the speed of the CSS itself.",
-    "handle": "@csswizardry",
-    "hash": ""
+    "handle": "@csswizardry"
   },
   {
     "type": "Self-promotion",
@@ -895,8 +868,7 @@
     "slink": "https://bit.ly/3nqKKyE",
     "title": "How to find and insert Unicode symbols in HTML",
     "desc": "I have published an article about my preferred way of inserting Unicode characters in HTML.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
     }
   ]
 }, {
@@ -911,63 +883,55 @@
     "slink": "https://bit.ly/3n7I3Su",
     "title": "Reducing Carbon Emissions On The Web",
     "desc": "Berwyn Powell shares his thoughts and experiences about making websites environmentally friendly.",
-    "handle": "@smashingmag",
-    "hash": ""
+    "handle": "@smashingmag"
   },
   {
     "link": "https://ishadeed.com/article/understanding-z-index/",
     "slink": "https://bit.ly/3zPYQwG",
     "title": "Understanding Z-Index in CSS",
     "desc": "Ahmad Shadeed shares a visual guide on how z-index and stacking contexts work in CSS.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://css-tricks.com/exploring-the-css-paint-api-blob-animation/",
     "slink": "https://bit.ly/2WYPh0b",
     "title": "Exploring the CSS Paint API: Blob Animation",
     "desc": "Temani Afif explains how to use the powerful Paint API and math to make a blog animation.",
-    "handle": "@ChallengesCss",
-    "hash": ""
+    "handle": "@ChallengesCss"
   },
   {
     "link": "https://alvaromontoro.com/blog/67979/creating-accessible-css-art",
     "slink": "https://bit.ly/3BPCXyl",
     "title": "Creating Accessible CSS Art",
     "desc": "Álvaro Montoro shares some tips and best practices to make CSS art more accessible for everyone.",
-    "handle": "@alvaro_montoro",
-    "hash": ""
+    "handle": "@alvaro_montoro"
   },
   {
     "link": "https://www.matuzo.at/blog/element-diversity/",
     "slink": "https://bit.ly/3BJbv5d",
     "title": "Element diversity",
     "desc": "Manuel Matuzović shares a list of reasons why we use divs and explains why we shouldn't use divs so much.",
-    "handle": "@mmatuzo",
-    "hash": ""
+    "handle": "@mmatuzo"
     }, {
     "link": "https://careerswitchtocoding.com/blog/stop-put-down-that-ternary-lines-are-free",
     "slink": "https://bit.ly/3jKYkuk",
     "title": "Stop! Put Down That Ternary, Lines Are Free",
     "desc": "Simon Barker explains why we should strive to write code that is understandable to the team's newest and least experienced members by writing more readable code.",
-    "handle": "@allthecode_",
-    "hash": ""
+    "handle": "@allthecode_"
   },
   {
     "link": "https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization",
     "slink": "https://bit.ly/3n6dDjx",
     "title": "High performance bracket pair colorization",
     "desc": "Visual Studio Code starts to support native bracket pair colorization in the last update.",
-    "handle": "@code",
-    "hash": ""
+    "handle": "@code"
   },
   {
     "link": "https://wavier.art/",
     "slink": "https://bit.ly/2X2oqAm",
     "title": "Wavy Dividers Generator",
     "desc": "Eugene Zolotarenko shares a tool for generating wavy dividers with ease.",
-    "handle": "@eugZolotarenko",
-    "hash": ""
+    "handle": "@eugZolotarenko"
     }
   ],
   "promotion": [{
@@ -976,8 +940,7 @@
     "slink": "https://bit.ly/3tiqgZA",
     "title": "You want enabling CSS selectors, not disabling ones",
     "desc": "Chris Coyier shares one of my articles about a selector that does a job without disabling the particular rule.",
-    "handle": "@chriscoyier @css",
-    "hash": ""
+    "handle": "@chriscoyier @css"
   }]
 }, {
   "date": "2021-08-30",
@@ -991,63 +954,55 @@
     "slink": "https://bit.ly/3sUqbv6",
     "title": "Software Crisis 2.0",
     "desc": "Baldur Bjarnason shares everything he learned relevant to software project failure in a single essay and tries to answer why it happens and why it is so common.",
-    "handle": "@fakebaldur",
-    "hash": ""
+    "handle": "@fakebaldur"
   },
   {
     "link": "https://dev.to/allthecode/i-bet-you-don-t-keep-a-developer-journal-3-reasons-you-should-4kn3",
     "slink": "https://bit.ly/3jljrDo",
     "title": "I Bet You Don't Keep A Developer Journal: 3 Reasons You Should",
     "desc": "Simon Barker explains what the value of keeping a work journal is.",
-    "handle": "@allthecode_",
-    "hash": ""
+    "handle": "@allthecode_"
   },
   {
     "link": "https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/",
     "slink": "https://bit.ly/2WsFOye",
     "title": "Stealing Game Animation Techniques to Engage Users",
     "desc": "Eli Penner shares few ways how to use animations while trying to annoy very few users.",
-    "handle": "@eli_the_brave",
-    "hash": ""
+    "handle": "@eli_the_brave"
   },
   {
     "link": "https://adiyathemighty.com/blog/2021-08-11_setting-juniors-up-for-success",
     "slink": "https://bit.ly/3DqffKz",
     "title": "Setting juniors up for success",
     "desc": "Adiya Mohr explains hiring juniors are an investment.",
-    "handle": "@adiyathemighty",
-    "hash": ""
+    "handle": "@adiyathemighty"
   },
   {
     "link": "https://scruples.studio/privacy-focused-websites",
     "slink": "https://bit.ly/3zpxUnu",
     "title": "Privacy-focused Websites",
     "desc": "Dave Smyth explains what a privacy-focused website looks like and what you need to consider to build one.",
-    "handle": "@websmyth",
-    "hash": ""
+    "handle": "@websmyth"
   },
   {
     "link": "https://markodenic.com/tools/buttons-generator/",
     "slink": "https://bit.ly/3mDp4yQ",
     "title": "Buttons Generator",
     "desc": "Marko Denic shares a tool where you could copy and paste CSS code for more than 100 different button styles.",
-    "handle": "@denicmarko",
-    "hash": ""
+    "handle": "@denicmarko"
     }, {
     "link": "https://how-i-experience-web-today.com/",
     "slink": "https://bit.ly/3gCNDYH",
     "title": "How I experience web today",
     "desc": "Guangyi Li shares a site that demonstrates everyday web surfing experiences these days.",
-    "handle": "@li_guangyi",
-    "hash": ""
+    "handle": "@li_guangyi"
   },
   {
     "link": "https://www.twitter.com/csaba_kissi/status/1430469195464994816",
     "slink": "https://bit.ly/2WsFQWS",
     "title": "8 Free Sites For Web Developers You Probably Didn't Know Existed",
     "desc": "Csaba Kissi shares valuable tools and websites for web development, social sharing, and more.",
-    "handle": "@csaba_kissi",
-    "hash": ""
+    "handle": "@csaba_kissi"
     }
   ],
   "promotion": [{
@@ -1056,8 +1011,7 @@
     "slink": "Newsletters",
     "title": "https://bit.ly/2UTpANA",
     "desc": "Robin Rendle explains why newsletters are hot and why they bother him.",
-    "handle": "@robinrendle",
-    "hash": ""
+    "handle": "@robinrendle"
   }]
 }, {
   "date": "2021-08-23",
@@ -1071,63 +1025,55 @@
     "slink": "https://bit.ly/3kiWSyf",
     "title": "How to find the cause of horizontal scrollbars",
     "desc": "Kilian Valkhof explains what causes horizontal scrollbars and shows some techniques for finding horizontal scrolling issues.",
-    "handle": "@kilianvalkhof @Polypane",
-    "hash": ""
+    "handle": "@kilianvalkhof @Polypane"
   },
   {
     "link": "https://ishadeed.com/article/star-rating-svg/",
     "slink": "https://bit.ly/3msQbMS",
     "title": "Star Rating: An SVG Solution",
     "desc": "Ahmad Shadeed goes through the SVG solution for star rating systems and how it works for different scenarios.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/",
     "slink": "https://bit.ly/3jeKKiR",
     "title": "What I learned from Software Engineering at Google",
     "desc": "Swizec Teller shares a recap of lessons after reading the “Software Engineering at Google” book.",
-    "handle": "@swizec",
-    "hash": ""
+    "handle": "@swizec"
   },
   {
     "link": "https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/",
     "slink": "https://bit.ly/385CeMI",
     "title": "Does shadow DOM improve style performance?",
     "desc": "Nolan Lawson tries to answer this question by showing how shadow DOM works and by benchmarking the selectors.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
   },
   {
     "link": "https://www.filamentgroup.com/lab/video-with-sizes/",
     "slink": "https://bit.ly/2XEC64A",
     "title": "HTML Video Sources Should Be Responsive",
     "desc": "Scott Jehl proposes a solution for responsibly-sized, responsive, contextually-sized videos.",
-    "handle": "@scottjehl @filamentgroup",
-    "hash": ""
+    "handle": "@scottjehl @filamentgroup"
   },
   {
     "link": "https://ricostacruz.com/nprogress/",
     "slink": "https://bit.ly/3865Ycc",
     "title": "NProgress.js",
     "desc": "Rico Sta. Cruz shares a nanoscopic progress bar featuring realistic trickle animations to convince your users that something is happening!",
-    "handle": "@rstacruz",
-    "hash": ""
+    "handle": "@rstacruz"
   },
   {
     "link": "https://neatnik.net/view-source/",
     "slink": "https://bit.ly/3sDVTww",
     "title": "View Source",
     "desc": "Neatnik shares a tool to view the source of any web page on the internet that could be very handy, especially on mobile devices.",
-    "handle": "@neatnikllc",
-    "hash": ""
+    "handle": "@neatnikllc"
     }, {
     "link": "https://www.twitter.com/perborgen/status/1427365523357044738",
     "slink": "https://bit.ly/3kjADZ0",
     "title": "The joy of sharing an open source project on Reddit",
     "desc": "Per Harald Borgen shares a tweet with a negative comment from Reddit that sums up the everyday experience of using Reddit.",
-    "handle": "@perborgen",
-    "hash": ""
+    "handle": "@perborgen"
     }
   ],
   "promotion": [{
@@ -1136,16 +1082,14 @@
     "slink": "https://bbc.in/3gkXTVu",
     "title": "The Hitchhiker's Guide To The Galaxy - Infocom interactive fiction",
     "desc": "Play a 1984 interactive fiction game written by Douglas Adams and Steve Meretzky and published by Infocom.",
-    "handle": "",
-    "hash": ""
+    "handle": ""
   }, {
     "type": "Self-promotion",
     "link": "https://www.silvestar.codes/articles/nightmare-dx-shopify/",
     "slink": "https://bit.ly/3jfDpj3",
     "title": "Nightmare DX (Developer Experience): Shopify",
     "desc": "I have published an article about Shopify and its (un)friendliness for developers.",
-    "handle": "@malimirkeccita",
-    "hash": ""
+    "handle": "@malimirkeccita"
   }]
 }, {
   "date": "2021-08-16",
@@ -1159,63 +1103,55 @@
     "slink": "https://bit.ly/3yKrtuK",
     "title": "A guide to designing accessible, WCAG-compliant focus indicators",
     "desc": "Sara Soueidan shares a guide to designing accessible focus indicators with real-life examples and use cases.",
-    "handle": "@SaraSoueidan",
-    "hash": ""
+    "handle": "@SaraSoueidan"
   },
   {
     "link": "https://www.joshwcomeau.com/css/transforms/",
     "slink": "https://bit.ly/2VXdVNP",
     "title": "The World of CSS Transforms",
     "desc": "Josh Comeau shares everything about the transform property and shows some of the fantastic and unexpected things you can do with it.",
-    "handle": "@joshwcomeau",
-    "hash": ""
+    "handle": "@joshwcomeau"
     }, {
     "link": "https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/",
     "slink": "https://bit.ly/37OytL6",
     "title": "The State Of Mobile First and Desktop First",
     "desc": "Ahmad Shadeed explores what mobile-first and desktop first mean, and he tries to discover if these methods are still relevant today.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
     "slink": "https://bit.ly/2UiymEC",
     "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
     "desc": "Robin Marx explains what HTTP/3 is, why it was needed so soon after HTTP/2, how we should use it, and how it improves web performance.",
-    "handle": "@programmingart",
-    "hash": ""
+    "handle": "@programmingart"
   },
   {
     "link": "https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html",
     "slink": "https://bit.ly/37MaQTw",
     "title": "Breaking the web forward",
     "desc": "Peter-Paul Koch tries to explain why everybody thinks Safari is holding back the web, and he shares his solution for the problem.",
-    "handle": "@ppk",
-    "hash": ""
+    "handle": "@ppk"
   },
   {
     "link": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/",
     "slink": "https://bit.ly/2VQgSQq",
     "title": "CSS Utility Classes and 'Separation of Concerns'",
     "desc": "Adam Wathan explains how he got the idea for utility classes in CSS. The article was released at the time of releasing his open-source project TailwindCSS.",
-    "handle": "@adamwathan",
-    "hash": ""
+    "handle": "@adamwathan"
   },
   {
     "link": "https://www.youtube.com/playlist?app=desktop&list=PLTqm2yVMMUKWTr9XWdW5hJ9tk512Ow0SE",
     "slink": "https://bit.ly/3yO1gLV",
     "title": "Quick accessibility tests",
     "desc": "TetraLogical shares ten quick accessibility checks anyone can run.",
-    "handle": "@tetralogical",
-    "hash": ""
+    "handle": "@tetralogical"
   },
   {
     "link": "https://www.npmjs.com/package/git-recent",
     "slink": "https://bit.ly/3iNbTsH",
     "title": "git-recent",
     "desc": "Paul Irish shares a package that allows you to use the 'git recent' command to see your latest local git branches.",
-    "handle": "@paul_irish",
-    "hash": ""
+    "handle": "@paul_irish"
     }
   ],
   "promotion": [{
@@ -1224,8 +1160,7 @@
     "slink": "https://bit.ly/3iMDnPe",
     "title": "Save Walter White",
     "desc": "If you are a fan of Breaking Bad, you might remember a website Walter Jr. built for his dad to raise the money for the medical procedure. This is that site.",
-    "handle": "@AMC_TV @BreakingBad",
-    "hash": ""
+    "handle": "@AMC_TV @BreakingBad"
   }]
 }, {
   "date": "2021-08-09",
@@ -1239,63 +1174,55 @@
     "slink": "https://bit.ly/3s12S28",
     "title": "Frustrating Design Patterns: Disabled Buttons",
     "desc": "Vitaly Friedman tries to answer how we can make disabled buttons more inclusive, when they work well, when they fail on us, when we need them, and how to avoid them.",
-    "handle": "@smashingmag",
-    "hash": ""
+    "handle": "@smashingmag"
     }, {
     "link": "https://benmyers.dev/blog/on-the-dl/",
     "slink": "https://bit.ly/37w5kUU",
     "title": "On the dl",
     "desc": "Ben Myers explains everything about the underrated description list element and shows some real-life uses of name-value pairs.",
-    "handle": "@BenDMyers",
-    "hash": ""
+    "handle": "@BenDMyers"
   },
   {
     "link": "https://web.dev/learn/css/pseudo-classes/#:focus-:focus-within-and-:focus-visible",
     "slink": "https://bit.ly/3s03jKg",
     "title": "Pseudo-classes",
     "desc": "A lesson about CSS pseudo-classes and different states of it, like interactive, validation, and other states.",
-    "handle": "@ChromiumDev",
-    "hash": ""
+    "handle": "@ChromiumDev"
   },
   {
     "link": "https://adactio.com/journal/18337",
     "slink": "https://bit.ly/3lMa2pW",
     "title": "Foundations",
     "desc": "Jeremy Keith explains why web browsers shouldn't remove older features from new releases and why the web is meant for everyone to build, not only professional web developers.",
-    "handle": "@adactioJournal",
-    "hash": ""
+    "handle": "@adactioJournal"
   },
   {
     "link": "https://octo.github.com/projects/repo-visualization",
     "slink": "https://bit.ly/2WZxeqn",
     "title": "Visualizing a codebase",
     "desc": "Amelia Wattenberger explores ways to automatically visualize a GitHub repo and how that could be useful.",
-    "handle": "@Wattenberger",
-    "hash": ""
+    "handle": "@Wattenberger"
   },
   {
     "link": "https://whatdevsneed.com/",
     "slink": "https://bit.ly/3AotWeF",
     "title": "what devs need",
     "desc": "Paul Haedrich introduces an open-source project for discovering developer tools to boost your workflow without ads, cookies, tracking, popups, or signups.",
-    "handle": "@theberrysauce",
-    "hash": ""
+    "handle": "@theberrysauce"
   },
   {
     "link": "https://gridless.design/",
     "slink": "https://bit.ly/3xBFE3Q",
     "title": "gridless.design",
     "desc": "Donnie D'Amato introduces a thesis about the design grid and getting rid of it for web design experiences.",
-    "handle": "@donniedamato",
-    "hash": ""
+    "handle": "@donniedamato"
   },
   {
     "link": "https://github.com/chriswalz/bit",
     "slink": "https://bit.ly/3xwqWLG",
     "title": "bit",
     "desc": "Chris Walz introduces Bit, a modern Git CLI.",
-    "handle": "@chriswalz___",
-    "hash": ""
+    "handle": "@chriswalz___"
     }
   ]
 }, {
@@ -1310,64 +1237,56 @@
     "slink": "https://bit.ly/3fmlfJV",
     "title": "There Is No Such Thing As A CSS Absolute Unit",
     "desc": "Elad Shechter explains why CSS absolute units aren’t so absolute.",
-    "handle": "@eladsc",
-    "hash": ""
+    "handle": "@eladsc"
   },
   {
     "link": "https://marcus.io/blog/accessible-overflow",
     "slink": "https://bit.ly/3fmc8Je",
     "title": "Accessible Overflow",
     "desc": "Marcus Herrmann shares his research on containers that harbor content that is either horizontally or vertically too large for its parent and the current state of overflow scrolling affairs.",
-    "handle": "@_marcusherrmann",
-    "hash": ""
+    "handle": "@_marcusherrmann"
   },
   {
     "link": "https://engineering.kablamo.com.au/posts/2021/my-first-css",
     "slink": "https://bit.ly/3jaPKDP",
     "title": "What I Wish I Knew About CSS When Starting Out As A Frontender",
     "desc": "Nathan Hardy shares three key concepts vital to understanding CSS, especially if you are a beginner.",
-    "handle": "@nhardy96",
-    "hash": ""
+    "handle": "@nhardy96"
   },
   {
     "link": "https://ishadeed.com/article/button-label-alignment/",
     "slink": "https://bit.ly/3ikCptr",
     "title": "Aligning a Button Label Vertically",
     "desc": "Ahmad Shadeed explains how to achieve a perfect vertical alignment for buttons by adding a pseudo-element with zero width and a fixed height.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://dev.to/palashmon/10-awesome-javascript-shorthands-4pek",
     "slink": "https://bit.ly/3C5bgT4",
     "title": "10 Awesome JavaScript Shorthands",
     "desc": "Palash Mondal shares ten awesome JavaScript shorthands that will increase your speed by helping you to write less code and do more.",
-    "handle": "@palashv2",
-    "hash": ""
+    "handle": "@palashv2"
   },
   {
     "link": "https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07",
     "slink": "https://bit.ly/3C9xV0i",
     "title": "Yarn 3.0 🚀🤖 Performances, ESBuild, Better Patches, ...",
     "desc": "Maël Nison, a Yarn maintainer, highlights changes from a new major version of Yarn.",
-    "handle": "@arcanis",
-    "hash": ""
+    "handle": "@arcanis"
   },
   {
     "link": "https://javascriptquiz.com/",
     "slink": "https://bit.ly/3jgVsUw",
     "title": "JavaScript Quiz",
     "desc": "Marko Denic and Oliver Jumpertz created a quiz to check your JavaScript knowledge by having fun.",
-    "handle": "@denicmarko @oliverjumpertz",
-    "hash": ""
+    "handle": "@denicmarko @oliverjumpertz"
   },
   {
     "link": "https://grid.layoutit.com/",
     "slink": "https://bit.ly/3C9y2sK",
     "title": "Layoutit grid",
     "desc": "Quickly drawdown web page layouts with our clean editor and get HTML and CSS code to start your next project quickly.",
-    "handle": "@Leniolabs_",
-    "hash": ""
+    "handle": "@Leniolabs_"
     }
   ],
   "promotion": [{
@@ -1376,8 +1295,7 @@
     "slink": "https://bit.ly/3jd4jql",
     "title": "You don’t need React for building websites",
     "desc": "I have published an article about not using React to build websites, which triggered an interesting discussion last week.",
-    "handle": "@malimirkeccita",
-    "hash": ""
+    "handle": "@malimirkeccita"
   }]
 }, {
   "date": "2021-07-26",
@@ -1391,64 +1309,56 @@
     "slink": "https://bit.ly/2Wnnwhv",
     "title": "Resource inlining in JavaScript frameworks",
     "desc": "Minko Gechev shows how to improve Largest Contentful Paint across the JavaScript ecosystem by inlining Critical CSS.",
-    "handle": "@mgechev @ChromiumDev",
-    "hash": ""
+    "handle": "@mgechev @ChromiumDev"
   },
   {
     "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
     "slink": "https://bit.ly/3eWee26",
     "title": "Detecting media query support in CSS and JavaScript",
     "desc": "Kilian Valkhof shows how to detect support for media queries regardless of if they are turned on.",
-    "handle": "@kilianvalkhof",
-    "hash": ""
+    "handle": "@kilianvalkhof"
   },
   {
     "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
     "slink": "https://bit.ly/3kTYh0o",
     "title": "Using the Specificity of :where() as a CSS Reset",
     "desc": "Mojtaba Seyedi explains how to use the 'where()' selector to reset the weight of the selector for easier overriding.",
-    "handle": "@mojtabaseyedi",
-    "hash": ""
+    "handle": "@mojtabaseyedi"
   },
   {
     "link": "https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/#classic-vs-overlay",
     "slink": "https://bit.ly/3y3zRoJ",
     "title": "Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property",
     "desc": "Bramus Van Damme explains how developers could control a side-effect when showing scrollbars on the web to avoid layout shifts.",
-    "handle": "@bramusblog @bramus",
-    "hash": ""
+    "handle": "@bramusblog @bramus"
   },
   {
     "link": "https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i",
     "slink": "https://bit.ly/2ULE81N",
     "title": "The Ultimate Cheat sheet List For Web Developers",
     "desc": "Insha Ramin shares some quick and helpful cheat sheets that'll save you hours in wasted time each week.",
-    "handle": "@Insharamin",
-    "hash": ""
+    "handle": "@Insharamin"
   },
   {
     "link": "https://umaar.com/dev-tips/244-font-editor/",
     "slink": "https://bit.ly/3x3abaw",
     "title": "Chrome DevTools: Easily control typography with the CSS Font Editor",
     "desc": "Umar Hansa shows how to use the font editor within the styles pane to change typography on a web page quickly.",
-    "handle": "@umaar",
-    "hash": ""
+    "handle": "@umaar"
   },
   {
     "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
     "slink": "https://bit.ly/3x4zyJc",
     "title": "How To Learn Stuff Quickly",
     "desc": "Josh Comeau shares what he has learned about learning and shows how he pick up new skills lickety-split.",
-    "handle": "@joshwcomeau",
-    "hash": ""
+    "handle": "@joshwcomeau"
   },
   {
     "link": "https://pagespeed.compare/",
     "slink": "https://bit.ly/3eThlYy",
     "title": "PageSpeed Compare",
     "desc": "Sander Heilbron shares a project that allows you to compare performance metrics of your pages against each other or your competitors using Google PageSpeed Insights.",
-    "handle": "@sanderheilbron",
-    "hash": ""
+    "handle": "@sanderheilbron"
     }
   ]
 }, {
@@ -1463,64 +1373,56 @@
     "slink": "https://bit.ly/2VRz0cx",
     "title": "The performance effects of too much lazy-loading",
     "desc": "Rick Viscomi and Felix Arntz share data-driven advice for lazy-loading images with Core Web Vitals in mind.",
-    "handle": "@rick_viscomi @felixarntz @ChromiumDev",
-    "hash": ""
+    "handle": "@rick_viscomi @felixarntz @ChromiumDev"
   },
   {
     "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
     "slink": "https://bit.ly/3eAIS0O",
     "title": "Meta Theme Color and Trickery",
     "desc": "Manuel Matuzović explores the possibilities of a 'theme-color' meta tag.",
-    "handle": "@mmatuzo",
-    "hash": ""
+    "handle": "@mmatuzo"
   },
   {
     "link": "https://dev.to/colabottles/why-accessibility-26mf",
     "slink": "https://bit.ly/3inBgQn",
     "title": "Why Accessibility?",
     "desc": "Todd Libby explains why accessibility should be an equal citizen of your project.",
-    "handle": "@toddlibby",
-    "hash": ""
+    "handle": "@toddlibby"
   },
   {
     "link": "https://uxdesign.cc/designing-a-chair-a-story-about-junior-designers-vs-senior-designers-24be40b1d2cb",
     "slink": "https://bit.ly/3hP9xZX",
     "title": "Designing a chair: A story about Junior vs. Senior Designers.",
     "desc": "Stan Reimgen explains the difference between junior and senior designers, which could be applied to developers.",
-    "handle": "@stanreim @uxdesigncc",
-    "hash": ""
+    "handle": "@stanreim @uxdesigncc"
   },
   {
     "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar",
     "slink": "https://mzl.la/2VYUmoz",
     "title": "Lexical grammar",
     "desc": "MDN contributors describe everything about JavaScript's lexical grammar from control characters and white space to automatic semicolon insertion and browser compatibility.",
-    "handle": "@MozDevNet @mozilla",
-    "hash": ""
+    "handle": "@MozDevNet @mozilla"
   },
   {
     "link": "https://www.kevinpowell.co/article/why-i-dont-like-being-called-the-king-of-css/",
     "slink": "https://bit.ly/3xTfESs",
     "title": "Why I am not the King",
     "desc": "Kevin Powell shares a lot of helpful CSS resources and professionals in his humble post.",
-    "handle": "@kevinJPowell",
-    "hash": ""
+    "handle": "@kevinJPowell"
   },
   {
     "link": "https://www.dottedsquirrel.com/javascript-language/",
     "slink": "https://bit.ly/3exmk1a",
     "title": "Trends Come And Go, But JavaScript Is Forever",
     "desc": "Aphinya Dechalert explores a little into the history of JavaScript and its good and bad parts.",
-    "handle": "@dottedsquirrel",
-    "hash": ""
+    "handle": "@dottedsquirrel"
   },
   {
     "link": "https://www.smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
     "slink": "https://bit.ly/36HT1Vn",
     "title": "Frustrating Design Patterns: Broken Filters",
     "desc": "Vitaly Friedman describes how to design better filters on the web.",
-    "handle": "@smashingmag",
-    "hash": ""
+    "handle": "@smashingmag"
     }
   ],
   "promotion": [{
@@ -1529,8 +1431,7 @@
     "slink": "https://bit.ly/3ktSVZv",
     "title": "New on my web: Stories",
     "desc": "Just random thoughts and notes from yours truly.",
-    "handle": "@malimirkeccita",
-    "hash": ""
+    "handle": "@malimirkeccita"
   }]
 }, {
   "date": "2021-07-12",
@@ -1543,64 +1444,56 @@
     "slink": "https://bit.ly/3AVIweL",
     "title": "Using HSL Colors In CSS",
     "desc": "Ahmad Shadeed explains what HSL is, how to use it and shares some valuable use-cases and examples that you can use right away in your current projects.",
-    "handle": "@shashingmag @shadeed9",
-    "hash": ""
+    "handle": "@shashingmag @shadeed9"
   },
   {
     "link": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
     "slink": "https://bit.ly/3r2oafr",
     "title": "The Large, Small, and Dynamic Viewports",
     "desc": "Bramus Van Damme shows which changes are being proposed regarding viewport units and how they should work.",
-    "handle": "@bramusblog @bramus",
-    "hash": ""
+    "handle": "@bramusblog @bramus"
   },
   {
     "link": "https://css-tricks.com/the-dilemma-of-naming-font-size-variables/",
     "slink": "https://bit.ly/3hx3Xes",
     "title": "The Dilemma of Naming Font Size Variables",
     "desc": "Martin Lexelius explores how to define font sizes in your project.",
-    "handle": "@css",
-    "hash": ""
+    "handle": "@css"
   },
   {
     "link": "https://bootcamp.uxdesign.cc/demystifying-the-material-design-expand-and-cross-fade-effect-67787306630c",
     "slink": "https://bit.ly/3wzLYs7",
     "title": "Demystifying the material design expand and cross-fade effect",
     "desc": "Mikael Ainalem explains how to recreate the effect from the Material Design where the component zooms in and reveals more details.",
-    "handle": "@mikaelainalem",
-    "hash": ""
+    "handle": "@mikaelainalem"
   },
   {
     "link": "https://www.zeichenschatz.net/typography/pairing-fonts",
     "slink": "https://bit.ly/36uicun",
     "title": "Pairing fonts – 3 ways to find great typeface combinations",
     "desc": "Oliver Schöndorfer shares different approaches to combining typefaces that teach you some principles, show you a couple of quick wins and go into the nerdy detail.",
-    "handle": "@glyphe",
-    "hash": ""
+    "handle": "@glyphe"
   },
   {
     "link": "https://elad2412.github.io/the-new-css-reset/",
     "slink": "https://bit.ly/2UI4p0p",
     "title": "the-new-css-reset",
     "desc": "Elad Shechter shares the new simple, and lighter CSS reset.",
-    "handle": "@eladsc",
-    "hash": ""
+    "handle": "@eladsc"
   },
   {
     "link": "https://rtl.wtf/intro/",
     "slink": "https://bit.ly/3ARYOW7",
     "title": "RTL:WTF",
     "desc": "Moriel Schottlender creates a site where you could read the web like Right-to-Left readers do, learn about the challenges, and how to help solve them.",
-    "handle": "@mooeypoo",
-    "hash": ""
+    "handle": "@mooeypoo"
   },
   {
     "link": "https://github.com/bradtraversy/vanillawebprojects",
     "slink": "https://bit.ly/3hWCCSc",
     "title": "20+ Web Projects With Vanilla JavaScript",
     "desc": "Brad Traversy collects mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.",
-    "handle": "@traversymedia",
-    "hash": ""
+    "handle": "@traversymedia"
     }
   ]
 }, {
@@ -1614,64 +1507,56 @@
     "slink": "https://bit.ly/3dHDoRr",
     "title": "7 GitHub projects essential for every Javascript developer 👨🏽‍💻 🚀",
     "desc": "Ankit Anand shares amazing and popular GitHub projects that will help you become a better Javascript developer.",
-    "handle": "Ankit Anand",
-    "hash": ""
+    "handle": "Ankit Anand"
   },
   {
     "link": "https://gomakethings.com/images-and-screen-reader-users/",
     "slink": "https://bit.ly/2UqpFaT",
     "title": "Images and screen reader users",
     "desc": "Chris Ferdinandi shows how to use the alt attribute with img elements to provide descriptive text that can be read aloud by screen readers and other assistive technology.",
-    "handle": "@ChrisFerdinandi",
-    "hash": ""
+    "handle": "@ChrisFerdinandi"
   },
   {
     "link": "https://uxdesign.cc/do-i-have-to-try-again-in-a-few-minutes-15f70d3e7301",
     "slink": "https://bit.ly/3Atm9gI",
     "title": "Do I have to “Try again in a few minutes”?",
     "desc": "Frank W. explains what might be a better way to have products keep delivering value even when they glitch.",
-    "handle": "@uxdesigncc",
-    "hash": ""
+    "handle": "@uxdesigncc"
   },
   {
     "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
     "slink": "https://bit.ly/3ApFHCD",
     "title": "Positioning Overlay Content with CSS Grid",
     "desc": "Ryan Mulligan shows how to use CSS Grid and alignment properties to create component layouts that contain multiple overlapping elements.",
-    "handle": "@hexagoncircle",
-    "hash": ""
+    "handle": "@hexagoncircle"
   },
   {
     "link": "https://brucelawson.co.uk/2021/prefers-reduced-motion-and-browser-defaults/",
     "slink": "https://bit.ly/3ApFOhx",
     "title": "prefers-reduced-motion and browser defaults",
     "desc": "Bruce Lawson proposes some default behavior for reduced motion and shares a temporary CSS workaround.",
-    "handle": "@brucel",
-    "hash": ""
+    "handle": "@brucel"
   },
   {
     "link": "https://gist.github.com/jackdomleo7/55659bafe581d19cc341ef775d6a9e6b",
     "slink": "https://bit.ly/3wl53OG",
     "title": "Useful global CSS",
     "desc": "Jack Domleo shares a set of useful global CSS defaults to add to your site alongside a reset stylesheet (with explanations).",
-    "handle": "@jackdomleo7",
-    "hash": ""
+    "handle": "@jackdomleo7"
   },
   {
     "link": "https://ui.glass/generator/",
     "slink": "https://bit.ly/2UXqPei",
     "title": "Glassmorphism CSS Generator",
     "desc": "Zoltán Szőgyényi shares a CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.",
-    "handle": "@zoltanszogyenyi",
-    "hash": ""
+    "handle": "@zoltanszogyenyi"
   },
   {
     "link": "https://www.screensizes.app/",
     "slink": "https://bit.ly/3dEutk0",
     "title": "Screen Sizes",
     "desc": "A complete guide for Apple displays.",
-    "handle": "@trevormkay",
-    "hash": ""
+    "handle": "@trevormkay"
     }
   ]
 }, {
@@ -1685,64 +1570,56 @@
     "slink": "https://bit.ly/3dkHgrr",
     "title": "content-visibility",
     "desc": "Idorenyin Udoh explains all about the content-visibility property in CSS.",
-    "handle": "@broods_",
-    "hash": ""
+    "handle": "@broods_"
   },
   {
     "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
     "slink": "https://bit.ly/2TarvN0",
     "title": "Organize your CSS declarations alphabetically",
     "desc": "Eric Bailey explains why organizing CSS declarations are essential and why using alphabetical order might be the best solution.",
-    "handle": "@ericwbailey",
-    "hash": ""
+    "handle": "@ericwbailey"
   },
   {
     "link": "https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html",
     "slink": "https://bit.ly/3jkBc6a",
     "title": "Using CSS to Enforce Accessibility",
     "desc": "Adrian Roselli lists some examples of how the CSS selector is keying off the HTML, what WCAG Success Criteria they help support, and if there are any gotchas.",
-    "handle": "@aardrian",
-    "hash": ""
+    "handle": "@aardrian"
   },
   {
     "link": "https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html",
     "slink": "https://bit.ly/3x5g9sk",
     "title": "Inherit, initial, unset, revert",
     "desc": "Peter-Paul Koch explains special CSS keywords you can use on any CSS property, where and when to use them to the greatest effect, and which ones should exist, but not.",
-    "handle": "@ppk",
-    "hash": ""
+    "handle": "@ppk"
   },
   {
     "link": "https://dougsillars.com/2021/06/21/gifs-on-the-web-a-new-way-to-bloat/",
     "slink": "https://bit.ly/3A6rk5R",
     "title": "GIFs on the web: A new way to bloat",
     "desc": "Doug Sillars shows how the Giphy platform loads an additional 300+ KB of code to your site when embedding GIFs.",
-    "handle": "@dougsillars",
-    "hash": ""
+    "handle": "@dougsillars"
   },
   {
     "link": "https://dev.to/madsstoumann/updating-a-25-year-old-website-42jm",
     "slink": "https://bit.ly/2U3Q8Ll",
     "title": "Updating A 25-Year-Old Website",
     "desc": "Mads Stoumann shows how old code is sometimes unavoidable, either because of scope or costs, but it can teach you a thing or two.",
-    "handle": "@madsstoumann",
-    "hash": ""
+    "handle": "@madsstoumann"
   },
   {
     "link": "https://github.com/matuzo/DevToolsSnippets",
     "slink": "https://bit.ly/2T3FoN6",
     "title": "DevToolsSnippets",
     "desc": "Manuel Matuzović shares a collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.",
-    "handle": "@mmatuzo",
-    "hash": ""
+    "handle": "@mmatuzo"
   },
   {
     "link": "https://canwe.dev/",
     "slink": "https://bit.ly/3A4QjGD",
     "title": "Can We",
     "desc": "Mehdi Merah shares a collection of websites focused on browser usage and features.",
-    "handle": "@meduzen",
-    "hash": ""
+    "handle": "@meduzen"
     }
   ]
 }, {
@@ -1756,64 +1633,56 @@
     "slink": "https://bit.ly/2UlXaLG",
     "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
     "desc": "Stephanie Eckles explains why JavaScript is necessary to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-    "handle": "@5t3ph @smashingmag",
-    "hash": ""
+    "handle": "@5t3ph @smashingmag"
   },
   {
     "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
     "slink": "https://bit.ly/2TT2TbK",
     "title": "Using the `outline` Property as a Collapsable Border",
     "desc": "Carter Li describes how the ‘outline’ property is automatically collapsed and how animating it doesn’t trigger layouts.",
-    "handle": "@css",
-    "hash": ""
+    "handle": "@css"
   },
   {
     "link": "https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40",
     "slink": "https://bit.ly/3j0NeBH",
     "title": "Giving a damn about accessibility",
     "desc": "Fabricio Teixeira and Sheri Byrne-Haber share a candid and practical accessibility handbook for designers.",
-    "handle": "@fabriciot @uxdesigncc",
-    "hash": ""
+    "handle": "@fabriciot @uxdesigncc"
   },
   {
     "link": "https://growth.design/case-studies/brave-browser-onboarding/",
     "slink": "https://bit.ly/3iV3wMf",
     "title": "Chrome vs Brave: How To Use Ethical Design To Win Customers",
     "desc": "Dan Benoni and Louis-Xavier Lavallee show how Brave browser uses ethical design in its onboarding and user retention strategy as a competitive advantage.",
-    "handle": "@DanBenoni  @growthdotdesign",
-    "hash": ""
+    "handle": "@DanBenoni  @growthdotdesign"
   },
   {
     "link": "https://code.visualstudio.com/blogs/2021/06/10/remote-repositories",
     "slink": "https://bit.ly/3xFFPvH",
     "title": "Remote Repositories",
     "desc": "VS Code introduces a new extension that enables working with source code repositories from GitHub quickly and safely inside VS Code without cloning it to your computer.",
-    "handle": "@BrigitMurtaugh @eamodio @code @microsoft",
-    "hash": ""
+    "handle": "@BrigitMurtaugh @eamodio @code @microsoft"
   },
   {
     "link": "https://dev.to/nikhil27b/5-amazing-api-for-your-project-270e",
     "slink": "https://bit.ly/3gNWy8Z",
     "title": "5 Amazing API For Your Project",
     "desc": "Nikhil Bobade shares 5 APIs to use on your next project.",
-    "handle": "@nikhilbobade27",
-    "hash": ""
+    "handle": "@nikhilbobade27"
   },
   {
     "link": "https://www.twitter.com/Insharamin/status/1405417453362970624",
     "slink": "https://bit.ly/3xBduX6",
     "title": "7 Cheat sheet website for Web Developers",
     "desc": "Insha Ramin shares some helpful free guides to HTML, CSS, API, React, and many more.",
-    "handle": "@Insharamin",
-    "hash": ""
+    "handle": "@Insharamin"
   },
   {
     "link": "https://ianlunn.github.io/Hover/",
     "slink": "https://bit.ly/3xrB0G6",
     "title": "Hover.css",
     "desc": "Ian Lunn writes and shares a collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images, and more.",
-    "handle": "@IanLunn",
-    "hash": ""
+    "handle": "@IanLunn"
     }
   ]
 }, {
@@ -1827,64 +1696,56 @@
     "slink": "https://bit.ly/3glSgXt",
     "title": "CSS size-adjust for @font-face",
     "desc": "Adam Argyle introduces size-adjust property that could adjust fonts, to normalize the document font sizes and prevent layout shift when switching between fonts.",
-    "handle": "@argyleink @ChromiumDev",
-    "hash": ""
+    "handle": "@argyleink @ChromiumDev"
   },
   {
     "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
     "slink": "https://bit.ly/3vlY9bE",
     "title": "Media Queries in Times of @container",
     "desc": "Max Böck tries to figure out will we need media queries at all with container queries on the horizon.",
-    "handle": "@mxbck",
-    "hash": ""
+    "handle": "@mxbck"
   },
   {
     "link": "https://css-tricks.com/targetblank/",
     "slink": "https://bit.ly/3xeZ6DG",
     "title": "target=blank",
     "desc": "Chris Coyier explains the difference between '_blank' and 'blank' in the target attribute.",
-    "handle": "@chriscoyier @css",
-    "hash": ""
+    "handle": "@chriscoyier @css"
   },
   {
     "link": "https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/",
     "slink": "https://bit.ly/3xoN8aX",
     "title": "The right tag for the job: why you should use semantic HTML",
     "desc": "Sophie Koonin shows why you should use semantic HTML tags and how they are announced in screen readers.",
-    "handle": "@type__error",
-    "hash": ""
+    "handle": "@type__error"
   },
   {
     "link": "https://blog.jim-nielsen.com/2021/css-system-colors/",
     "slink": "https://bit.ly/3pRsKMV",
     "title": "CSS System Colors",
     "desc": "Jim Nielsen shows how to use color-scheme property to make dark mode.",
-    "handle": "@jimniels",
-    "hash": ""
+    "handle": "@jimniels"
   },
   {
     "link": "https://gomakethings.com/the-mobile-web-is-the-web/",
     "slink": "https://bit.ly/3wnGeCF",
     "title": "The mobile web is the web",
     "desc": "Chris Ferdinandi explains why we should think of performance when building for the web.",
-    "handle": "@ChrisFerdinandi",
-    "hash": ""
+    "handle": "@ChrisFerdinandi"
   },
   {
     "link": "https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
     "slink": "https://bit.ly/3xjMjQt",
     "title": "Three Front-End Auditing Tools I Discovered Recently",
     "desc": "Stefan Judis shares three less-known tools that might help you optimize your page speed score.",
-    "handle": "@stefanjudis",
-    "hash": ""
+    "handle": "@stefanjudis"
   },
   {
     "link": "https://whocanuse.com/",
     "slink": "https://bit.ly/35g9Aa4",
     "title": "whocanuse",
     "desc": "A site that shows you who can use a combination of two colors.",
-    "handle": "@coreyginnivan",
-    "hash": ""
+    "handle": "@coreyginnivan"
     }
   ]
 }, {
@@ -1898,64 +1759,56 @@
     "slink": "https://bit.ly/2SY1pMK",
     "title": "25 Years of CSS",
     "desc": "Eric A. Meyer takes a look at notes about CSS that he wrote 25 years ago while attending the WWW5 conference.",
-    "handle": "@meyerweb",
-    "hash": ""
+    "handle": "@meyerweb"
   },
   {
     "link": "https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/",
     "slink": "https://bit.ly/3vYkMUC",
     "title": "Styling And Animating SVGs With CSS",
     "desc": "Sara Soueidan explains why it is essential to optimize your SVGs, why put in the effort to make them accessible, and how to style and animate them with CSS.",
-    "handle": "@SaraSoueidan",
-    "hash": ""
+    "handle": "@SaraSoueidan"
   },
   {
     "link": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
     "slink": "https://bit.ly/3fTtbTt",
     "title": "HTML and CSS techniques to reduce your JavaScript",
     "desc": "Anthony Ricaud explores native solutions that are available to most of your users and don’t require JavaScript.",
-    "handle": "@anthony_ricaud",
-    "hash": ""
+    "handle": "@anthony_ricaud"
   },
   {
     "link": "https://a11y-collective.com/blog/the-perfect-link/",
     "slink": "https://bit.ly/2T5Wr0j",
     "title": "The perfect link",
     "desc": "Rian Rietveld tries to answer how do we write, design, and code a link that works for everyone on every device.",
-    "handle": "@RianRietveld",
-    "hash": ""
+    "handle": "@RianRietveld"
   },
   {
     "link": "https://dev.to/eevajonnapanula/don-t-develop-just-for-yourself-a-developer-s-checklist-to-accessibility-545k",
     "slink": "https://bit.ly/2T3p7ag",
     "title": "Don't Develop Just for Yourself - A Developer's Checklist to Accessibility",
     "desc": "Eevis Panula provides information about accessibility and what things to check manually after automated testing.",
-    "handle": "@EevisPanula",
-    "hash": ""
+    "handle": "@EevisPanula"
   },
   {
     "link": "https://blog.eleftheriabatsou.com/amp/color-psychology-in-web-design",
     "slink": "https://bit.ly/34YZbzf",
     "title": "Color psychology in web design",
     "desc": "Eleftheria Batsou shares a quick guide about picking the “right” color for the web-based on psychology.",
-    "handle": "@BatsouElef",
-    "hash": ""
+    "handle": "@BatsouElef"
   },
   {
     "link": "https://wesbos.com/javascript",
     "slink": "https://bit.ly/3cnXAar",
     "title": "JavaScript Notes & Reference",
     "desc": "Wes Bos shares helpful notes based on his Beginner JavaScript Video Course.",
-    "handle": "@wesbos",
-    "hash": ""
+    "handle": "@wesbos"
   },
   {
     "link": "https://compressimage.io/",
     "slink": "https://bit.ly/3uWovkj",
     "title": "Compress Image Online",
     "desc": "Compress JPG and PNG images at light speed with a Browser-based Image compressor. Private, Works Offline, No Limits, 0 carbon emission.",
-    "handle": "@towfiqi",
-    "hash": ""
+    "handle": "@towfiqi"
     }
   ]
 }, {
@@ -1969,64 +1822,56 @@
     "slink": "https://bit.ly/34BEyZK",
     "title": "CSS Container Queries For Designers",
     "desc": "Ahmad Shadeed explores designing with container queries in mind and showing common use cases.",
-    "handle": "@shadeed9",
-    "hash": ""
+    "handle": "@shadeed9"
   },
   {
     "link": "https://web.dev/new-responsive/",
     "slink": "https://bit.ly/2R7hDCB",
     "title": "The new responsive: Web design in a component-driven world",
     "desc": "Una Kravets writes about controlling macro and micro layouts in a new era of responsive web design.",
-    "handle": "@una @ChromiumDev",
-    "hash": ""
+    "handle": "@una @ChromiumDev"
   },
   {
     "link": "https://www.scottohara.me/blog/2021/05/28/disabled-links.html",
     "slink": "https://bit.ly/3i1gszL",
     "title": "Disabling a link",
     "desc": "Scott O’Hara lists the reasons for disabling a link and describes how to do it without JavaScript.",
-    "handle": "@scottohara",
-    "hash": ""
+    "handle": "@scottohara"
   },
   {
     "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
     "slink": "https://bit.ly/3uBJkkT",
     "title": "fit-content and fit-content()",
     "desc": "Peter-Paul Koch looks at fit-content and fit-content(), which are special values for width and grid definitions.",
-    "handle": "@ppk",
-    "hash": ""
+    "handle": "@ppk"
   },
   {
     "link": "https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
     "slink": "https://bit.ly/34E7vUV",
     "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
     "desc": "Barry Pollard describes upcoming font options which may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
-    "handle": "@tunetheweb @smashingmag",
-    "hash": ""
+    "handle": "@tunetheweb @smashingmag"
   },
   {
     "link": "https://www.ditdot.hr/en/boost-rankings-with-core-web-vitals",
     "slink": "https://bit.ly/2TwNHkf",
     "title": "Boost Your Rankings With Core Web Vitals",
     "desc": "Ekaterina Vujasinović and Nikola Petljak show you how to get ready for the search algorithm changes and optimize your website for better rankings.",
-    "handle": "@Ekaterina_Vu @ditdot_info",
-    "hash": ""
+    "handle": "@Ekaterina_Vu @ditdot_info"
   },
   {
     "link": "https://inclusivedesignprinciples.org/",
     "slink": "https://bit.ly/3wEaXLk",
     "title": "Inclusive Design Principles",
     "desc": "Henny Swan, Ian Pouncey, Heydon Pickering, and Léonie Watson share a list of principles about designing for people’s needs with permanent, temporary, situational, or changing disabilities.",
-    "handle": "@iheni @IanPouncey @heydonworks @LeonieWatson",
-    "hash": ""
+    "handle": "@iheni @IanPouncey @heydonworks @LeonieWatson"
   },
   {
     "link": "https://www.youtube.com/watch?app=desktop&v=2AVyXlABwbU&feature=youtu.be",
     "slink": "https://bit.ly/3fBmtBz",
     "title": "Landing Your Dream Developer Job with Emma Bostian",
     "desc": "Emma Bostian talks about her journey from her early days as an uncertain college graduate to her work at IBM to what she’s doing now as a tech influencer, podcaster, and Spotify engineer.",
-    "handle": "@EmmaBostian",
-    "hash": ""
+    "handle": "@EmmaBostian"
     }
   ]
 }, {
@@ -3959,8 +3804,7 @@
     "link": "https://bit.ly/32rexM6",
     "title": "Technical debt as a lack of understanding",
     "desc": "Dave Rupert explores and explains all about technical debt in web development.",
-    "handle": "@davatron5000",
-    "hash": ""
+    "handle": "@davatron5000"
   },
   {
     "link": "https://bit.ly/3keagBQ",
