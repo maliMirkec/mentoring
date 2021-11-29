@@ -25,11 +25,11 @@ ${item.desc}
 `
 
       list3 += `
-👉 ${item.title}
+${item.desc}
 
-💬 ${item.desc}
-
-${item.link} ${!item.handle ? '' : item.handle.indexOf('@') !== -1 ? 'via ' + item.handle : 'by ' + item.handle}
+Link: ${item.link}
+Title: ${item.title}
+${item.handle ? 'Author: ' + item.handle : ''}
 
 -------------
 `
@@ -87,9 +87,16 @@ ${list2}
   console.log('UI Twitter')
   console.log('~~~~~~~~~~~~~')
 
-  const arr1 = doc[0].list.concat(doc[0].promotion).map(d => d.handle.split(' ')).flat().sort()
-  const arr2 = arr1.filter((d1, d2) => {
-    return arr1.indexOf(d1) == d2
+  let arr1 = doc[0].list
+
+  if(doc[0].promotion) {
+    arr1 = arr1.concat(doc[0].promotion)
+  }
+
+  const arr2 = arr1.map(d => d.handle.split(' ')).flat().sort()
+
+  const arr3 = arr2.filter((d1, d2) => {
+    return arr2.indexOf(d1) == d2
   })
 
   console.log(`
@@ -97,7 +104,7 @@ ${list2}
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${arr2.join(' ')}
+Featuring ${arr3.join(' ')}
 
 -------------`)
 
@@ -108,7 +115,7 @@ Featuring ${arr2.join(' ')}
 
 https://mentor.silvestar.codes/reads/${doc[0].date}/
 
-Featuring ${arr2.join(' ')}
+Featuring ${arr3.join(' ')}
 `)
 
   if(!doc[0].slink || doc[0].slink === '') {
