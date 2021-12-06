@@ -41,7 +41,7 @@
         "handle": "@bramusblog @bramus"
       },
       {
-        "link": "https://mobile.twitter.com/dan_abramov/status/1466428885575381008",
+        "link": "https://www.twitter.com/dan_abramov/status/1466428885575381008",
         "slink": "https://bit.ly/3Gds8Ik",
         "title": "Dan Abramov on Interview Tour",
         "desc": "Ben Awad shares an interview with Dan Abramov where Dan answers questions about let vs. const, centering a div and computer science.",
@@ -278,7 +278,7 @@
       "handle": "@therealadam"
     }, {
       "type": "Just for fun",
-      "link": "https://mobile.twitter.com/sumusiriwardana/status/1459019794707931141",
+      "link": "https://www.twitter.com/sumusiriwardana/status/1459019794707931141",
       "slink": "https://bit.ly/3kBjTgR",
       "title": "Naming is hard",
       "desc": "Coming up with a variable name is more challenging than learning JavaScript! 😂",
@@ -350,7 +350,7 @@
     ],
     "promotion": [{
       "type": "Popular on Twitter",
-      "link": "https://mobile.twitter.com/brad_frost/status/1456299141970206724",
+      "link": "https://www.twitter.com/brad_frost/status/1456299141970206724",
       "slink": "https://bit.ly/3bOB4qM",
       "title": "What HTML tag do you use to mark up Kicker/Eyebrow/Whatever?",
       "desc": "Brad Frost asks questions about those text elements that appear above the title but are styled like standard text or smaller.",
@@ -508,7 +508,7 @@
     ],
     "promotion": [{
       "type": "Popular on Twitter",
-      "link": "https://mobile.twitter.com/jensimmons/status/1452374028249862147",
+      "link": "https://www.twitter.com/jensimmons/status/1452374028249862147",
       "slink": "https://bit.ly/310iTw0",
       "title": "For the last 5+ years, web developers have been frustrated with CSS. Why?",
       "desc": "Jen Simmons asks why developers are ranting and hating CSS.",
@@ -588,7 +588,7 @@
       },
       {
         "type": "Popular on Twitter",
-        "link": "https://mobile.twitter.com/dan_abramov/status/1447710863960551433",
+        "link": "https://www.twitter.com/dan_abramov/status/1447710863960551433",
         "slink": "https://bit.ly/3BS1H9D",
         "title": "A universal date format that works for everyone",
         "desc": "Dan Abramov shares a date format that might be a solution to an evergreen problem with dates.",
