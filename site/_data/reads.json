@@ -1,4 +1,84 @@
 [{
+    "date": "2021-12-13",
+    "link": "https://mentor.silvestar.codes/reads/2021-12-13/",
+    "slink": "",
+    "og": "https://mentor.silvestar.codes/gfx/jpg/ui-dev-newsletter-87.jpg",
+    "description": "Defensive CSS, the “Other” form option, better ping app, and more.",
+    "grammarly": "true",
+    "list": [{
+        "link": "https://ishadeed.com/article/defensive-css/",
+        "slink": "",
+        "title": "Defensive CSS",
+        "desc": "Ahmad Shadeed shares a collection of snippets that can help you write CSS that is protected, which will lead to fewer issues in the future.",
+        "handle": "@shadeed9"
+      },
+      {
+        "link": "https://hiddedevries.nl/en/blog/2021-12-05-how-many-people-with-disabilities-use-our-site",
+        "slink": "",
+        "title": "How many people with disabilities use our site?",
+        "desc": "Hidde de Vries explains why we should always build accessible sites, no matter how many people with disabilities use them.",
+        "handle": "@hdv"
+      },
+      {
+        "link": "https://adrianroselli.com/2021/12/under-engineered-dependency-questions.html",
+        "slink": "",
+        "title": "Under-Engineered Dependency Questions",
+        "desc": "Adrian Roselli describes how selecting the “Other” option in forms could be handled with only HTML and CSS in an accessible way.",
+        "handle": "@aardrian"
+      },
+      {
+        "link": "https://fonts.google.com/knowledge",
+        "slink": "",
+        "title": "Fonts Knowledge",
+        "desc": "Google Fonts team shares a library of original guides to the world of typography produced in collaboration with typographic experts from around the world.",
+        "handle": "@googlefonts"
+      },
+      {
+        "link": "https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/",
+        "slink": "",
+        "title": "Why you should check-in your node dependencies",
+        "desc": "Jack Franklin explains some significant benefits to including the node_modules folder in the repository.",
+        "handle": "@Jack_Franklin"
+      },
+      {
+        "link": "https://github.blog/2021-12-08-improving-github-code-search/",
+        "slink": "",
+        "title": "Improving GitHub code search",
+        "desc": "Pavel Avgustinov announces a technology preview for substantial improvements to searching code on GitHub.",
+        "handle": "@pavgustinov @github"
+      },
+      {
+        "link": "https://designcember.com/",
+        "slink": "",
+        "title": "Designcember",
+        "desc": "Chrome Developers share a UI development treat every day for you to celebrate the new responsive web of tomorrow.",
+        "handle": "@ChromiumDev"
+      },
+      {
+        "link": "https://github.com/orf/gping",
+        "slink": "",
+        "title": "gping",
+        "desc": "Tom Forbes shares a terminal app that is best described as “ping, but with a graph.”",
+        "handle": ""
+      }
+    ],
+    "promotion": [{
+      "type": "Self-promotion",
+      "link": "https://www.silvestar.codes/articles/how-i-learn-things-after-ten-years/",
+      "slink": "",
+      "title": "How I learn things after 10 years",
+      "desc": "As frontend developers, we are constantly learning, but I do it differently than before when I was starting.",
+      "handle": ""
+    },
+    {
+      "type": "Freebie",
+      "link": "https://www.smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
+      "slink": "",
+      "title": "Free Christmas Icon Sets And Vector Elements",
+      "desc": "Cosima Mielke shares some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free.",
+      "handle": "@smashingmag"
+    }]
+  }, {
     "date": "2021-12-06",
     "link": "https://mentor.silvestar.codes/reads/2021-12-06/",
     "slink": "https://bit.ly/3rFfJJf",
@@ -2557,7 +2637,7 @@
         "slink": "https://bit.ly/39KFr5n",
         "title": "Accessible front-end components: claims vs reality",
         "desc": "Hidde de Vries lists many things you can look at if you consider third-party 'accessible components'.",
-        "handle": "",
+        "handle": "@hdv",
         "hash": "#a11y #accessibility"
       },
       {

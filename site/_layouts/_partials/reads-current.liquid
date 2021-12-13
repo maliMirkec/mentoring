@@ -13,12 +13,14 @@
         {% for resource in thisRead.list %}
           <li>
             <div>
-              {% if resource.slink %}
+              {% if resource.slink or resource.link %}
                 <p>
-                  <a class="href" href="{{ resource.slink }}" target="_blank" rel="noopener">{% if resource.title %}{{ resource.title }}{% else %}{{ resource.link }}{% endif %}</a>
+                  <a class="href" href="{% if resource.slink %}{{ resource.slink }}{% elsif resource.link %}{{ resource.slink }}
+                    {% endif %}" target="_blank" rel="noopener">{% if resource.title %}{{ resource.title }}{% else %}{{ resource.link }}{% endif %}</a>
                 </p>
                 <p>
-                  <a class="href" href="{{ resource.slink }}" target="_blank" rel="noopener"><small>{{ resource.link }}</small></a>
+                  <a class="href" href="{% if resource.slink %}{{ resource.slink }}{% elsif resource.link %}{{ resource.slink }}
+                    {% endif %}" target="_blank" rel="noopener"><small>{{ resource.link }}</small></a>
                 </p>
               {% else %}
                 <p>

@@ -19,7 +19,7 @@ try {
       </li>`
 
       list2 += `
-[${item.title}](${item.slink})
+[${item.title}](${item.slink || item.link})
 ${item.desc}
 
 `
@@ -46,7 +46,7 @@ ${item.handle ? 'Author: ' + item.handle : ''}
       list2 += `
 ## ${item.type}
 
-[${item.title}](${item.slink})
+[${item.title}](${item.slink || item.link})
 ${item.desc}
 `
   })
