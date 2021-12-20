@@ -9,7 +9,7 @@ try {
   let list1 = '';
   let list2 = '';
   let list3 = '';
-  let promo = '';
+  let list4 = '';
 
   if(doc[0].list && doc[0].list.length) {
     doc[0].list.forEach(item => {
@@ -33,6 +33,9 @@ ${item.handle ? 'Author: ' + item.handle : ''}
 
 -------------
 `
+
+      list4 += `
+${item.desc}`
     })
   }
 
@@ -49,6 +52,8 @@ ${item.handle ? 'Author: ' + item.handle : ''}
 [${item.title}](${item.slink || item.link})
 ${item.desc}
 `
+      list4 += `
+${item.desc}`
   })
   }
 
@@ -117,6 +122,10 @@ https://mentor.silvestar.codes/reads/${doc[0].date}/
 
 Featuring ${arr3.join(' ')}
 `)
+
+console.log(`-------------
+
+${list4}`);
 
   if(!doc[0].slink || doc[0].slink === '') {
     console.error('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nShorten the links!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n')
