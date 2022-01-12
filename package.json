@@ -41,7 +41,7 @@
     "gulp-wait": "^0.0.2",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.1",
-    "markdown-it": "^12.0.4",
+    "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^7.0.1",
     "modularscale-sass": "^3.0.10",
     "normalize.css": "^8.0.1",
