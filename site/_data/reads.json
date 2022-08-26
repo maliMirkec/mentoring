@@ -135,21 +135,22 @@
       }
     ],
     "promotion": [{
-      "type": "Self-promotion",
-      "link": "https://www.silvestar.codes/articles/how-i-learn-things-after-ten-years/",
-      "slink": "https://bit.ly/3lY4S9O",
-      "title": "How I learn things after 10 years",
-      "desc": "As frontend developers, we are constantly learning, but I do it differently than before when I was starting.",
-      "handle": ""
-    },
-    {
-      "type": "Freebie",
-      "link": "https://www.smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
-      "slink": "https://bit.ly/3IBLRn8",
-      "title": "Free Christmas Icon Sets And Vector Elements",
-      "desc": "Cosima Mielke shares some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free.",
-      "handle": "@smashingmag"
-    }]
+        "type": "Self-promotion",
+        "link": "https://www.silvestar.codes/articles/how-i-learn-things-after-ten-years/",
+        "slink": "https://bit.ly/3lY4S9O",
+        "title": "How I learn things after 10 years",
+        "desc": "As frontend developers, we are constantly learning, but I do it differently than before when I was starting.",
+        "handle": ""
+      },
+      {
+        "type": "Freebie",
+        "link": "https://www.smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
+        "slink": "https://bit.ly/3IBLRn8",
+        "title": "Free Christmas Icon Sets And Vector Elements",
+        "desc": "Cosima Mielke shares some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free.",
+        "handle": "@smashingmag"
+      }
+    ]
   }, {
     "date": "2021-12-06",
     "link": "https://mentor.silvestar.codes/reads/2021-12-06/",
