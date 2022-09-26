@@ -1,3 +1,15 @@
 # Redirects from what the browser requests to what we serve
 
 /reads/2021-09-04/ /reads/2021-10-04/ 301
+
+# www migration
+
+/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/start 301!
+/about/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/about/ 301!
+/apply/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/apply/ 301!
+/reads/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/ 301!
+/reads/* https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/:splat 301!
+/resources/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/resources/ 301!
+/slides/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/slides/ 301!
+/tips/ https://www.silvestar.codes/side-projects/ui-dev-mentoring/tips/ 301!
+/rss.xml/ https://www.silvestar.codes/rss2.xml 301!
