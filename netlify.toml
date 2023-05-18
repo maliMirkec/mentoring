@@ -13,35 +13,3 @@ ID = "fc946949-bbfa-4d29-aa90-75a9103ca20d"
 
 [context.branch-deploy]
   command = "npm run preview"
-
-[[plugins]]
-  package = "@netlify/plugin-sitemap"
-
-  [plugins.inputs]
-
-    # The base dir of the project
-    buildDir = "public"
-
-    # Exclude files from sitemap
-    exclude = [
-      "./404/",
-      "./404.html"
-    ]
-
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
-
-  [plugins.inputs]
-
-    # The base url of your site (optional, default = main URL set in Netlify)
-    baseUrl = "https://mentor.silvestar.codes"
-
-    # Path to the sitemap URL (optional, default = /sitemap.xml)
-    sitemapPath = "/sitemap.xml"
-
-    # Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
-    providers = [
-      "google",
-      "bing",
-      "yandex"
-    ]
